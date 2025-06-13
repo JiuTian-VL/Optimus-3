@@ -20,7 +20,7 @@
 <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
 <br/>
 <div align="center">
-    <a href="https://arxiv.org/abs/2502.19902" target="_blank">
+    <a href="https://arxiv.org/abs/2506.10357" target="_blank">
     <img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
     <a href="https://cybertronagent.github.io/Optimus-3.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Project-Optimus--3-9cf" alt="Project Page"></a>
