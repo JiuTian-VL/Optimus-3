@@ -84,7 +84,7 @@ cd OptimusGUI
 Some basic python packages, e.g., python>=3.11 pyqt6 requests numpy...
 
 # Communication IP settings
-input the ip of your server in main.py (line 11)
+input the ip of your server in main.py (line 11) and server/api.py (line 12)
 ```
 
 ### How to run
