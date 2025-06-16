@@ -26,6 +26,10 @@
 </div>
 </div>
 
+## :new: Updates
+- [06/2025] :fire: [Project page](https://cybertronagent.github.io/Optimus-3.github.io/) released.
+- [06/2025] :fire: [Arxiv paper](https://arxiv.org/abs/2506.10357) released.
+
 ## :rocket: Optimus-3 
 Demonstration of Optimus-3’s capabilities as a generalist agent in Minecraft. It can perform long-horizon task planning, captioning, embodied QA, grounding, low-level action generation, and reflection in an interactive manner. All of these capabilities are seamlessly integrated into a unified end-to-end architecture, enabling robust and coherent performance across diverse task scenarios. 
 <img src="./assets/fig1.png" >
@@ -46,6 +50,19 @@ Table 1: Main Result of Optimus-3 on Long-Horizon tasks.
 
 Table 2: Main Result of Optimus-3 on Planning, Captioning, Embodied QA, Grounding, and Reflection.
 <img src="./assets/table2.png" >
+
+## :hugs: Citation
+
+If you find this work useful for your research, please kindly cite our paper:
+
+```
+@article{li2025optimus,
+  title={Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts},
+  author={Li, Zaijing and Xie, Yuquan and Shao, Rui and Chen, Gongwei and Guan, Weili and Jiang, Dongmei and Nie, Liqiang},
+  journal={arXiv preprint arXiv:2506.10357},
+  year={2025}
+}
+```
 
 
 
