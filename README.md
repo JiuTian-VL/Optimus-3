@@ -31,14 +31,17 @@
 - [06/2025] :fire: [Arxiv paper](https://arxiv.org/abs/2506.10357) released.
 
 ## :rocket: Optimus-3 
+
 Demonstration of Optimus-3’s capabilities as a generalist agent in Minecraft. It can perform long-horizon task planning, captioning, embodied QA, grounding, low-level action generation, and reflection in an interactive manner. All of these capabilities are seamlessly integrated into a unified end-to-end architecture, enabling robust and coherent performance across diverse task scenarios. 
 <img src="./assets/fig1.png" >
 
 ## :wrench: Data Generation Pipeline
+
 Given a task pool, we utilize a knowledge graph to generate task plans, forming the planning dataset. These plans are then used as instructions for STEVE-1, which interacts with the environment to produce the action dataset. During this process, we randomly sample images and employ expert models with environmental feedback to generate the captioning, embodied QA, and grounding datasets.
 <img src="./assets/fig3.png" >
 
 ## :balloon: Framework
+
 A: The architecture of Optimus-3, which includes a task router that selects a specific task expert for each query, a ViT for visual encoding, and a MoE LLM for generating responses and low-level actions. Given a long-horizon task, it can generate a feasible plan and then execute the sub-goals sequentially. B: The proposed Multimodal Reasoning-Augmented Reinforcement Learning effectively enhances the agent's performance. C: Performance comparison of Optimus-3 against current task-specific SOTA agents, GPT-4o, and the original backbone Qwen2.5-VL. 
 <img src="./assets/fig2.png" >
 
