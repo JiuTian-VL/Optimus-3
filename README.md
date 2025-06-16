@@ -1,7 +1,7 @@
 <div align="center">
 <h2 align="center">
    <img src="./assets/optimus3.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>Optimus-3: Towards Generalist Multimodal Minecraft Agents
-     <br />  with Scalable Task Experts
+     <br />  with Scalable Task Experts </b>
 </h2>
 <div>
 <a target="_blank" href="https://scholar.google.com/citations?user=TDBF2UoAAAAJ&hl=en&oi=ao">Zaijing&#160;Li</a><sup>1 2</sup>,
