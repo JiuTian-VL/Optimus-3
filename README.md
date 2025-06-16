@@ -31,7 +31,7 @@
 - [06/2025] :fire: [Arxiv paper](https://arxiv.org/abs/2506.10357) released.
 
 
-## Play with Optimus-3
+## :smile: Play with Optimus-3
 We provide an interactive interface that enables users to interact with Optimus-3 in Minecraft in real time through a GUI. This is a framework with a separation between the server and client. You can deploy the model on the server (we strongly recommend a GPU with at least 32GB of VRAM), and then initiate interaction with the server from your local machine at any time.
 
 ### Server
