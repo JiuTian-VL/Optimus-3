@@ -65,7 +65,9 @@ uv pip install flash-attn --no-build-isolation
 
 # download checkpoints
 mkdir checkpoint
-download Optimus-3 checkpoint in 'checkpoint'
+download Optimus-3 mllm (https://huggingface.co/MinecraftOptimus/Optimus-3) into folder 'checkpoint'
+download Optimus-3 action head (https://huggingface.co/MinecraftOptimus/Optimus-3-ActionHead) into folder 'checkpoint'
+download Optimus-3 task router (https://huggingface.co/MinecraftOptimus/Optimus-3-Task-Router) into folder 'checkpoint'
 change the checkpoint path in gui_server.py (line 229)
 
 # Communication IP settings
@@ -92,7 +94,6 @@ input the ip of your server in main.py (line 11) and server/api.py (line 12)
 
 # start the server
 python gui_server.py
-
 
 # start the client
 python main.py
