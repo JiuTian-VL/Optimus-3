@@ -27,7 +27,8 @@
 </div>
 
 ## :new: Updates
-- [06/2025] :fire: [Project page](https://cybertronagent.github.io/Optimus-3.github.io/) released.
+- [06/2025] :fire: We release the Optimus-3-preview on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3).
+- [06/2025] :fire: [Project page](https://cybertronagent.github.io/Optimus-3.github.io/) and code released.
 - [06/2025] :fire: [Arxiv paper](https://arxiv.org/abs/2506.10357) released.
 
 
