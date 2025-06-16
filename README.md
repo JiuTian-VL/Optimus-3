@@ -1,4 +1,3 @@
-
 <div align="center">
 <h2 align="center">
    <img src="./assets/optimus3.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>Optimus-3: Towards Generalist Multimodal Minecraft Agents
