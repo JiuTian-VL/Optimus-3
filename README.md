@@ -30,6 +30,78 @@
 - [06/2025] :fire: [Project page](https://cybertronagent.github.io/Optimus-3.github.io/) released.
 - [06/2025] :fire: [Arxiv paper](https://arxiv.org/abs/2506.10357) released.
 
+
+## Play with Optimus-3
+We provide an interactive interface that enables users to interact with Optimus-3 in Minecraft in real time through a GUI. This is a framework with a separation between the server and client. You can deploy the model on the server (we strongly recommend a GPU with at least 32GB of VRAM), and then initiate interaction with the server from your local machine at any time.
+
+### Server
+Server are deployed on machines with a GPU with at least 28GB of VRAM.
+```shell
+# install uv
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# download the repo
+git clone https://github.com/JiuTian-VL/Optimus-3.git
+cd Optimus-3
+
+# environment setting
+uv sync
+source .venv/bin/activate
+uv pip install -r requirements.txt
+
+# Minestudio setting
+git clone https://github.com/CraftJarvis/MineStudio.git
+cd MineStudio
+uv pip install -e .
+cd ..
+
+# install LLaMA-Factory
+git clone https://github.com/hiyouga/LLaMA-Factory.git
+cd LLaMA-Factory
+uv pip install -e ".[torch,metrics]"
+
+# install flash-attention
+uv pip install flash-attn --no-build-isolation
+
+# download checkpoints
+mkdir checkpoint
+download Optimus-3 checkpoint in 'checkpoint'
+change the checkpoint path in gui_server.py (line 229)
+
+# Communication IP settings
+input the ip of your server in gui_server.py (line 459)
+```
+
+### Client
+The client is deployed on your local machine.
+```shell
+
+# download the repo
+git clone https://github.com/lizaijing/OptimusGUI.git
+cd OptimusGUI
+
+# Configuring the python environment
+Some basic python packages, e.g., python>=3.11 pyqt6 requests numpy...
+
+# Communication IP settings
+input the ip of your server in main.py (line 11)
+```
+
+### How to run
+```shell
+
+# start the server
+python gui_server.py
+
+
+# start the client
+python main.py
+
+# note 
+If you encounter an error about the 'collection', change collections to collections.abc in the corresponding location.
+```
+
+
 ## :rocket: Optimus-3 
 
 Demonstration of Optimus-3’s capabilities as a generalist agent in Minecraft. It can perform long-horizon task planning, captioning, embodied QA, grounding, low-level action generation, and reflection in an interactive manner. All of these capabilities are seamlessly integrated into a unified end-to-end architecture, enabling robust and coherent performance across diverse task scenarios. 
