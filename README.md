@@ -52,7 +52,7 @@ source .venv/bin/activate
 uv pip install -r requirements.txt
 
 # Minestudio setting
-git clone https://github.com/CraftJarvis/MineStudio.git
+# We have made some modifications to the original MineStudio. Please use the version we provided.
 cd MineStudio
 uv pip install -e .
 cd ..
