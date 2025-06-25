@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @p minecraft:crossbow 1
+- /give @p minecraft:arrow 64
+- /summon minecraft:phantom ~2 ~1 ~5
+- /time set night
+- /give @p minecraft:torch 16
+defaults:
+- base
+- _self_
+text: Use a bow or crossbow to shoot a phantom out of the sky.

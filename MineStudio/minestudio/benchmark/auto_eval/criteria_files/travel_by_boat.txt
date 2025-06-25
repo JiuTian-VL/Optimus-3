@@ -1,0 +1,20 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent enters the wooden boat  
+ - whether the agent navigates the boat through water  
+ - whether the agent reaches a designated endpoint or travels a certain distance  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. getting out of the boat unnecessarily while traveling  
+ - e.g. repeatedly paddling without clear direction  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - e.g. whether the agent recognizes when they are stuck or moving in the wrong direction and attempts to correct it  
+ - whether the agent is aware of obstacles in the water and adjusts their path accordingly  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. exploring different routes or paths while traveling  
+ - e.g. using the boat for additional tasks, such as fishing or gathering resources while on the water  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to complete the task falls within a reasonable range  
+ - whether effective navigation strategies were employed to avoid obstacles or minimize delays  

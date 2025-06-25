@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:oak_planks 10
+- /setblock ~3 ~ ~ minecraft:water
+- /summon boat
+defaults:
+- base
+- _self_
+text: Build and use a boat to explore water bodies in Minecraft.
+reference_video: explore_boat

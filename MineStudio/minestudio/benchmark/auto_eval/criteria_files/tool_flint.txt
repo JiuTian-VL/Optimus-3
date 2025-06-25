@@ -1,0 +1,23 @@
+**Task Progress: the key factors/steps for completing the task**
+ - whether the agent obtains flint and steel
+ - whether the agent approaches a tree
+ - whether the agent uses flint and steel to set fire to the tree
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. using flint and steel on non-target blocks, such as ground or stones
+ - e.g. wandering aimlessly away from trees
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether agents recognize when they accidentally set fire to the wrong object and correct their action 
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. setting multiple trees on fire simultaneously
+ - e.g. creating a pattern or specific arrangement of burning trees
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent correctly uses flint and steel to set fires on the trees

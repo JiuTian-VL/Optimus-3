@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @s minecraft:bread 32
+- /give @s minecraft:iron_pickaxe
+defaults:
+- base
+- _self_
+text: Explore and climb a mountain.
+reference_video: explore_climb

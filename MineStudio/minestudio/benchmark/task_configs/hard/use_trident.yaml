@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @p minecraft:trident 1
+- /effect give @a minecraft:strength 99999 1 true
+- /summon minecraft:skeleton ~3 ~ ~
+defaults:
+- base
+- _self_
+text: Use a trident to attack and experience its unique abilities.

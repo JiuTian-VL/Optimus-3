@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:iron_block 15
+- /give @s minecraft:carved_pumpkin 2
+- /give @s minecraft:snow_block 15
+- /setblock ~2 ~ ~ minecraft:grass_block
+defaults:
+- base
+- _self_
+text: Build golems to protect your area from hostile mobs.
+reference_video: build_golems

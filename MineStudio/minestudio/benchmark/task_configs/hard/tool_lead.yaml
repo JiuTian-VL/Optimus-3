@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:string 10
+- /give @s minecraft:slime_ball 5
+- /give @s minecraft:crafting_table
+- /time set day
+defaults:
+- base
+- _self_
+text: Create a lead using string and slimeball to guide and tether mobs.

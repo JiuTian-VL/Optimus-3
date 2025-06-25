@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @s minecraft:obsidian 20
+- /give @s minecraft:flint_and_steel
+- /give @p minecraft:potion{Potion:"minecraft:harming"} 1
+defaults:
+- base
+- _self_
+text: drink harming potion

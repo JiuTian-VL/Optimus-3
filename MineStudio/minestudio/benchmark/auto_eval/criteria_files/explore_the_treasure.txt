@@ -1,0 +1,25 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent enters the villager's home  
+ - whether the agent locates and approaches the chest  
+ - whether the agent opens the chest  
+ - whether the agent acquires the treasure from the chest  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. breaking blocks inside the villager's home unnecessarily  
+ - e.g. interacting with unrelated objects instead of focusing on the chest  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - e.g. whether the agent realizes it is trying to open a locked chest and seeks a key or alternative method  
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product, such as successfully acquiring the treasure after initial failures  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. using stealth or distraction to avoid alerting the villager  
+ - e.g. exploring multiple homes to find additional treasure or items  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to complete the task falls within a reasonable range  
+ - whether the agent effectively navigates the village to reach the chest without unnecessary delays or backtracking  
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**  
+ - e.g. whether the agent uses tools appropriately to access the chest if needed  
+ - e.g. whether the agent utilizes any items acquired from the chest effectively after obtaining the treasure  

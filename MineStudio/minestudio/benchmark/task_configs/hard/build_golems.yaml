@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:iron_block 10
+- /give @s minecraft:carved_pumpkin 5
+- /give @s minecraft:snow_block 5
+- /summon minecraft:iron_golem ~2 ~ ~
+- /setblock ~1 ~ ~ minecraft:crafting_table
+defaults:
+- base
+- _self_
+text: Build golems using the appropriate materials and tools.

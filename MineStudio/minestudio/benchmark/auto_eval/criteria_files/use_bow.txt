@@ -1,0 +1,25 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent equips the bow  
+ - whether the agent draws the bowstring  
+ - whether the agent aims at a target  
+ - whether the agent releases the arrow to shoot  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. firing arrows at random objects or inappropriately wasting arrows  
+ - e.g. repeatedly drawing and releasing the bow without aiming  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - whether the agent recognizes if the arrow misses the target and adjusts aim accordingly  
+ - whether the agent acknowledges the need to re-draw the bow if the arrow didn’t shoot properly  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. attempting to shoot at different targets or distances  
+ - e.g. using different arrows (e.g., tipped arrows) or aiming for creative shots (like hitting a moving target)  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to complete the task falls within a reasonable range  
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors in the shooting process  
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**  
+ - whether the agent uses the correct type of bow and arrows appropriate for the task  
+ - whether the agent manages the inventory effectively, ensuring that the bow and arrows are accessible for use  

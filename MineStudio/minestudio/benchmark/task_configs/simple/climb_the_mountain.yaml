@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @s minecraft:ladder 20
+- /give @s minecraft:dirt 64
+- /execute as @p at @s run fill ~2 ~ ~ ~2 ~10 ~2 dirt
+defaults:
+- base
+- _self_
+text: Climb the mountain to reach the top.

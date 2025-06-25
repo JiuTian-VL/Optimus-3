@@ -1,0 +1,11 @@
+custom_init_commands:
+- /give @s minecraft:bucket 3
+- /give @s minecraft:sugar 5
+- /give @s minecraft:wheat 5
+- /give @s minecraft:egg 3
+- /give @s minecraft:crafting_table 1
+- /setblock ~2 ~ ~2 minecraft:sugar_cane
+defaults:
+- base
+- _self_
+text: Craft a cake using ingredients gathered from various sources.

@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:shears
+- /give @s minecraft:water_bucket 5
+- /setblock ~2 ~1 ~ minecraft:seagrass
+- /give @s minecraft:tropical_fish_spawn_egg 10
+defaults:
+- base
+- _self_
+text: Collect seagrass from underwater locations.

@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent obtain a diamond sword
+ - whether the agent obtain the necessary enchantment items (e.g., lapis lazuli)
+ - whether the agent locate an enchantment table
+ - whether the agent successfully enchant the diamond sword
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. repeatedly opening and closing the inventory without purpose, attacking mobs unnecessarily, or placing unrelated blocks
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes the incorrect placement of lapis lazuli or the diamond sword
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using enchanted books to apply specific enchantments
+ - e.g. combining enchantments for more powerful effects
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses the correct amount of lapis lazuli
+ - whether the agent correctly uses the enchantment table and diamond sword

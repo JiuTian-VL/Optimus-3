@@ -1,0 +1,7 @@
+custom_init_commands:
+- /setblock ~2 ~ ~ minecraft:water
+- summon minecraft:boat
+defaults:
+- base
+- _self_
+text: use boat and travel

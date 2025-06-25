@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent identifies and targets the phantom
+ - whether the agent successfully aims at the phantom
+ - whether the agent shoots the phantom and hits it
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. shooting at unrelated entities or objects
+ - e.g. wasting arrows or other projectiles on unnecessary targets
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes missed shots and adjusts its aim accordingly
+ - e.g. whether the corrected results demonstrate improvement and increase the accuracy of subsequent shots
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different types of bows or projectiles, such as enchanted bows
+ - e.g. employing strategic positioning or environmental advantages to improve accuracy
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective shooting strategies were employed to minimize missed shots and improve hit rate
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent selected the appropriate weapon or projectile for shooting the phantom
+ - whether the agent efficiently managed its inventory, ensuring an adequate supply of arrows or other projectiles

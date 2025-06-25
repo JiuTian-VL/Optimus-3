@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @s minecraft:pumpkin 5
+- /give @s minecraft:shears
+- /setblock ~2 ~ ~ minecraft:crafting_table
+defaults:
+- base
+- _self_
+text: Carve pumpkins to create jack-o'-lanterns.

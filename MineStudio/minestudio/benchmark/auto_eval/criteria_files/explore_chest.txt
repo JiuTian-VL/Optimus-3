@@ -1,0 +1,22 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent locates a villager's home
+ - whether the agent finds and opens a chest inside the home
+ - whether the agent acquires items from the chest
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. breaking blocks unnecessarily, interacting with non-essential items, wandering aimlessly
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes incorrect paths or homes and corrects its course
+ - whether the agent identifies and remedies improper interactions with villagers or unnecessary destruction
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using stealth or strategic approaches to enter the home
+ - e.g. arranging the acquired items in an organized manner
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective navigation and item retrieval strategies were employed to minimize unnecessary delays
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate tools or items to gain entry if needed (e.g., doors, picks for breaking blocks)

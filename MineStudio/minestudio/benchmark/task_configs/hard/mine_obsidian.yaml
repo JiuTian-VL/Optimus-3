@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:diamond_pickaxe
+- /execute as @p at @s run fill ~2 ~-1 ~3 ~1 ~-1 ~4 obsidian
+- /give @s minecraft:stone 64
+- /give @s minecraft:water_bucket 3
+defaults:
+- base
+- _self_
+text: Find and mine obsidian using the right tool.

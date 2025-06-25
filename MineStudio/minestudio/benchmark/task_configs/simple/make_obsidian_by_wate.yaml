@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:water_bucket 2
+- /give @s minecraft:lava_bucket 2
+- /replaceitem entity @s weapon.mainhand minecraft:diamond_pickaxe
+- /setblock ~2 ~ ~ minecraft:lava
+- /setblock ~2 ~ ~ minecraft:water
+defaults:
+- base
+- _self_
+text: Make obsidian by placing water over lava source blocks.

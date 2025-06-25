@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:snow_block 4
+- /give @s minecraft:carved_pumpkin 2
+- /execute as @p at @s run fill ~-1 ~ ~-1 ~1 ~1 ~1 grass_block
+- /weather clear
+defaults:
+- base
+- _self_
+text: Build a snow golem using snow blocks and a pumpkin.

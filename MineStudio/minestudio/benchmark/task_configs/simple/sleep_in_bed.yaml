@@ -1,0 +1,8 @@
+custom_init_commands:
+- /time set night
+- /give @s minecraft:white_bed 1
+- /setblock ~2 ~ ~ minecraft:white_bed
+defaults:
+- base
+- _self_
+text: Sleep in a bed to skip the night.

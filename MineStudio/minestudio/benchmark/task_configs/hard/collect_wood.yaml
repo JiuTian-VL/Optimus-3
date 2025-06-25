@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:iron_axe
+- /execute as @p at @s run fill ~1 ~ ~1 ~5 ~10 ~5 minecraft:oak_log
+- /give @s minecraft:red_dye 16
+- /execute as @p at @s run fill ~-5 ~ ~-5 ~-1 ~3 ~-1 minecraft:spruce_log
+defaults:
+- base
+- _self_
+text: Collect wood by breaking logs from trees in the forest.

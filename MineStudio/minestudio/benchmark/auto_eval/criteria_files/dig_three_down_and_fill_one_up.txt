@@ -1,0 +1,25 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent is digging downwards  
+ - whether the agent digs three dirt blocks  
+ - whether the agent fills one of the holes with dirt  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. wandering aimlessly or digging blocks that are not part of the task  
+ - e.g. destroying blocks that have already been dug or filled  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - whether the agent realizes when they have not dug the correct number of blocks  
+ - whether the agent identifies when they have filled the wrong hole and corrects it  
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. using different tools to dig the dirt blocks, such as a shovel or hands  
+ - e.g. attempting to create a specific pattern with the holes dug  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to complete the task falls within a reasonable range  
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors in digging and filling holes  
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**  
+ - whether the agent uses dirt blocks to fill the hole and not other materials  
+ - whether the agent chooses the appropriate tools for digging dirt blocks

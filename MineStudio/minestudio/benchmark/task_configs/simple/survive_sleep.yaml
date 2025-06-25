@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:white_bed 1
+- /time set night
+- /effect give @a resistance 99999 250 true
+defaults:
+- base
+- _self_
+text: Find a safe place and rest in a bed to skip the night.
+reference_video: survive_sleep

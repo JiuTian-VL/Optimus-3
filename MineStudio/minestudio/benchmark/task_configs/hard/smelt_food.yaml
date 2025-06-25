@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:raw_beef 20
+- /give @s minecraft:coal 20
+- /give @s minecraft:raw_chicken 20
+- /give @s minecraft:furnace
+- /give @s minecraft:torch 10
+defaults:
+- base
+- _self_
+text: Use a furnace to smelt raw food items into cooked food.

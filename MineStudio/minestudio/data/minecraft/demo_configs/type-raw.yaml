@@ -1,0 +1,18 @@
+defaults:
+  - base
+  - _self_
+
+dataset_type: 'raw'
+
+num_workers: 1
+batch_size: 1
+num_samples: 10
+
+win_len: 128
+frame_width: 480
+frame_height: 480
+legend: True
+
+enable_segment: True
+enable_contractor_info: True
+enable_augmentation: False

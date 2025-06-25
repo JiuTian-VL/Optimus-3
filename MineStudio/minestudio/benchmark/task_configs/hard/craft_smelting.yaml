@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:cobblestone 20
+- /give @s minecraft:crafting_table
+- /time set day
+- /give @s minecraft:iron_ore 10
+defaults:
+- base
+- _self_
+text: Craft a furnace to smelt various items.

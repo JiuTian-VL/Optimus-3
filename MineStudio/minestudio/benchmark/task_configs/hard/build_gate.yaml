@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:oak_fence_gate 10
+- /give @s minecraft:torch 20
+- /give @s minecraft:stone_bricks 64
+- /give @s minecraft:poppy 5
+- /time set day
+defaults:
+- base
+- _self_
+text: Build a gate to secure your area or entrance.

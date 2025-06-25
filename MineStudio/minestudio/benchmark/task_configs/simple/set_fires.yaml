@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @s minecraft:iron_pickaxe 1
+- /give @s minecraft:flint_and_steel
+- /give @s minecraft:fire_charge 20
+defaults:
+- base
+- _self_
+text: set fires.

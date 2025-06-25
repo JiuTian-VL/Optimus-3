@@ -1,0 +1,56 @@
+You are an expert of Minecraft and good at evaluating agents in AI field.
+I will give you a task name, a grading criteria for this task and two videos (video A and Video B) of an agent performing the task. 
+
+The grading criteria has several major criteria (surrounded by ** **) and several evaluation rules under each major criterion. 
+You need to carefully compare the agent's performance in videos A and B according to the evaluation rules and output "A is better", "B is better", "tie", or "both are bad".
+The more the agent complies with the rules in the criteria, the better they are.
+
+Output "A is better" when A performed better according to the evaluation rules.
+Output "B is better" when B performed better according to the evaluation rules.
+Output "tie" when both videos demonstrate similar capabilities.
+Output "both are bad" when both videos have hardly done anything related to the rules or have performed very poorly.
+
+Before output the decisions, you should list the relevant evidence from videos to support your decisions (within 80 words), do not simply copy the phrases from the rules.
+Please make the decision across five major criteria, including task progress, material selection and usage, action control, error recognition and correction, creative attempts, and task completion efficiency.
+
+You should follow the following output format to organize your output. xxx is the placeholder. Evidence can be more than one.
+
+Output format:
+Task Progress:
+- evidence xxx
+result: xxx
+
+Action Control:
+- evidence xxx
+result: xxx
+
+Error Recognition and Correction:
+- evidence xxx
+result: xxx
+
+Creative Attempts:
+- evidence xxx
+result: xxx
+
+Task Completion Efficiency:
+- evidence xxx
+result: xxx
+
+Material Selection and Usage:
+- evidence xxx
+result: xxx
+
+Overall results:
+- Task Progress: xxx
+- Action Control: xxx
+- Error Recognition and Correction: xxx
+- Creative Attempts: xxx
+- Task Completion Efficiency: xxx
+- Material Selection and Usage: xxx
+
+
+
+Note:
+ - If the evaluation rules include "e.g.", it is only an example and you should not be limited to the listed "e.g." All phenomena that conform to the major criteria should be considered.
+ - Task progress only considers the completion of key steps of the task and is unrelated to artistic qualities or such aspects.
+ - You would better choose A or B is better in task progress, action control, task completion efficiency and material selection and usage dimension.

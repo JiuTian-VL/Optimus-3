@@ -1,0 +1,11 @@
+custom_init_commands:
+- /give @s minecraft:blue_bed
+- /time set night
+- /summon minecraft:cat ~2 ~ ~
+- /give @s minecraft:poppy 10
+- /give @s minecraft:wooden_pickaxe
+- /give @s minecraft:wooden_axe
+defaults:
+- base
+- _self_
+text: 'Clean up your surroundings by clearing unwanted blocks and items in your area.  '

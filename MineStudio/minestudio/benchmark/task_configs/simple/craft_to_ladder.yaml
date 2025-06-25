@@ -1,0 +1,7 @@
+custom_init_commands:
+- /give @s minecraft:stick 12
+- /give @s minecraft:crafting_table 1
+defaults:
+- base
+- _self_
+text: Open your inventory and craft a ladder.

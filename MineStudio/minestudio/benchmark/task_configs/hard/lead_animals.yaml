@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:lead 15
+- /summon minecraft:cow ~2 ~ ~
+- /summon minecraft:pig ~3 ~ ~
+- /give @s minecraft:carrot 10
+- /give @s minecraft:slime_ball 5
+defaults:
+- base
+- _self_
+text: Use a lead to guide and control animals

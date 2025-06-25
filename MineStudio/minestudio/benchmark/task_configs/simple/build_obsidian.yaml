@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:water_bucket 3
+- /give @s minecraft:lava_bucket 3
+- /setblock ~2 ~1 ~ water
+defaults:
+- base
+- _self_
+text: Create obsidian blocks by pouring water over lava source blocks.
+reference_video: build_obsidian

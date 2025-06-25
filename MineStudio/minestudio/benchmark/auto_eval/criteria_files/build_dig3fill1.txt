@@ -1,0 +1,22 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent digs three blocks down
+ - whether the agent fills one of the dug blocks back up
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. wandering aimlessly, destroying unrelated blocks, or adding unnecessary blocks
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes when it digs too many or too few blocks
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product, such as filling the correct block back up
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different tools to dig the holes like hands or pickaxes
+ - e.g. selecting specific blocks for filling up to create a pattern or design
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective construction strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - e.g. using appropriate tools for digging and filling
+ - e.g. selecting the correct type of block to fill the hole, ensuring it matches the surrounding terrain or follows the task's requirements

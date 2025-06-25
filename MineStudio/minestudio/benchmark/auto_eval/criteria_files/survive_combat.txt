@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent identifies and approaches the enemy spider
+ - whether the agent engages in combat with the spider
+ - whether the agent successfully defeats the spider
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. wandering away from the spider, attacking non-threatening mobs or objects
+ - e.g. using unrelated items instead of weapons
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes ineffective combat strategies and adjusts accordingly
+ - whether the agent corrects its approach if it is taking excessive damage or losing health
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using environmental elements (e.g., water, lava) to gain advantage in combat
+ - e.g. employing different weapons or tools to fight the spider
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective combat strategies were employed to minimize health loss and maximize damage to the spider
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate weapons and armor for the combat
+ - whether the agent uses healing items or food to maintain health during the fight

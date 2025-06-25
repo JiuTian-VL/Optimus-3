@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @s minecraft:diamond_sword
+- /give @s minecraft:lapis_lazuli 15
+- /setblock ~2 ~ ~ minecraft:enchanting_table
+defaults:
+- base
+- _self_
+text: Enchant a sword using an enchanting table.

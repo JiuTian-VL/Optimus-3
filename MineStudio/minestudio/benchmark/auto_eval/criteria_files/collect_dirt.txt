@@ -1,0 +1,26 @@
+Sure, here is the scoring criteria for the task "collect_dirt: Collect dirt from the surface":
+
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent approaches dirt blocks
+ - whether the agent starts digging the dirt blocks
+ - whether the agent collects dirt blocks into its inventory
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. dig unrelated blocks like stone or grass
+ - e.g. wandering aimlessly or performing non-relevant actions
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent stops digging non-dirt blocks and corrects its action to focus on dirt
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. use of tools like shovels to speed up the collection process
+ - e.g. collecting dirt from different locations to find the most efficient spots
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective collection strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate tools like shovels to dig dirt
+ - whether the agent efficiently manages the collected dirt in its inventory

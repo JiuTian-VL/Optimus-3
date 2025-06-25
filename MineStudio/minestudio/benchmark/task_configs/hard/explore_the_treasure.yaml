@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:treasure_map
+- /give @s minecraft:diamond_shovel
+- /give @s minecraft:boat
+- /execute as @p at @s run fill ~-5 ~-1 ~-5 ~5 ~-1 ~5 sand
+- /give @s minecraft:gold_ingot 20
+defaults:
+- base
+- _self_
+text: Explore the treasure by locating and digging up buried treasure maps.

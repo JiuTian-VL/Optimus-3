@@ -1,0 +1,9 @@
+custom_init_commands:
+- /time set day
+- /replaceitem entity @s weapon.mainhand minecraft:iron_pickaxe
+- /execute as @p at @s run fill ~ ~ ~ ~1 ~ ~ minecraft:diamond_ore
+- /execute as @p at @s run fill ~2 ~ ~ ~ 1 ~ minecraft:stone
+defaults:
+- base
+- _self_
+text: 'Find and mine diamond ore using the appropriate tool.  '

@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:stick 15
+- /give @s minecraft:crafting_table 1
+- /setblock ~2 ~ ~ minecraft:crafting_table
+defaults:
+- base
+- _self_
+text: Open your inventory and craft a ladder using sticks.
+reference_video: craft_ladder

@@ -1,0 +1,13 @@
+custom_init_commands:
+- /replaceitem entity @s armor.head minecraft:diamond_helmet
+- /replaceitem entity @s armor.chest minecraft:diamond_chestplate
+- /replaceitem entity @s armor.legs minecraft:diamond_leggings
+- /replaceitem entity @s armor.feet minecraft:diamond_boots
+- /replaceitem entity @s weapon.mainhand minecraft:diamond_sword
+- /time set night
+- /effect give @a night_vision 99999 250 true
+- /summon minecraft:spider ~3 ~ ~
+defaults:
+- base
+- _self_
+text: Engage in combat with spiders using appropriate weapons and armor.

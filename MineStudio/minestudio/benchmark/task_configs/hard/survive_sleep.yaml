@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @p minecraft:blue_bed
+- /time set night
+- /give @s minecraft:torch 16
+- /weather clear
+- /give @s minecraft:poppy 5
+defaults:
+- base
+- _self_
+text: Find or craft a bed and sleep through the night to survive until morning.

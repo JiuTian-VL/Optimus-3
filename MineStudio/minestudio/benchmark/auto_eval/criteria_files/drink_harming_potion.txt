@@ -1,0 +1,22 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent interacts with the potion
+ - whether the agent holds the potion in hand
+ - whether the agent drinks the potion
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. click on other unrelated items, wander aimlessly, or perform unrelated actions like digging.
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether agents recognize the wrong item (not a harming potion) and put it back.
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. different ways to drink the potion.
+ - e.g. drink multiple harming potions to achieve different effects.
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent correctly identifies and uses the harming potion without confusing it with other potions or items.

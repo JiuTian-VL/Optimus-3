@@ -1,0 +1,11 @@
+custom_init_commands:
+- /give @s minecraft:wooden_hoe 1
+- /give @s minecraft:wheat_seeds 15
+- /give @s minecraft:wooden_pickaxe 1
+- /setblock ~2 ~ ~ water
+- /setblock ~3 ~ ~ farmland
+defaults:
+- base
+- _self_
+text: Survive by planting crops and gathering resources.
+reference_video: survive_plant

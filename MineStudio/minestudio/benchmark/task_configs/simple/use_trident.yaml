@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @p minecraft:trident{Enchantments:[{id:"minecraft:looting",lvl:1}]} 1
+- /summon minecraft:zombie ~2 ~ ~
+- /give @p minecraft:water_bucket 1
+- /setblock ~1 ~ ~ water
+defaults:
+- base
+- _self_
+text: Use a trident to attack a target.

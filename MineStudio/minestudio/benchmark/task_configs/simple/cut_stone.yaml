@@ -1,0 +1,7 @@
+custom_init_commands:
+- /give @s minecraft:iron_pickaxe 1
+- /execute as @p at @s run fill ~2 ~ ~ ~3 ~ ~ minecraft:stone
+defaults:
+- base
+- _self_
+text: Use a pickaxe to mine stone blocks.

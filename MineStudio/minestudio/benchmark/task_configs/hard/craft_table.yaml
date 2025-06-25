@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @s minecraft:oak_planks 64
+- /give @s minecraft:stone_axe 1
+- /time set day
+defaults:
+- base
+- _self_
+text: Open inventory and craft a crafting table.

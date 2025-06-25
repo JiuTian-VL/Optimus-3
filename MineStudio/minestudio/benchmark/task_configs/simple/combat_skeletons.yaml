@@ -1,0 +1,15 @@
+custom_init_commands:
+- /replaceitem entity @s armor.head minecraft:diamond_helmet
+- /replaceitem entity @s armor.chest minecraft:diamond_chestplate
+- /replaceitem entity @s armor.legs minecraft:diamond_leggings
+- /replaceitem entity @s armor.feet minecraft:diamond_boots
+- /replaceitem entity @s weapon.mainhand minecraft:diamond_sword
+- /give @p minecraft:bow 1
+- /give @p minecraft:arrow 64
+- /time set night
+- /effect give @a night_vision 99999 250 true
+- /summon minecraft:skeleton ~2 ~ ~
+defaults:
+- base
+- _self_
+text: Combat skeletons with equipped weapons and armor.

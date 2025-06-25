@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:prismarine_shard 15
+- /give @s minecraft:diamond 10
+- /give @s minecraft:crafting_table 1
+- /setblock ~2 ~ ~ minecraft:crafting_table
+defaults:
+- base
+- _self_
+text: Craft a trident using the necessary materials.
+reference_video: tool_trident

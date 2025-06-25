@@ -1,0 +1,21 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent interacts with the dirt block
+ - whether the agent successfully mines a dirt block
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. wandering aimlessly, mining blocks other than dirt, or performing unrelated actions like placing blocks
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes when it has mined the wrong block and correctly targets dirt blocks afterward
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different tools to mine the dirt, like hands or a shovel
+ - e.g. mining dirt in a pattern or specific shape
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective mining strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate tools for mining dirt, such as shovels for faster mining

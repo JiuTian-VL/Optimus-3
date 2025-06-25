@@ -1,0 +1,31 @@
+hydra:
+  run:
+    dir: ${oc.env:MINESTUDIO_SAVE_DIR}/${now:%Y-%m-%d}/${now:%H-%M-%S}
+
+hydra/job_logging: colorlog
+hydra/hydra_logging: colorlog
+
+model_path: 'models/vpt/2x.model'
+weights_path: 'models/vpt/foundation-model-2x.weights'
+
+data:
+  mode: 'raw'
+  dataset_dirs:
+    - 'datas/minestudio/10xx'
+  frame_width: 128
+  frame_height: 128
+  win_len: 128
+
+experiment_name: 'vpt_test'
+batch_size: 8
+num_workers: 8
+prefetch_factor: 4
+split_ratio: 0.9
+devices: 8
+learning_rate: 0.00004
+warmup_steps: 2000
+weight_decay: 0.000181
+save_freq: 2000
+objective_weight: 0.01
+shuffle_episodes: False
+episode_continuous_batch: False

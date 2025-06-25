@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:diamond_shovel
+- /give @s minecraft:diamond_pickaxe
+- /give @s minecraft:diamond_axe
+- /setblock ~2 ~ ~ minecraft:chest
+- /give @s minecraft:torch 64
+defaults:
+- base
+- _self_
+text: Gather and organize resources to clean up an area in Minecraft.

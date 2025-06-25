@@ -1,0 +1,23 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent equips the shield
+ - whether the agent encounters zombies
+ - whether the agent successfully blocks zombie attacks using the shield
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. unnecessary movements away from zombies, switching to unrelated items, or attacking zombies without using the shield
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes when the shield is not equipped and corrects it promptly
+ - whether the agent adjusts its position or strategy when the shield is not effectively blocking attacks
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using the environment to its advantage while blocking, such as positioning against a wall to minimize attack angles
+ - e.g. combining shield use with other defensive maneuvers like dodging or using terrain for cover
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary movements and maximize defense against zombie attacks
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent equips and uses the shield correctly and consistently
+ - whether the agent avoids using unrelated items that do not contribute to warding off zombies with the shield

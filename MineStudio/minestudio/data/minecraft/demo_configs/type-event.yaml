@@ -1,0 +1,31 @@
+defaults:
+  - base
+  - _self_
+
+dataset_type: 'event'
+
+num_workers: 2
+batch_size: 4
+num_samples: 10
+
+win_len: 128
+frame_width: 480
+frame_height: 480
+
+# event_regex: '(minecraft.kill_entity:.*)|(minecraft.mine_block:.*)|(minecraft.craft_item:.*)|(minecraft.use_item:.*)|(^minecraft\.custom:(?!.*(?:time|one_cm|jump|minute|damage_taken|drop)).*$)'
+# event_regex: 'minecraft.kill_entity:.*cow'
+event_regex: 'minecraft.mine_block:minecraft.*log'
+# event_regex: 'minecraft.craft_item:.*'
+# event_regex: 'minecraft.mine_block:minecraft.cobblestone'
+# event_regex: 'minecraft.use_item:.*bow'
+# event_regex: 'minecraft.pickup:.*'
+# event_regex: '(minecraft.kill_entity:.*)|(minecraft.mine_block:.*)|(minecraft.craft_item:.*)|(minecraft.pickup:.*)|(minecraft.use_item:.*)'
+# event_regex: '^minecraft\.custom:(?!.*(?:time|one_cm|jump|minute|damage_taken|drop)).*$'
+# event_regex: '(minecraft.kill_entity:.*)|(minecraft.mine_block:.*)|(minecraft.craft_item:.*)|(minecraft.pickup:.*)|(minecraft.use_item:.*)|(^minecraft\.custom:(?!.*(?:time|one_cm|jump|minute|damage_taken|drop)).*$)'
+max_within: 2000
+min_nearby: 128
+bias: 16
+
+enable_segment: True
+enable_contractor_info: True
+enable_augmentation: False

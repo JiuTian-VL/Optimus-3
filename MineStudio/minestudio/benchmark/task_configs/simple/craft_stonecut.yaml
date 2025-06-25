@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:stone 15
+- /give @s minecraft:iron_ingot 5
+- /give @s minecraft:crafting_table 1
+defaults:
+- base
+- _self_
+text: Open your inventory and craft a stonecutter.
+reference_video: craft_stonecut

@@ -1,0 +1,6 @@
+custom_init_commands:
+- /give @p minecraft:potion{Potion:"minecraft:harming"} 1
+defaults:
+- base
+- _self_
+text: drink harming potion

@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:ladder 32
+- /give @s minecraft:stone 64
+- /give @s minecraft:bread 16
+- /summon minecraft:goat ~5 ~ ~
+- /execute as @p at @s run fill ~-5 ~-1 ~-5 ~5 ~20 ~5 dirt
+defaults:
+- base
+- _self_
+text: Explore and climb the mountains to discover new biomes and resources.

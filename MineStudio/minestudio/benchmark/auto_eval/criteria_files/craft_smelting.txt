@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent places a furnace
+ - whether the agent places food inside the furnace
+ - whether the agent provides fuel for the furnace
+ - whether the agent successfully smelts the food
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. destroying the furnace after placing it, repeatedly opening and closing the furnace interface without adding items
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes incorrect fuel or food placement and corrects it
+ - whether the agent identifies and resolves issues like running out of fuel during the smelting process
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different types of fuel for smelting
+ - e.g. smelting multiple types of food items in sequence
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors, such as efficiently placing items and managing fuel
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent correctly uses the furnace, appropriate fuel, and food items
+ - whether the agent avoids wasting resources by using appropriate amounts of fuel and food

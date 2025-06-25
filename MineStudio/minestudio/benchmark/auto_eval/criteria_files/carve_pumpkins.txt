@@ -1,0 +1,20 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent places the pumpkins in the correct position  
+ - whether the agent uses shears on the pumpkins to carve them  
+ - whether the agent completes the carving of the pumpkins  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. placing pumpkins in irrelevant locations  
+ - e.g. using shears on non-pumpkin items or repeatedly clicking without purpose  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - e.g. whether the agent recognizes if a pumpkin has not been carved correctly and retries  
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. experimenting with different designs or patterns while carving  
+ - e.g. combining pumpkins with other materials for decorative purposes  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to complete the task falls within a reasonable range  
+ - whether effective actions were taken to minimize unnecessary repetitions or errors  

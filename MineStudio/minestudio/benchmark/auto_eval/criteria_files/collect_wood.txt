@@ -1,0 +1,22 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent identifies and approaches a tree
+ - whether the agent starts chopping down the tree
+ - whether the agent collects the wood blocks dropped from the tree
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. attacking other mobs or players, wandering aimlessly, or breaking blocks other than the tree
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether agents recognize when they are chopping the wrong block and correct their target
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different tools to chop down the tree
+ - e.g. planting a sapling to replace the tree they cut down
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective chopping strategies were employed to minimize unnecessary actions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - e.g. using an axe instead of bare hands for better efficiency

@@ -1,0 +1,39 @@
+hydra:
+  run:
+    dir: ${oc.env:MINESTUDIO_SAVE_DIR}/${now:%Y-%m-%d}/${now:%H-%M-%S}
+
+hydra/job_logging: colorlog
+hydra/hydra_logging: colorlog
+
+model_path: '/nfs-shared/jarvisbase/pretrained/foundation-model-2x.model'
+weights_path: '/nfs-shared/jarvisbase/pretrained/bc-early-game-2x.weights'
+
+data:
+  mode: 'event'
+  dataset_dirs: 
+    - '/nfs-shared-2/data/contractors/dataset_6xx'
+    - '/nfs-shared-2/data/contractors/dataset_7xx'
+    - '/nfs-shared-2/data/contractors/dataset_8xx'
+    - '/nfs-shared-2/data/contractors/dataset_9xx'
+    - '/nfs-shared-2/data/contractors/dataset_10xx'
+  frame_width: 128
+  frame_height: 128
+  win_len: 128
+  event_regex: 'minecraft.kill_entity:.*'
+  bias: 16
+  min_nearby: 64
+
+
+batch_size: 8
+num_workers: 8
+prefetch_factor: 4
+split_ratio: 0.9
+devices: 8
+precision: "bf16"
+learning_rate: 0.00004
+warmup_steps: 500
+weight_decay: 0.000181
+save_freq: 1000
+objective_weight: 0.01
+shuffle_episodes: False
+episode_continuous_batch: False

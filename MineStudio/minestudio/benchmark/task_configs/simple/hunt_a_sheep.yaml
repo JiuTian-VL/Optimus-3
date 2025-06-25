@@ -1,0 +1,9 @@
+custom_init_commands:
+- /replaceitem entity @s weapon.mainhand minecraft:wooden_sword
+- /summon minecraft:sheep ~2 ~ ~
+- /give @p minecraft:bread 10
+- /give @p minecraft:wooden_sword 1
+defaults:
+- base
+- _self_
+text: Hunt a sheep to obtain wool and mutton.

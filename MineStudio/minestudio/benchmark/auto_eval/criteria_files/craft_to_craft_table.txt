@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent gather four wooden planks
+ - whether the agent open the inventory or crafting interface
+ - whether the agent correctly place the wooden planks in a 2x2 grid to craft the crafting table
+ - whether the agent retrieve the crafting table from the output slot
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. gather unnecessary materials not required for crafting the table, repeatedly open and close the inventory without crafting the table
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether agents recognize incorrect placement of wooden planks and adjust them to the correct pattern
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. use different types of wood to craft the wooden planks
+ - e.g. create additional items that could aid in the crafting process (e.g., crafting sticks for future use)
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective crafting strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent correctly gather and use wooden planks for crafting the table
+ - whether the agent avoid using unnecessary materials or wasting resources

@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent is holding a trident in hand
+ - whether the agent is using the trident to fly
+ - whether the agent is attempting the task on a rainy day
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. attempting to fly without the trident
+ - e.g. performing unrelated actions like digging blocks or attacking mobs
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes if the day is not rainy and waits or triggers rain
+ - whether the agent corrects any misfires or missed attempts with the trident
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using the trident in conjunction with other items like Elytra for enhanced flight
+ - e.g. creating unique flight patterns or maneuvers
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective strategies were employed to ensure consistent and successful use of the trident for flight
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent correctly uses the trident (with the Riptide enchantment) for flight
+ - whether the agent ensures the trident's durability and usage is optimal for the task

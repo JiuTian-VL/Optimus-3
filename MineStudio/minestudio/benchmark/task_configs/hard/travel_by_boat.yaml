@@ -1,0 +1,11 @@
+custom_init_commands:
+- /give @s minecraft:oak_planks 20
+- /give @s minecraft:birch_planks 20
+- /execute as @p at @s run fill ~-5 ~-1 ~5 ~5 ~-1 ~15 water
+- /time set day
+- /give @s minecraft:fishing_rod 1
+- /give @s minecraft:oak_boat
+defaults:
+- base
+- _self_
+text: use boat and place it in water to travel.

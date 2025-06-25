@@ -1,0 +1,14 @@
+custom_init_commands:
+- /replaceitem entity @s armor.head minecraft:iron_helmet
+- /replaceitem entity @s armor.chest minecraft:iron_chestplate
+- /replaceitem entity @s armor.legs minecraft:iron_leggings
+- /replaceitem entity @s armor.feet minecraft:iron_boots
+- /replaceitem entity @s weapon.mainhand minecraft:iron_sword
+- /give @p minecraft:bread 20
+- /summon minecraft:zombie ~3 ~ ~
+- /time set night
+- /effect give @a strength 99999 1 true
+defaults:
+- base
+- _self_
+text: 'Collect dirt blocks from the ground using your hands or a suitable tool.  '

@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:water_bucket 5
+- /give @s minecraft:lava_bucket 5
+- /execute as @p at @s run fill ~2 ~-1 ~2 ~2 ~-1 ~2 lava 0 replace air
+- /summon minecraft:water ~2 ~ ~3
+defaults:
+- base
+- _self_
+text: Create obsidian by using water on lava source blocks.

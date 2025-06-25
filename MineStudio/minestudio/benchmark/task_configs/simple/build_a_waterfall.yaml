@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @s minecraft:water_bucket 3
+- /give @s minecraft:stone 64
+- /give @s minecraft:shovel{Enchantments:[{id:"minecraft:efficiency",lvl:1}]} 1
+defaults:
+- base
+- _self_
+text: Build a waterfall in your Minecraft world.

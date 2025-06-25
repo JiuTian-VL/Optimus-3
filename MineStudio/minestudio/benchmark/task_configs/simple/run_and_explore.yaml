@@ -1,0 +1,7 @@
+custom_init_commands:
+- /give @s minecraft:cooked_beef 64
+- /give @s minecraft:map
+defaults:
+- base
+- _self_
+text: Run around and explore the Minecraft world.

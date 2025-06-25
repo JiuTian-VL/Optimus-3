@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent places blocks vertically to form a pillar
+ - whether the pillar reaches a certain specified height
+ - whether the pillar remains structurally stable and is not toppled or incomplete
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. placing blocks horizontally or in other irrelevant directions
+ - e.g. destroying already placed blocks without a valid reason
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent corrects misaligned or incorrectly placed blocks
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. adding decorative elements or patterns to the pillar
+ - e.g. using different types of blocks to create a visually appealing pillar
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective construction strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate materials for building the pillar
+ - whether the materials used contribute to the structural integrity and aesthetics of the pillar

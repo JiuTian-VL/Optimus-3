@@ -1,0 +1,7 @@
+custom_init_commands:
+- /replaceitem entity @s weapon.mainhand minecraft:stone_pickaxe
+defaults:
+- base
+- _self_
+text: Explore a mine to gather resources and discover treasures.
+reference_video: explore_mine

@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @s minecraft:bow
+- /give @s minecraft:arrow 64
+- /setblock ~2 ~ ~ minecraft:target
+defaults:
+- base
+- _self_
+text: Use a bow to shoot arrows at a target.

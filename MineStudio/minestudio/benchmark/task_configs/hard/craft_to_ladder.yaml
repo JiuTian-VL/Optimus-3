@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:stick 64
+- /give @s minecraft:oak_planks 64
+- /give @s minecraft:crafting_table
+- /give @s minecraft:red_dye 10
+defaults:
+- base
+- _self_
+text: Craft ladders using wooden planks and sticks.

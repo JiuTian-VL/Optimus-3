@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent places lava
+ - whether the agent places water such that it interacts with the lava
+ - whether the interaction results in the creation of obsidian
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. placing water or lava in locations that do not lead to interaction
+ - e.g. destroying already placed water or lava sources unnecessarily
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes incorrect placement of water or lava and adjusts accordingly
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different methods to place water and lava, such as buckets or other containers
+ - e.g. creating a controlled environment to ensure efficient obsidian production
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent correctly uses water and lava to produce obsidian
+ - whether the agent conserves and makes efficient use of the water and lava sources

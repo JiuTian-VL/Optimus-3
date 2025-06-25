@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:stick 10
+- /give @s minecraft:string 10
+- /give @s minecraft:crafting_table
+- /give @s minecraft:poppy 5
+defaults:
+- base
+- _self_
+text: Craft a bow using sticks and string.

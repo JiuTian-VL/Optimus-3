@@ -1,0 +1,9 @@
+custom_init_commands:
+- /replaceitem entity @s weapon.mainhand minecraft:wooden_sword
+- /give @s minecraft:bread 10
+- /summon minecraft:pig ~3 ~ ~
+- /summon minecraft:chicken ~4 ~ ~
+defaults:
+- base
+- _self_
+text: Hunt animals for resources like meat and leather.

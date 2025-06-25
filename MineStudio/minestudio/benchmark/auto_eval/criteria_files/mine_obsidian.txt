@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent locates a source of obsidian
+ - whether the agent uses the correct tool (diamond pickaxe or netherite pickaxe) to mine obsidian
+ - whether the agent successfully mines obsidian blocks
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. using incorrect tools to mine obsidian
+ - e.g. mining other unrelated blocks or wandering aimlessly
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent switches to the correct tool upon realizing an error
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. creating an efficient mining strategy to collect obsidian faster
+ - e.g. using water buckets to control lava flow and prevent loss of mined obsidian
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective mining strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent correctly uses a diamond pickaxe or netherite pickaxe to mine obsidian
+ - whether the agent efficiently manages inventory space for mined obsidian blocks

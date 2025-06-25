@@ -1,0 +1,23 @@
+**Task Progress: the key factors/steps for completing the task**
+ - whether the agent open the crafting menu
+ - whether the agent craft the stonecutter
+ - whether the agent place the stonecutter in the world
+ - whether the agent use the stonecutter to cut stones
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. unnecessary placement of blocks, repeatedly opening and closing the crafting menu without crafting the stonecutter
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes incorrect material usage for crafting the stonecutter and corrects it
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different types of stones to be cut, experimenting with different cut patterns
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective crafting and placement strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent correctly gathers and uses the necessary materials to craft the stonecutter
+ - whether the agent efficiently uses the stonecutter to cut stones without waste.

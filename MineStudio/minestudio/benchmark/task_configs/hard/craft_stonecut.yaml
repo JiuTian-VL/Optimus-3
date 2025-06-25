@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:stone 10
+- /give @s minecraft:iron_ingot 5
+- /give @s minecraft:crafting_table
+- /time set night
+defaults:
+- base
+- _self_
+text: Use a crafting table to craft a stonecutter.

@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:diamond_shovel{Enchantments:[{id:"minecraft:silk_touch",lvl:1}]}
+- /execute as @p at @s run fill ~2 ~ ~2 ~3 ~ ~3 minecraft:grass_block
+- /give @s minecraft:stone 32
+- /weather clear
+defaults:
+- base
+- _self_
+text: Gather grass blocks for your collection using the appropriate tools.

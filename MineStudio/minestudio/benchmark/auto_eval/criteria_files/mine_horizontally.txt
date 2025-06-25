@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent is mining blocks horizontally  
+ - whether the agent maintains a consistent horizontal level while mining  
+ - whether the agent continues mining for a designated distance  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. mining vertically instead of horizontally  
+ - e.g. destroying blocks that have already been mined  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - whether the agent recognizes if they have deviated from the horizontal path and corrects it  
+ - whether the agent identifies and addresses any unmined sections in the desired horizontal area  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. using different tools for mining, such as pickaxes or shovels, to optimize the process  
+ - e.g. creating a branching tunnel system while mining horizontally  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to complete the horizontal mining task falls within a reasonable range  
+ - whether effective mining strategies were employed to minimize unnecessary repetitions or errors  
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**  
+ - whether the agent uses the appropriate tool for mining (e.g. a pickaxe for stone and ores)  
+ - whether the agent manages inventory effectively, avoiding unnecessary block collection or damage to tools  

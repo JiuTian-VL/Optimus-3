@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:iron_shovel 1
+- /fill ~1 ~ ~1 ~5 ~ ~5 minecraft:gravel
+- /give @s minecraft:blue_bed 1
+- /give @s minecraft:torch 10
+defaults:
+- base
+- _self_
+text: 'Gather flint by breaking gravel blocks with a shovel until flint drops.  '

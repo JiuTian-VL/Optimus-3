@@ -1,0 +1,13 @@
+custom_init_commands:
+- /replaceitem entity @s armor.head minecraft:diamond_helmet
+- /replaceitem entity @s armor.chest minecraft:diamond_chestplate
+- /replaceitem entity @s armor.legs minecraft:diamond_leggings
+- /replaceitem entity @s armor.feet minecraft:diamond_boots
+- /replaceitem entity @s weapon.mainhand minecraft:diamond_sword
+- /give @s minecraft:cooked_beef 32
+- /summon minecraft:zombie ~2 ~ ~
+defaults:
+- base
+- _self_
+text: Survive combat against hostile mobs in Minecraft.
+reference_video: survive_combat

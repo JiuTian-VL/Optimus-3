@@ -1,0 +1,22 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent explores the terrain to search for a village
+ - whether the agent visually identifies a village structure
+ - whether the agent enters the village boundary
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. wandering aimlessly without systematic searching, engaging in unnecessary combat with mobs
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent corrects its path if it realizes it’s heading in the wrong direction
+ - whether the corrected results demonstrate improvement in navigation and reduce time to find the village
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using high ground or towers to get a better view of the surroundings
+ - e.g. using tools like maps or compasses to aid in finding the village
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective navigation strategies were employed to minimize unnecessary detours or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - e.g. using materials to create tools for faster travel or better exploration methods (like building a watchtower for viewing)

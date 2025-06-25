@@ -1,0 +1,12 @@
+custom_init_commands:
+- /give @s minecraft:bucket 3
+- /give @s minecraft:milk_bucket 5
+- /give @s minecraft:sugar 10
+- /give @s minecraft:egg 5
+- /give @s minecraft:wheat 10
+- /give @s minecraft:crafting_table
+- /give @s minecraft:flower_pot
+defaults:
+- base
+- _self_
+text: Craft a cake using the required ingredients on a crafting table.

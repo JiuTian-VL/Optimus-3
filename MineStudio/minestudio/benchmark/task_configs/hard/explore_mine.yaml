@@ -1,0 +1,13 @@
+custom_init_commands:
+- /give @s minecraft:iron_pickaxe
+- /give @s minecraft:torch 64
+- /fill ~2 ~-1 ~2 ~6 ~-1 ~6 minecraft:stone
+- /fill ~3 ~-2 ~3 ~5 ~-2 ~5 minecraft:air
+- /setblock ~4 ~-1 ~4 minecraft:chest{LootTable:"minecraft:chests/simple_dungeon"}
+- /give @s minecraft:bread 20
+- /summon minecraft:creeper ~5 ~ ~5
+- /give @s minecraft:stone_sword
+defaults:
+- base
+- _self_
+text: Explore a mine to gather resources and find hidden treasures.

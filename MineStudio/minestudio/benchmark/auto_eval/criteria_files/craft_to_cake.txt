@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task**
+ - whether the agent collects all necessary ingredients (milk, sugar, eggs, wheat)
+ - whether the agent navigates to the crafting table
+ - whether the agent opens the crafting table interface
+ - whether the agent places the ingredients in the correct pattern to craft the cake
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. unnecessary movements away from the crafting table, incorrect placement of items in the crafting grid, gathering unrelated materials
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes incorrect ingredient placement and corrects it
+ - whether the agent replaces any wrong ingredients with the correct ones, improving the crafting process
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. finding efficient routes to gather ingredients
+ - e.g. organizing ingredients in inventory for quicker access
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary actions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent selects the correct materials needed for crafting the cake
+ - whether the agent efficiently uses the ingredients without wasting them

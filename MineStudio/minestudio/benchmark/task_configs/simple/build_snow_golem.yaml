@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:snow_block 5
+- /give @s minecraft:carved_pumpkin 1
+- /setblock ~2 ~ ~ minecraft:snow_block
+- /setblock ~2 ~1 ~ minecraft:snow_block
+- /setblock ~2 ~2 ~ minecraft:carved_pumpkin
+defaults:
+- base
+- _self_
+text: Build a snow golem using snow blocks and a pumpkin.

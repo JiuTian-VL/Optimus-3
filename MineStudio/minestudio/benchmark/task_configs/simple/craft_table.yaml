@@ -1,0 +1,7 @@
+custom_init_commands:
+- /give @s minecraft:oak_planks 10
+defaults:
+- base
+- _self_
+text: 'Open your inventory and craft a crafting table using wooden planks.  '
+reference_video: craft_table

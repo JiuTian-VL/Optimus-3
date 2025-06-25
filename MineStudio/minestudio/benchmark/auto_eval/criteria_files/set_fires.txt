@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent has located the trees  
+ - whether the agent interacts with flammable items (e.g., fire charges, flint and steel)  
+ - whether the agent successfully sets fire to multiple trees  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. unnecessary destruction of the surrounding environment or trees that are not part of the task  
+ - e.g. repeatedly clicking on items without using them  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - e.g. whether the agent notices if the fire does not spread as intended and adjusts its actions accordingly  
+ - whether the agent recognizes when a tree is not igniting and changes its approach (e.g., using different materials)  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. using different methods to set the fire, such as using lava or fire charges in innovative ways  
+ - e.g. creating patterns or designs with the fire on the trees  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to complete the task falls within a reasonable range  
+ - whether effective strategies were employed to maximize the number of trees set on fire without unnecessary delays or errors  
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**  
+ - e.g. whether the agent uses appropriate materials that can effectively start and sustain a fire  
+ - e.g. whether the agent avoids using non-flammable materials when setting the fire  

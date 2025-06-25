@@ -1,0 +1,19 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent locates animals in the plains  
+ - whether the agent successfully hunts at least one animal  
+ - whether the agent collects the resources from the hunted animals  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. wandering away from the plains, attacking unrelated entities or objects  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - e.g. whether the agent recognizes missed shots or failed attempts at hunting  
+ - whether the corrected actions demonstrate improvement, such as altering strategies to successfully hunt animals  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. utilizing different methods or tools for hunting, such as bows, traps, or stealth approaches  
+ - e.g. attempting to herd or lure animals into a specific area for easier hunting  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to complete the task falls within a reasonable range  
+ - whether effective hunting strategies were employed to minimize unnecessary repetitions or errors  

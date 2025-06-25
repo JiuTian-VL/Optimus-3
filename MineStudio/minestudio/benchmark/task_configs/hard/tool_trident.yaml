@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:trident 3
+- /give @s minecraft:stick 64
+- /give @s minecraft:prismarine_shard 20
+- /summon drowned ~2 ~ ~
+- /summon drowned ~-5 ~ ~5
+defaults:
+- base
+- _self_
+text: Obtain a trident by crafting it or finding it in the world.

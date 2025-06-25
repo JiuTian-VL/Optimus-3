@@ -1,0 +1,25 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent places the enchanting table
+ - whether the agent interacts with the enchanting table
+ - whether the agent places the diamond sword into the enchanting table
+ - whether the agent selects and applies an enchantment to the diamond sword
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. placing the enchanting table in an inappropriate location or repeatedly moving it
+ - e.g. interacting with unrelated items or blocks unnecessarily
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes if the enchanting table was placed incorrectly and repositions it
+ - e.g. whether the agent identifies and corrects any errors in selecting the appropriate enchantment for the diamond sword
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. constructing an efficient and aesthetically pleasing setup for the enchanting area, such as placing bookshelves around the enchanting table for better enchantments
+ - e.g. using additional materials or methods to optimize the enchantment process or outcome
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors, such as having the required levels of experience beforehand
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - e.g. ensuring the diamond sword and appropriate enchanting materials are used correctly
+ - e.g. managing experience levels efficiently for the enchantment process

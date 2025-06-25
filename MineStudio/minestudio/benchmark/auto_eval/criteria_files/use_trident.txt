@@ -1,0 +1,23 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent holds the trident in hand  
+ - whether the agent activates the trident for flying  
+ - whether the agent is in a rainy environment while flying  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. engaging in unrelated activities such as mining or fighting mobs while trying to fly  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - e.g. whether the agent recognizes when the trident is not being used correctly for flying and attempts to correct it  
+ - whether the corrected results demonstrate improvement in the agent's flying technique  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. attempting to perform aerial maneuvers or tricks while flying with the trident  
+ - e.g. using the trident in combination with other items or actions to enhance the flying experience  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to successfully fly with the trident falls within a reasonable range  
+ - whether effective strategies were employed to maximize the flying time and minimize interruptions or errors  
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**  
+ - e.g. whether the agent selects the trident from their inventory without unnecessary delays  
+ - e.g. whether the agent properly understands the conditions required to use the trident effectively (e.g., being in water to activate flying)  

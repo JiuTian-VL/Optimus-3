@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:diamond_shovel{Enchantments:[{id:"minecraft:silk_touch",lvl:1}]}
+  1
+- /setblock ~2 ~ ~ minecraft:grass_block
+defaults:
+- base
+- _self_
+text: Collect grass blocks using the appropriate tool.
+reference_video: collect_grass

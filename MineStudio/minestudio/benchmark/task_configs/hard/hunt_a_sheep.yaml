@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:stone_sword
+- /summon minecraft:sheep ~2 ~ ~
+- /give @s minecraft:bread 16
+- /effect give @p night_vision 99999 250 true
+- /time set day
+defaults:
+- base
+- _self_
+text: Find and hunt a sheep to collect wool and mutton.

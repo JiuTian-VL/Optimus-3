@@ -1,0 +1,23 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent gather the necessary materials (4 Gold Ingots and 1 Redstone Dust)
+ - whether the agent open the crafting table
+ - whether the agent place the materials in the correct pattern to craft a Clock
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. gathering unnecessary materials, opening unrelated GUI menus
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes incorrect placement of materials and corrects them
+ - whether the agent corrects any mistakes in the crafting process and successfully crafts the Clock
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. gathering materials in a unique or efficient manner
+ - e.g. using additional tools or methods to speed up the gathering of materials
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective crafting strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent correctly uses 4 Gold Ingots and 1 Redstone Dust
+ - whether the agent avoids using unnecessary or incorrect materials in the crafting process

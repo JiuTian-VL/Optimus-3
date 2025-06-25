@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:cake 1
+- /give @s minecraft:oak_log 4
+- /give @s minecraft:chest 2
+- /setblock ~2 ~ ~ minecraft:crafting_table
+defaults:
+- base
+- _self_
+text: 'Prepare a birthday present for your neighbor using various decorative items
+  and a cake.  '

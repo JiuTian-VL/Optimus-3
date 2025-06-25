@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:stick 10
+- /give @s minecraft:string 10
+- /setblock ~2 ~ ~ minecraft:crafting_table
+defaults:
+- base
+- _self_
+text: Craft a bow to use as your ranged weapon.
+reference_video: tool_bow

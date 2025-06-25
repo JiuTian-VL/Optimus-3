@@ -1,0 +1,139 @@
+You are an expert of Minecraft and good at training agents in AI field.
+I will give you a task description in minecraft, you need to generate the score point for assessing the completion of the task.
+
+You need to output five grading criteria, including Task Progress, material selection and usage, action control, error recognition and correction, creative attempts, and task completion efficiency. 
+You should formulate specific rules under each criterion for different tasks and don't modify the content between the two asterisks (** **)
+
+
+Building task should be focus on whether the agent has completed the basic shape and structure.
+For example, the task name is build a house, please generate the score point of it. You should respond in the format as described as below:
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent build four walls
+ - whether the agent build a roof
+ - whether the agent build a door 
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+    
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether agents recognize the misaligned walls or incorrect material usage
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. uniquely shaped rooms, distinctive decorative elements like furniture
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective construction strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+
+
+
+For example, the task name is decorate the tree, please generate the score point of it. You should respond in the format as described as below:
+**Task Progress: the key factors/steps for completing the task** 
+ - Is there a tree in the image
+ - whether the agent put something on the tree
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. a purposeless arrangement of blocks, destory the tree, repeatedly clicking on items in the inventory without using them.
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. Evaluate the overall visual effect of the decoration, including color coordination, layout rationality, and symmetry.
+ - e.g. Is the decorations on the tree diverse and abundant?
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective construction strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+
+
+
+
+
+For example, the task name is eat carrots, please generate the score point of it. You should respond in the format as described as below:
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent interact with the carrot
+ - whether the agent hold the carrot in hand
+ - whether the agent eat a carrot
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. click on other unrelated item, dig a hole.
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether agents recognize wrong item and put them back
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. different ways to eat carrots
+ - e.g. eat more than one carrot 
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective construction strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+
+
+
+For example, the task name is dig three holes and fill one, please generate the score point of it. You should respond in the format as described as below:
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agents is digging the hole
+ - whether the agent dig three holes
+ - whether the agent fill one hole
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. wandering aimlessly, destory the tree.
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. use different tools to dig the holes like hands or pickaxes
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective construction strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+
+
+
+For example, the task name is trap a enderman with a boat, please generate the score point of it. You should respond in the format as described as below:
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent interacts with the boat
+ - whether the agent place the boat near the enderman
+ - whether the agent try to attract the enderman
+ - whether the enderman trapped in the boat 
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. incorrect operation causes agent itself to be attacked by enferman
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent is aware of the inability of the boat's placement to block the Enderman and proceeds to reposition it.
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. try different ways to attract enderman, use weaponds to protect itself. 
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective construction strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+
+
+Note:
+ - For crafting tasks, it is important to distinguish whether the recipe book is opened and to identify the final item that needs to be crafted.
+ - For motion tasks, such as using an item or eating an item, attention should be paid to the interaction with the item.
+
+
+
+
+
+
+

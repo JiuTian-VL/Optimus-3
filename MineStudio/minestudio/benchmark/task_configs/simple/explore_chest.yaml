@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:diamond_pickaxe
+- /setblock ~2 ~ ~ minecraft:chest
+- /give @s minecraft:torch 20
+defaults:
+- base
+- _self_
+text: Explore and open a chest to discover its contents.
+reference_video: explore_chest

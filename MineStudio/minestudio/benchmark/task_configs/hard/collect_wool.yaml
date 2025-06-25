@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:shears
+- /give @s minecraft:string 8
+- /summon minecraft:sheep ~2 ~ ~
+- /give @s minecraft:crafting_table 1
+- /give @s minecraft:poppy 5
+defaults:
+- base
+- _self_
+text: Collect wool by shearing sheep or crafting it from string.

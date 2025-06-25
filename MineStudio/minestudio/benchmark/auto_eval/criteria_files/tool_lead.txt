@@ -1,0 +1,23 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent selects the lead from the inventory
+ - whether the agent approaches the animal
+ - whether the agent successfully attaches the lead to the animal
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. using other items unrelated to the task, wandering away from the animal, or performing actions that do not contribute to the completion of the task
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes if the lead was not successfully attached and attempts again
+ - whether the agent corrects any missteps, such as targeting the wrong animal or misclicking
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different approaches to lure the animal closer before attaching the lead
+ - e.g. tying multiple animals together with leads
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent selects the lead from the inventory correctly
+ - whether the agent uses the lead in an appropriate manner without wasting it or using it on unnecessary targets

@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:shield
+- /give @s minecraft:stone_sword 5
+- /summon minecraft:creeper ~3 ~ ~
+- /summon minecraft:skeleton ~5 ~ ~
+- /give @s minecraft:wooden_sword 10
+defaults:
+- base
+- _self_
+text: Equip and use a shield for defense against attacks.

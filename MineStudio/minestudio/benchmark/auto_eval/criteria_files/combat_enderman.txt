@@ -1,0 +1,23 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent initiates combat with the Enderman
+ - whether the agent deals damage to the Enderman
+ - whether the agent successfully defeats the Enderman
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. attacking other mobs unnecessarily, wandering aimlessly, or engaging in non-combat-related activities.
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - whether the agent recognizes ineffective combat strategies and adjusts its approach
+ - whether the agent mitigates damage taken by using defensive maneuvers or healing items
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. use of environmental features to gain an advantage, such as water or structures to block the Enderman's path
+ - e.g. employing a variety of weapons or tools to maximize damage output
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective combat strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate weapons and armor
+ - whether the agent utilizes any available potions or items to aid in combat

@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:shears
+- /fill ~2 ~ ~2 ~4 ~ ~4 minecraft:pumpkin
+- /give @p minecraft:blue_bed
+- /time set day
+defaults:
+- base
+- _self_
+text: Use shears to carve a face into a pumpkin.

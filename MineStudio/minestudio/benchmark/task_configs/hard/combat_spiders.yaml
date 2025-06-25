@@ -1,0 +1,15 @@
+custom_init_commands:
+- /replaceitem entity @s armor.head minecraft:iron_helmet
+- /replaceitem entity @s armor.chest minecraft:iron_chestplate
+- /replaceitem entity @s armor.legs minecraft:iron_leggings
+- /replaceitem entity @s armor.feet minecraft:iron_boots
+- /replaceitem entity @s weapon.mainhand minecraft:iron_sword
+- /summon minecraft:spider ~3 ~ ~
+- /give @p minecraft:shield
+- /time set night
+- /effect give @a night_vision 99999 250 true
+defaults:
+- base
+- _self_
+text: Combat spiders using appropriate weapons and armor while ensuring visibility
+  in the dark.

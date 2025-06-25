@@ -1,0 +1,8 @@
+custom_init_commands:
+- /replaceitem entity @s weapon.mainhand minecraft:iron_pickaxe
+- /execute as @p at @s run fill ~ ~ ~ ~1 ~-5 ~ diamond_ore
+- /tp @s ~ ~-10 ~
+defaults:
+- base
+- _self_
+text: Locate and mine diamond ore in the underground layers of the world.

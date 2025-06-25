@@ -1,0 +1,14 @@
+custom_init_commands:
+- /replaceitem entity @s armor.head minecraft:iron_helmet
+- /replaceitem entity @s armor.chest minecraft:iron_chestplate
+- /replaceitem entity @s armor.legs minecraft:iron_leggings
+- /replaceitem entity @s armor.feet minecraft:iron_boots
+- /replaceitem entity @s weapon.mainhand minecraft:iron_sword
+- /time set night
+- /effect give @a night_vision 99999 1 true
+- /summon minecraft:skeleton ~3 ~ ~
+- /give @p minecraft:torch 32
+defaults:
+- base
+- _self_
+text: Combat various enemies using weapons and armor equipped for protection and damage.

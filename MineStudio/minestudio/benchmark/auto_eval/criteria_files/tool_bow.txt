@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent select a bow from the inventory or hotbar
+ - whether the agent draw the bow
+ - whether the agent shoot an arrow from the bow
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. clicking on unrelated items in the inventory
+ - e.g. excessive movement or actions not related to drawing and shooting the bow
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes if it hasn't fully drawn the bow and corrects it to ensure a full draw
+ - whether the agent adjusts its aim if the initial shot misses the target
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. shooting at multiple targets
+ - e.g. using the bow in unique scenarios like shooting from a high ground or while moving
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors, such as drawing the bow fully in one go and aiming accurately
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent selects the bow correctly from the inventory
+ - whether the agent uses arrows properly for shooting

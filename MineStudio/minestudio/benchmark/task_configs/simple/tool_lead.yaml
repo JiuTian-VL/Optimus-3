@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:slime_ball 5
+- /give @s minecraft:string 10
+- /setblock ~2 ~ ~ minecraft:crafting_table
+defaults:
+- base
+- _self_
+text: Craft a lead using slimeballs and string.
+reference_video: tool_lead

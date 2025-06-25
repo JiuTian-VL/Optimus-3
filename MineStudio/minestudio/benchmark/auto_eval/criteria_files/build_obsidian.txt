@@ -1,0 +1,25 @@
+**Task Progress: the key factors/steps for completing the task** 
+- whether the agent collects a water bucket
+- whether the agent collects a lava bucket
+- whether the agent pours water first
+- whether the agent pours lava on the water to create obsidian
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+- e.g. placing water or lava in the wrong location
+- e.g. repeatedly picking up and placing water or lava without purpose
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+- e.g. whether the agent recognizes incorrect placement of water or lava and corrects it
+- whether the corrected results demonstrate improvement and reduce flaws in the final product
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+- e.g. creating multiple obsidian blocks in one go
+- e.g. using a more efficient layout for placing water and lava
+
+**Task Completion Efficiency**
+- whether the time taken by the agent to complete the task falls within a reasonable range
+- whether effective strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+- whether the agent correctly uses the water bucket and lava bucket
+- whether the agent avoids wasting water or lava by placing them inaccurately

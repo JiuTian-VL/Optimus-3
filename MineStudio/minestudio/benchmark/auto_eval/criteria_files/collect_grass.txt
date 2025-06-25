@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task**
+ - whether the agent identifies and approaches areas with weeds
+ - whether the agent removes the weeds
+ - whether the agent clears a defined area of all weeds
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. digging unnecessary holes
+ - e.g. placing blocks unrelated to the task
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether agents recognize missed weeds and return to remove them
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. use different tools to remove weeds like hands or a hoe
+ - e.g. organize the removed weeds in a specific pattern or use them for decoration
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate tools for removing weeds
+ - whether the agent efficiently manages the inventory space for collecting weeds

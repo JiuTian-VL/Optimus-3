@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:iron_sword
+- /give @s minecraft:lapis_lazuli 10
+- /setblock ~2 ~ ~ minecraft:enchanting_table
+- /give @s minecraft:red_dye 5
+- /give @s minecraft:book 64
+defaults:
+- base
+- _self_
+text: Enchant a sword with a chosen enchantment using an enchanting table.

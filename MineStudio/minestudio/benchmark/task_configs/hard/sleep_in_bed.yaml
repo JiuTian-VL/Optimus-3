@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:blue_bed
+- /time set night
+- /give @s minecraft:torch 10
+- /give @s minecraft:flower_pot 5
+defaults:
+- base
+- _self_
+text: Place a bed and sleep in it to skip the night.

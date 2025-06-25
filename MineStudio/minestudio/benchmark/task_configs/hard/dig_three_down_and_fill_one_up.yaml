@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:iron_shovel
+- /give @s minecraft:dirt 10
+- /fill ~ ~-1 ~ ~ ~-3 ~ minecraft:stone
+- /give @s minecraft:poppy 5
+defaults:
+- base
+- _self_
+text: Dig three blocks down and fill one block back up with a different block.

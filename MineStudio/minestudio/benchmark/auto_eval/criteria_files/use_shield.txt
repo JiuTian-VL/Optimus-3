@@ -1,0 +1,20 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent equips the shield  
+ - whether the agent encounters a enemies  
+ - whether the agent successfully blocks an attack from the enemies using the shield  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. attacking the enemies without using the shield  
+ - e.g. wandering away from the enemies instead of using the shield  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - e.g. whether the agent realizes they did not block an attack and attempts to reposition themselves to block correctly  
+ - whether the agent learns from previous mistakes in timing or positioning when using the shield  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. using the shield in combination with other items (e.g., a sword or bow) to fend off the enemies effectively  
+ - e.g. employing strategic movement to lure the enemies into a trap while using the shield  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to ward off the enemies falls within a reasonable range  
+ - whether the agent effectively uses the shield to minimize damage taken while engaging with the enemies  

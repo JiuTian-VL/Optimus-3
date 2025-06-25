@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent locates a sheep
+ - whether the agent approaches the sheep
+ - whether the agent successfully kills the sheep
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. attacking other animals or breaking blocks unnecessarily
+ - wandering aimlessly without focusing on the sheep
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes missing or ineffective hits and adjusts its approach
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different types of weapons or tools to kill the sheep
+ - e.g. employing tactics like trapping the sheep first to make the task easier
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective hunting strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate weapons or tools to kill the sheep effectively
+ - whether the agent avoids wasting resources or tools in the process

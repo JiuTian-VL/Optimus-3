@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:gold_ingot 10
+- /give @s minecraft:redstone 5
+- /give @s minecraft:crafting_table
+- /give @s minecraft:diamond 32
+defaults:
+- base
+- _self_
+text: Open your inventory and craft a clock using gold ingots and a redstone dust.

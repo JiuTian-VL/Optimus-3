@@ -1,0 +1,16 @@
+custom_init_commands:
+- /replaceitem entity @s armor.head minecraft:diamond_helmet
+- /replaceitem entity @s armor.chest minecraft:diamond_chestplate
+- /replaceitem entity @s armor.legs minecraft:diamond_leggings
+- /replaceitem entity @s armor.feet minecraft:diamond_boots
+- /replaceitem entity @s weapon.mainhand minecraft:diamond_sword
+- /give @p minecraft:bow
+- /give @p minecraft:arrow 64
+- /give @p minecraft:cooked_beef 64
+- /give @p minecraft:shield
+- /summon minecraft:sheep
+defaults:
+- base
+- _self_
+text: Survive a hunt by using tools, weapons, and strategic defenses.
+reference_video: survive_hunt

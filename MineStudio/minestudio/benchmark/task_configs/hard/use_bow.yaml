@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:bow
+- /give @s minecraft:arrow 64
+- /summon minecraft:target ~5 ~ ~
+- /give @s minecraft:shield
+defaults:
+- base
+- _self_
+text: Use a bow to shoot and hit a target.

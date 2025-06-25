@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:map 1
+- /give @s minecraft:compass 1
+- /give @s minecraft:cooked_beef 16
+- /give @s minecraft:wooden_sword 1
+defaults:
+- base
+- _self_
+text: Explore the world to find a forest biome.

@@ -1,0 +1,23 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent locates a diamond ore
+ - whether the agent successfully mines the diamond ore
+ - whether the agent collects the mined diamonds
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. digging random tunnels aimlessly, destroying non-essential blocks without reason
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes using the wrong tool and switches to the correct one (diamond ore requires an iron pickaxe or better)
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different mining techniques, such as branch mining, strip mining, or using TNT
+ - e.g. employing strategies to avoid lava or other hazards effectively
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective mining strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses the appropriate tools (iron pickaxe or better) to mine the diamond ore
+ - whether the agent efficiently uses resources like torches for lighting and food for sustenance during mining

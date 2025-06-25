@@ -1,0 +1,7 @@
+custom_init_commands:
+- /give @s minecraft:iron_shovel
+- /execute as @p at @s run fill ~2 ~ ~ ~4 ~ ~ grass_block
+defaults:
+- base
+- _self_
+text: Mine horizontally

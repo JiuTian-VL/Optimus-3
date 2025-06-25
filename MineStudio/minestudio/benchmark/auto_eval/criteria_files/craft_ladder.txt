@@ -1,0 +1,26 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent places the crafting table
+ - whether the agent opens the crafting table interface
+ - whether the agent places the correct materials in the crafting grid
+ - whether the agent crafts the ladders
+ - whether the agent retrieves the crafted ladders
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. unnecessary movement away from the crafting table
+ - e.g. placing and then immediately breaking the crafting table
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes incorrect material placement in the crafting grid
+ - whether the agent corrects mistakes to produce the correct number of ladders
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. use different configurations of wood to craft ladders
+ - e.g. crafting additional useful items along with ladders
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective crafting strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent correctly uses sticks to craft ladders
+ - whether the agent manages available resources efficiently without wastage

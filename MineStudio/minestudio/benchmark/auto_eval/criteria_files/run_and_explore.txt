@@ -1,0 +1,22 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent begins running
+ - whether the agent explores different areas or biomes
+ - whether the agent interacts with notable landmarks or features in the environment
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. stopping frequently without purpose, wandering in circles without exploring
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes when it is not making progress in exploration and changes direction
+ - whether the corrected results demonstrate improvement in exploration efficiency
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different paths or methods to explore, such as climbing or swimming
+ - e.g. attempting to interact with various mobs or environmental features along the way
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the exploration falls within a reasonable range.
+ - whether the agent maximizes exploration by efficiently covering ground without unnecessary backtracking
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - e.g. whether the agent uses items such as boats or minecarts to enhance exploration speed and efficiency

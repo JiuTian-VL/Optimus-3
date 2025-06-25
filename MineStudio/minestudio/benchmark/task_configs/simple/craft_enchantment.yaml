@@ -1,0 +1,11 @@
+custom_init_commands:
+- /give @s minecraft:obsidian 4
+- /give @s minecraft:diamond 2
+- /give @s minecraft:book 1
+- /give @s minecraft:crafting_table 1
+- /setblock ~2 ~ ~ minecraft:crafting_table
+defaults:
+- base
+- _self_
+text: Craft an enchanting table to enchant your items.
+reference_video: craft_enchantment

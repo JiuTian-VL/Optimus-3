@@ -1,0 +1,7 @@
+custom_init_commands:
+- /give @s minecraft:iron_shovel 1
+- /give @s minecraft:dirt 10
+defaults:
+- base
+- _self_
+text: Dig three blocks down and fill one block up with dirt.

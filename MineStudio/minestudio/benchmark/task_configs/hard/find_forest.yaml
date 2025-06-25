@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:compass
+- /give @s minecraft:oak_sapling 10
+- /give @s minecraft:torch 20
+- /setworldspawn
+defaults:
+- base
+- _self_
+text: Explore the world to locate a forest biome.

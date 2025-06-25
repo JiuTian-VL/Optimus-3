@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:hoe
+- /give @s minecraft:wheat_seeds 20
+- /give @s minecraft:water_bucket 5
+- /fill ~-5 ~ ~-5 ~5 ~ ~5 dirt 0
+- /summon minecraft:chicken ~2 ~ ~
+defaults:
+- base
+- _self_
+text: Survive by planting and harvesting crops for sustainable food sources.

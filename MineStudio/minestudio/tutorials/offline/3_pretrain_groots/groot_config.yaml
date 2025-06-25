@@ -1,0 +1,54 @@
+hydra:
+  run:
+    dir: ${oc.env:MINESTUDIO_SAVE_DIR}/${now:%Y-%m-%d}/${now:%H-%M-%S}
+
+hydra/job_logging: colorlog
+hydra/hydra_logging: colorlog
+
+dataset_dirs: 
+  - '/nfs-shared-2/data/contractors/dataset_6xx'
+  - '/nfs-shared-2/data/contractors/dataset_7xx'
+  - '/nfs-shared-2/data/contractors/dataset_8xx'
+  - '/nfs-shared-2/data/contractors/dataset_9xx'
+  - '/nfs-shared-2/data/contractors/dataset_10xx'
+
+devices: 8
+batch_size: 8
+num_workers: 6
+prefetch_factor: 4
+split_ratio: 0.90
+learning_rate: 0.00004
+weight_decay: 0.001
+warmup_steps: 2000
+save_freq: 10000
+ckpt_path: null
+loss_scale: 0.01 # does not matter, since AdamW will be used
+bc_weight: 1.0
+kl_div_weight: 0.01
+shuffle_episodes: True
+episode_continuous_batch: False
+
+model:
+  # backbone: 'timm/vit_large_patch14_clip_224.openai'
+  backbone: 'timm/vit_base_patch32_clip_224.openai'
+  hiddim: 1024
+  freeze_backbone: True
+  video_encoder_kwargs:
+    num_spatial_layers: 2
+    num_temporal_layers: 4
+    num_heads: 8
+    dropout: 0.1
+  image_encoder_kwargs:
+    num_layers: 2
+    num_heads: 8
+    dropout: 0.1
+  decoder_kwargs:
+    num_layers: 4
+    timesteps: 128
+    mem_len: 128
+
+ema:
+  decay: 0.999
+  validate_original_weights: True
+  every_n_steps: 8
+  cpu_offload: False

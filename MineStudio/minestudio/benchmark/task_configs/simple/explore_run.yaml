@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:oak_boat
+- /give @s minecraft:filled_map
+- /give @s minecraft:cooked_beef 64
+defaults:
+- base
+- _self_
+text: Explore the world of Minecraft by traveling across various biomes and finding
+  interesting locations.
+reference_video: explore_run

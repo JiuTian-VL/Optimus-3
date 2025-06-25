@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent places the boat in water
+ - whether the agent boards the boat
+ - whether the agent travels a significant distance on the water using the boat
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. placing the boat on land, repeatedly trying to board the boat without success
+ - e.g. engaging in unrelated activities like breaking blocks or attacking entities
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes if the boat is not placed in water and corrects it
+ - e.g. whether the agent adjusts its direction if it gets stuck or travels in the wrong direction
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. exploring different water bodies, such as rivers, lakes, or oceans
+ - e.g. using the boat to navigate through narrow or challenging waterways
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective navigation strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses the boat correctly and does not waste materials
+ - whether the agent efficiently manages resources, such as not breaking the boat unnecessarily

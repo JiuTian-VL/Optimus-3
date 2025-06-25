@@ -1,0 +1,13 @@
+custom_init_commands:
+- /give @s minecraft:cake 1
+- /give @s minecraft:poppy 5
+- /give @s minecraft:flower_pot 1
+- /give @s minecraft:chest 2
+- /execute as @p at @s run fill ~1 ~ ~1 ~2 ~2 ~2 minecraft:chest
+- /time set day
+- /summon minecraft:villager ~3 ~ ~ {Profession:"minecraft:cleric"}
+defaults:
+- base
+- _self_
+text: Prepare a birthday present for your neighbor by crafting a gift basket filled
+  with various delightful items.

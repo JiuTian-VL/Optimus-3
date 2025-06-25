@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent builds two supporting pillars
+ - whether the agent constructs an arch connecting the two pillars
+ - whether the gate is symmetrically aligned
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. destroying already built sections of the gate
+ - e.g. placing blocks far away from the intended structure
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes any misalignment or incorrect placements of the arch
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. adding decorative elements to the gate like banners or lanterns
+ - e.g. using different materials to create a visually appealing design
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective construction strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate materials for the pillars and arch
+ - whether the materials chosen contribute to the stability and aesthetics of the gate

@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:shield
+- /give @s minecraft:stone_sword
+- /give @s minecraft:planks 20
+- /give @s minecraft:stick 10
+- /summon minecraft:zombie ~2 ~ ~
+defaults:
+- base
+- _self_
+text: Equip and use a shield to block incoming attacks.

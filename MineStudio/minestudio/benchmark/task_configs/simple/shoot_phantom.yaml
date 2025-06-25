@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @p minecraft:bow
+- /give @p minecraft:arrow 16
+- /time set night
+- /summon minecraft:phantom ~2 ~ ~
+defaults:
+- base
+- _self_
+text: Shoot a phantom using a bow and arrows.

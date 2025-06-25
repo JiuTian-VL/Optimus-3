@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:iron_pickaxe
+- /execute as @p at @s run fill ~1 ~-4 ~1 ~10 ~-1 ~10 stone
+- /execute as @p at @s run fill ~5 ~-2 ~5 ~7 ~-2 ~7 diamond_ore
+- /give @s minecraft:torch 64
+- /time set night
+defaults:
+- base
+- _self_
+text: Locate and mine diamonds deep underground.

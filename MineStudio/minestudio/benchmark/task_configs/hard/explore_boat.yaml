@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:oak_planks 10
+- /give @s minecraft:water_bucket 5
+- /fill ~1 ~ ~1 ~5 ~ ~5 water
+- /give @s minecraft:flower_pot
+- /summon boat
+defaults:
+- base
+- _self_
+text: Craft and use a boat to explore water bodies in Minecraft.

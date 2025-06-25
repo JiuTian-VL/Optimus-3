@@ -1,0 +1,23 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent starts climbing the mountain
+ - whether the agent reaches the top of the mountain
+ - whether the agent navigates obstacles effectively
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. wandering aimlessly without making progress in climbing, destroying blocks without necessity, or repeatedly falling off the mountain.
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether agents recognize inefficient climbing routes and adjust their path
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different tools or strategies to climb, building temporary structures to aid in climbing, or finding shortcuts.
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective climbing strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate tools and materials (e.g., ladders, blocks) to assist in climbing.
+ - whether the agent conserves resources effectively.
+

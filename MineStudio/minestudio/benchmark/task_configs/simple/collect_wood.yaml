@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @s minecraft:wooden_axe
+- /execute as @p at @s run fill ~1 ~ ~1 ~5 ~10 ~5 minecraft:oak_log
+defaults:
+- base
+- _self_
+text: 'Collect wood from trees in your surroundings.  '
+reference_video: collect_wood

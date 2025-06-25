@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @p minecraft:stone_pickaxe
+- /give @p minecraft:diamond_pickaxe
+- /execute as @p at @s run fill ~1 ~-1 ~1 ~4 ~-1 ~4 minecraft:stone
+- /give @s minecraft:torch 10
+defaults:
+- base
+- _self_
+text: Use a pickaxe to mine stone blocks and gather them.

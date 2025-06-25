@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:bread 16
+- /give @s minecraft:map
+- /execute as @p at @s run fill ~-10 ~-1 ~-10 ~10 ~-1 ~10 grass_block
+- /summon minecraft:cat ~5 ~ ~
+defaults:
+- base
+- _self_
+text: Explore your surroundings to locate a village.

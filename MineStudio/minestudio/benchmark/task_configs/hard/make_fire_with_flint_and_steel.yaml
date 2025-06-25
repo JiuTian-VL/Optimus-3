@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:flint_and_steel 2
+- /give @s minecraft:oak_planks 16
+- /setblock ~1 ~ ~ minecraft:oak_planks
+- /give @s minecraft:torch 10
+defaults:
+- base
+- _self_
+text: Use flint and steel to ignite a fire on a block.

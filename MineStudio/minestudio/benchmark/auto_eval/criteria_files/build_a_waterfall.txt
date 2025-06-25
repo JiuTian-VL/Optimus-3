@@ -1,0 +1,25 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent selects an appropriate location for building the waterfall
+ - whether the agent builds a structure (e.g., a cliff or a platform) to create the waterfall from
+ - whether the agent correctly places the water source block at the top of the structure
+ - whether the water flows down to create the waterfall effect
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. unnecessary digging or building in unrelated areas
+ - e.g. placing and removing blocks repeatedly without purpose
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether agents recognize if the water is not flowing correctly and adjust the structure or placement
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. adding decorative elements like rocks, plants, or lighting around the waterfall
+ - e.g. creating multiple tiers or layers in the waterfall for a more complex design
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective construction strategies were employed to minimize unnecessary repetitions or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate materials to build the structure supporting the waterfall
+ - whether the agent effectively manages the water source blocks to create the desired waterfall effect

@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:shears 1
+- /setblock ~2 ~ ~ minecraft:water
+- /setblock ~2 ~1 ~ minecraft:seagrass
+defaults:
+- base
+- _self_
+text: Collect seagrass from underwater areas.
+reference_video: collect_seagrass

@@ -1,0 +1,23 @@
+**Task Progress: the key factors/steps for completing the task**
+ - whether the agent dives into the water
+ - whether the agent locates seagrass
+ - whether the agent collects seagrass
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. swimming aimlessly without targeting seagrass, collecting unrelated items or blocks.
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes when it collects the wrong items and corrects this behavior
+ - whether the agent adjusts its approach if it initially fails to collect seagrass
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. employing different methods to collect the seagrass, such as using shears or hands
+ - e.g. exploring different underwater biomes to find seagrass
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary actions and maximize collection speed
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - e.g. using appropriate tools like shears to collect seagrass efficiently
+ - e.g. managing inventory space to ensure enough room for seagrass collection

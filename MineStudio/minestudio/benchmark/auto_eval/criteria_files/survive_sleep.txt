@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task**
+ - whether the agent places the bed on the surface
+ - whether the agent interacts with the bed to enter sleep mode 
+ - whether the agent successfully sleeps through the night and wakes up in the morning
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. placing and breaking blocks unrelated to the bed
+ - e.g. wandering aimlessly without progressing towards the task
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes the bed placement issues (e.g., placing in an obstructed area) and corrects them
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. choosing a safe and aesthetically pleasing location for placing the bed
+ - e.g. adding decorative elements or protective measures around the bed area
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors (e.g., quickly finding a suitable spot for the bed)
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent correctly places the bed using the provided materials
+ - whether the agent ensures the bed is placed on a suitable surface to enable sleeping

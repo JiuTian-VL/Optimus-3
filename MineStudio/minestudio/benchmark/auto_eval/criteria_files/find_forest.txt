@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent starts moving from its initial position
+ - whether the agent navigates through different biomes
+ - whether the agent identifies and enters a forest biome
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. wandering aimlessly without a clear direction
+ - e.g. engaging in unrelated activities such as mining or building structures
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. recognizing when it is in the wrong biome and changing direction
+ - whether the corrected path demonstrates improvement and reduces the time to find the forest
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using landmarks or specific strategies to navigate towards the forest
+ - e.g. employing tools or items to speed up the search process, like using a map or compass
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective navigation strategies were employed to minimize unnecessary detours or errors
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - e.g. using items such as maps or compasses effectively to assist in finding the forest
+ - e.g. not wasting resources on unrelated activities while searching for the forest

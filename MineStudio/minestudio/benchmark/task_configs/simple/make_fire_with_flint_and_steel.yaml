@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:flint 5
+- /give @s minecraft:iron_ingot 5
+- /give @s minecraft:oak_log 10
+- /give @s minecraft:oak_leaves 10
+- /replaceitem entity @s weapon.mainhand minecraft:flint_and_steel
+defaults:
+- base
+- _self_
+text: Use flint and steel to ignite a fire.

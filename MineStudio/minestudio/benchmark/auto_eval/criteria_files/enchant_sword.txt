@@ -1,0 +1,25 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent places the enchanting table  
+ - whether the agent interacts with the enchanting table  
+ - whether the agent selects the diamond sword to enchant  
+ - whether the agent successfully enchants the diamond sword  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. wandering away from the enchanting table after placing it  
+ - e.g. clicking on unrelated items in the inventory instead of focusing on the sword  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - whether the agent realizes if the enchanting table is not surrounded by bookshelves for optimal enchantment  
+ - whether the agent corrects any mistakes in selecting the sword or enchanting process  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. attempting to enchant multiple swords or using different enchanting methods  
+ - e.g. experimenting with various combinations of lapis lazuli and bookshelves for different enchantment levels  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to complete the task falls within a reasonable range  
+ - whether effective strategies are employed to minimize unnecessary actions during the enchanting process  
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**  
+ - whether the agent uses the correct materials (diamond sword, lapis lazuli) for enchanting  
+ - whether the agent efficiently uses bookshelves to enhance the enchantment level of the enchanting table  

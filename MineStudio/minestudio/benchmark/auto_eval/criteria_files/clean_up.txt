@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task**
+ - whether the agent identifies the items that need to be cleaned up
+ - whether the agent collects or removes the items from the designated area
+ - whether the area is left clean and organized
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. moving items to incorrect locations, causing additional clutter
+ - e.g. destroying blocks that are not part of the clean-up task
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes misplaced items and corrects their positions
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. organizing items in a neat and visually appealing manner
+ - e.g. creating storage solutions like chests or item frames
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors in the clean-up process
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent utilizes appropriate tools or containers for collecting and organizing items
+ - whether the agent avoids using unnecessary materials or resources during the clean-up process

@@ -1,0 +1,22 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent locates a skeleton
+ - whether the agent engages the skeleton in combat
+ - whether the agent defeats the skeleton
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. attacking non-hostile mobs or objects, unnecessary item usage, fleeing from the skeleton without strategic purpose
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes when it is hit by the skeleton and takes corrective actions like using a shield or retreating
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. use of terrain for strategic advantage, employing different weapons or tools, using traps or environmental hazards to defeat the skeleton
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective combat strategies were employed to minimize unnecessary damage or delay.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses appropriate weapons and armor
+ - whether the agent uses consumables like food or potions effectively

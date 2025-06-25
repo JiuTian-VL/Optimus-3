@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:water_bucket 5
+- /give @s minecraft:stone 64
+- /give @s minecraft:dirt 64
+- /execute as @p at @s run fill ~-2 ~-1 ~-2 ~2 ~4 ~2 water
+- /give @s minecraft:wooden_shovel 1
+defaults:
+- base
+- _self_
+text: Create a stunning waterfall using water buckets and natural terrain.

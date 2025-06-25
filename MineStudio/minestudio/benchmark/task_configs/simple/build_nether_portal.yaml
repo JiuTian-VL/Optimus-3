@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:obsidian 14
+- /give @s minecraft:flint_and_steel 1
+- /setblock ~2 ~ ~ obsidian
+- /setblock ~2 ~1 ~ obsidian
+- /setblock ~2 ~2 ~ obsidian
+defaults:
+- base
+- _self_
+text: Build a nether portal using obsidian blocks and activate it with flint and steel.

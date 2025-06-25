@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent collects obsidian
+ - whether the agent constructs a rectangular frame using obsidian (minimum 4x5 dimensions)
+ - whether the agent lights the portal with a flint and steel
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. destroying already placed obsidian blocks unnecessarily
+ - e.g. wandering aimlessly instead of focusing on portal construction
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent recognizes misaligned or incorrectly placed obsidian blocks and corrects them
+ - whether the corrected results demonstrate improvement and reduce flaws in the final product.
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. adding decorative elements around the portal
+ - e.g. using varying sizes or shapes for the portal frame beyond the basic requirements
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective construction strategies were employed to minimize unnecessary repetitions or errors.
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - whether the agent uses obsidian blocks for the frame
+ - whether the agent uses flint and steel to ignite the portal

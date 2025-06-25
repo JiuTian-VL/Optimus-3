@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:map 1
+- /give @s minecraft:wooden_pickaxe 1
+- /give @s minecraft:oak_boat 1
+- /setblock ~2 ~ ~ minecraft:chest{LootTable:"minecraft:chests/buried_treasure"}
+defaults:
+- base
+- _self_
+text: Locate and explore a buried treasure using a treasure map.

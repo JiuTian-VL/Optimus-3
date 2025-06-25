@@ -1,0 +1,12 @@
+custom_init_commands:
+- /replaceitem entity @s armor.head minecraft:diamond_helmet
+- /replaceitem entity @s armor.chest minecraft:diamond_chestplate
+- /replaceitem entity @s armor.legs minecraft:diamond_leggings
+- /replaceitem entity @s armor.feet minecraft:diamond_boots
+- /replaceitem entity @s weapon.mainhand minecraft:diamond_sword
+- /summon minecraft:zombie ~3 ~ ~
+- /time set night
+defaults:
+- base
+- _self_
+text: 'Combat zombies with given weapons and armor.  '

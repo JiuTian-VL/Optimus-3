@@ -1,0 +1,13 @@
+[
+    {
+        "Task Progress": 10,
+        "Action Control": 9,
+        "Error Recognition and Correction": 7,
+        "Creative Attempts": 5,
+        "Task Completion Efficiency": 9,
+        "Material Selection and Usage": 10,
+        "video_path": "/home/user/code/Mark2/jarvis/auto_eval/eval_video/combat_spider/combat_spider_7.mp4",
+        "task_name": "combat_spider"
+    },
+    "Task Progress:\n- The agent identifies and engages with multiple spiders, successfully defeating them.\nScore: 10\n\nAction Control:\n- The agent directly engages the spiders without unnecessary actions.\nScore: 9\n\nError Recognition and Correction:\n- The agent adjusts its position to dodge attacks, though not perfectly.\nScore: 7\n\nCreative Attempts:\n- The agent uses a diamond sword, but no additional creative strategies are observed.\nScore: 5\n\nTask Completion Efficiency:\n- The task is completed in a reasonable time with minimal health loss.\nScore: 9\n\nMaterial Selection and Usage:\n- The agent uses a diamond sword and diamond armor effectively.\nScore: 10\n\nOverall Scores:\n- Task Progress: 10\n- Action Control: 9\n- Error Recognition and Correction: 7\n- Creative Attempts: 5\n- Task Completion Efficiency: 9\n- Material Selection and Usage: 10"
+]

@@ -1,0 +1,12 @@
+custom_init_commands:
+- /give @s minecraft:stone_pickaxe
+- /give @s minecraft:obsidian 20
+- /give @s minecraft:flint_and_steel 2
+- /execute as @p at @s run fill ~2 ~2 ~3 ~1 ~5 ~4 iron_ore
+- /give @s minecraft:wooden_pickaxe
+- /give @s minecraft:coal 32
+defaults:
+- base
+- _self_
+text: 'Construct a Nether portal using obsidian blocks and a flint and steel to ignite
+  it.  '

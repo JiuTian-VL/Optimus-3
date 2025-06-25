@@ -1,0 +1,14 @@
+custom_init_commands:
+- /replaceitem entity @s armor.head minecraft:iron_helmet
+- /replaceitem entity @s armor.chest minecraft:iron_chestplate
+- /replaceitem entity @s armor.legs minecraft:iron_leggings
+- /replaceitem entity @s armor.feet minecraft:iron_boots
+- /give @p minecraft:bow 1
+- /time set night
+- /summon minecraft:skeleton ~3 ~ ~
+- /give @p minecraft:arrow 64
+- /give @p minecraft:flint 15
+defaults:
+- base
+- _self_
+text: Combat skeletons using the right gear and strategy.

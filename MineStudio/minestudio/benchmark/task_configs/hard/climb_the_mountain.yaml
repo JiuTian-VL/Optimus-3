@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:torch 64
+- /give @s minecraft:stone 64
+- /give @s minecraft:iron_pickaxe
+- /effect give @a minecraft:night_vision 99999 1 true
+- /give @s minecraft:ladder 64
+defaults:
+- base
+- _self_
+text: Climb a mountain by navigating the terrain and reaching the summit.

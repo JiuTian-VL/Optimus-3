@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:map
+- /give @s minecraft:compass
+- /give @s minecraft:cooked_beef 16
+- /give @s minecraft:bread 16
+defaults:
+- base
+- _self_
+text: Explore the world to find a village.

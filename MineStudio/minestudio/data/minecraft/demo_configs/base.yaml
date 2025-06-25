@@ -1,0 +1,34 @@
+hydra:
+  run:
+    dir: ${oc.env:MINESTUDIO_SAVE_DIR}/${now:%Y-%m-%d}/${now:%H-%M-%S}
+
+hydra/job_logging: colorlog
+hydra/hydra_logging: colorlog
+
+dataset_dirs:
+  - ${oc.env:MINESTUDIO_DATABASE}/contractors/dataset_6xx
+  - ${oc.env:MINESTUDIO_DATABASE}/contractors/dataset_7xx
+  - ${oc.env:MINESTUDIO_DATABASE}/contractors/dataset_8xx
+  - ${oc.env:MINESTUDIO_DATABASE}/contractors/dataset_9xx
+  - ${oc.env:MINESTUDIO_DATABASE}/contractors/dataset_10xx
+
+skip_frame: 1
+win_len: 128
+batch_size: 4
+num_workers: 8
+frame_width: 224
+frame_height: 224
+enable_resize: False
+num_samples: 10
+save_fps: 20
+
+enable_video: True
+enable_action: True
+enable_contractor_info: False
+enable_segment: False
+
+temporal_mask: False
+shuffle: True
+legend: False
+dataset_type: 'raw'
+enable_augmentation: False

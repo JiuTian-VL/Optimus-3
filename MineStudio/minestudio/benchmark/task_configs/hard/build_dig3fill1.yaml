@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:diamond_shovel 1
+- /fill ~ ~-1 ~ ~ ~-3 ~ minecraft:dirt
+- /give @s minecraft:stone 10
+- /time set day
+defaults:
+- base
+- _self_
+text: Dig three blocks down and fill one block.

@@ -1,0 +1,13 @@
+[
+    {
+        "Task Progress": "B is better",
+        "Action Control": "B is better",
+        "Error Recognition and Correction": "B is better",
+        "Creative Attempts": "tie",
+        "Task Completion Efficiency": "B is better",
+        "Material Selection and Usage": "tie",
+        "video_1_path": "./eval_video/build_gate_5.mp4",
+        "video_2_path": "./eval_video/build_gate_7.mp4"
+    },
+    "Task Progress:\n- Video B constructs two pillars and an arch; A does not complete the arch.\nresult: B is better\n\nAction Control:\n- Video A shows more wandering and redundant actions.\nresult: B is better\n\nError Recognition and Correction:\n- Video B corrects structure misalignments.\nresult: B is better\n\nCreative Attempts:\n- Neither video shows creative elements like decorations.\nresult: tie\n\nTask Completion Efficiency:\n- Video B completes the task faster and more efficiently.\nresult: B is better\n\nMaterial Selection and Usage:\n- Both use oak planks appropriately.\nresult: tie\n\nOverall results:\n- Task Progress: B is better\n- Action Control: B is better\n- Error Recognition and Correction: B is better\n- Creative Attempts: tie\n- Task Completion Efficiency: B is better\n- Material Selection and Usage: tie"
+]

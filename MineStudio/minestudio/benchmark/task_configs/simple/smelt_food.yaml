@@ -1,0 +1,8 @@
+custom_init_commands:
+- /give @s minecraft:raw_beef 15
+- /give @s minecraft:coal 20
+- /setblock ~2 ~ ~ minecraft:furnace
+defaults:
+- base
+- _self_
+text: Smelt raw food items to create cooked food using a furnace.

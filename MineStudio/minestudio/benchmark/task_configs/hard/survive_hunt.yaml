@@ -1,0 +1,11 @@
+custom_init_commands:
+- /give @s minecraft:diamond_pickaxe
+- /setblock ~2 ~ ~ minecraft:chest
+- /give @s minecraft:torch 20
+- /give @s minecraft:apple 10
+- /summon minecraft:sheep
+defaults:
+- base
+- _self_
+text: 'Survive a hunt by preparing defensive tools, gathering resources, and staying
+  aware of your surroundings.  '

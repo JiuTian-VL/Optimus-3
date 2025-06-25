@@ -1,0 +1,10 @@
+custom_init_commands:
+- /give @s minecraft:wheat_seeds 32
+- /give @s minecraft:iron_hoe
+- /setblock ~1 ~ ~ minecraft:water
+- /fill ~2 ~ ~2 ~5 ~ ~5 minecraft:farmland
+- /give @s minecraft:flower_pot 5
+defaults:
+- base
+- _self_
+text: Plant wheat seeds in tilled soil to grow wheat.

@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent places two snow blocks on the ground  
+ - whether the agent places one carved pumpkin on top of the snow blocks  
+ - whether the snow golem is successfully created  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. placing blocks in unrelated locations  
+ - e.g. destroying already placed snow blocks or the carved pumpkin  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - e.g. whether the agent recognizes if the snow blocks or carved pumpkin are incorrectly placed  
+ - whether the agent corrects any mistakes to successfully create the snow golem  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. arranging additional snow blocks around the snow golem for decoration  
+ - e.g. using different materials to create a themed area for the snow golems  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to complete the task falls within a reasonable range  
+ - whether effective strategies were employed to minimize unnecessary actions, such as not repeatedly placing or breaking blocks  
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**  
+ - e.g. whether the agent uses the correct type of snow blocks and a carved pumpkin for the task  
+ - whether the agent avoids using incorrect materials that do not contribute to building the snow golem  

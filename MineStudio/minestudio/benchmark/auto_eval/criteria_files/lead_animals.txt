@@ -1,0 +1,22 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent has obtained reins
+ - whether the agent interacts with the animals
+ - whether the agent uses the reins to tie up the animals
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. wandering away from the animals, performing unnecessary actions such as breaking blocks or crafting unrelated items
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent realizes if an animal is not properly tied and attempts to correct the situation
+ - whether the agent recognizes if the reins were not used correctly and adjusts their approach
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using different approaches to lead multiple animals at once or creating a unique pen for the animals
+ - e.g. experimentation with different types of animals or environments while leading them
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range
+ - whether effective strategies were employed to minimize unnecessary movements or errors during the leading process
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - e.g. whether the agent has the correct type of reins and uses them appropriately on the animals

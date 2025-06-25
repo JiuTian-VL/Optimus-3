@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:pumpkin 5
+- /give @s minecraft:shears 1
+- /setblock ~2 ~ ~ minecraft:crafting_table
+defaults:
+- base
+- _self_
+text: Create a carved pumpkin to use as a decorative item or for crafting.
+reference_video: tool_pumpkin

@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:stone_pickaxe 1
+- /give @s minecraft:iron_pickaxe 1
+- /execute as @p at @s run fill ~1 ~ ~ ~10 ~ ~ air
+- /give @s minecraft:stone_bricks 64
+defaults:
+- base
+- _self_
+text: Mine horizontally by removing blocks in a straight line at the desired height.

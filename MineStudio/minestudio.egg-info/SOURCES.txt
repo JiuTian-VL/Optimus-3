@@ -1,0 +1,7 @@
+pyproject.toml
+minestudio/__init__.py
+minestudio.egg-info/PKG-INFO
+minestudio.egg-info/SOURCES.txt
+minestudio.egg-info/dependency_links.txt
+minestudio.egg-info/requires.txt
+minestudio.egg-info/top_level.txt

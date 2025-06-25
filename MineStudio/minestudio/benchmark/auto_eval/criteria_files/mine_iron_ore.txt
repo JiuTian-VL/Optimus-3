@@ -1,0 +1,24 @@
+**Task Progress: the key factors/steps for completing the task** 
+ - whether the agent locates an iron ore block
+ - whether the agent mines the iron ore block
+ - whether the agent collects the mined iron ore
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**
+ - e.g. mining blocks other than iron ore unnecessarily
+ - e.g. wandering aimlessly or performing unrelated actions like building or digging unrelated holes
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**
+ - e.g. whether the agent stops mining unrelated blocks upon realizing the mistake
+ - whether the agent switches to the correct tool if initially using the wrong one (e.g., using a stone pickaxe instead of a wooden one)
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**
+ - e.g. using torches or other light sources to better locate iron ore
+ - e.g. creating a systematic mining pattern to efficiently find and mine iron ore
+
+**Task Completion Efficiency**
+ - whether the time taken by the agent to complete the task falls within a reasonable range.
+ - whether effective mining strategies were employed to minimize unnecessary repetitions or errors, such as digging directly to known iron ore locations or systematically searching caves
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**
+ - e.g. using the correct pickaxe (stone or higher) to mine iron ore
+ - e.g. appropriately using materials like torches for illumination during mining

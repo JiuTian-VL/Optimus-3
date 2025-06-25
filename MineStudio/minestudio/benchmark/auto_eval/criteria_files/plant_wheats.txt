@@ -1,0 +1,23 @@
+**Task Progress: the key factors/steps for completing the task**  
+ - whether the agent uses an iron hoe to till the land  
+ - whether the agent plants wheat seeds after tilling  
+
+**Action Control: whether the agents have unrelated operations of the task, including useless actions and redundancy actions**  
+ - e.g. using the hoe on blocks that are not soil  
+ - e.g. wandering off to other tasks instead of planting seeds  
+
+**Error Recognition and Correction: whether the agent can promptly identify and rectify its mistakes**  
+ - whether the agent recognizes if the tilling was not successful or incorrect  
+ - whether the agent corrects any mistakes in the planting process, such as re-tilling or reseeding  
+
+**Creative Attempts: any creative attempts exhibited by the agent during doing task**  
+ - e.g. arranging the wheat in a specific pattern or design  
+ - e.g. using multiple tools or methods to enhance the planting process  
+
+**Task Completion Efficiency**  
+ - whether the time taken by the agent to complete the task falls within a reasonable range  
+ - whether effective strategies were employed to minimize unnecessary repetitions or errors during tilling and planting  
+
+**Material Selection and Usage: whether the agent correctly utilize the given materials**  
+ - whether the agent uses the iron hoe appropriately and does not switch to an incorrect tool  
+ - whether the agent selects the correct type of seeds to plant after tilling the land

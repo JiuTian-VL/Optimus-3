@@ -1,0 +1,9 @@
+custom_init_commands:
+- /give @s minecraft:oak_planks 10
+- /give @s minecraft:stick 5
+- /setblock ~2 ~ ~ minecraft:crafting_table
+defaults:
+- base
+- _self_
+text: Build a gate to secure your area in Minecraft.
+reference_video: build_gate
