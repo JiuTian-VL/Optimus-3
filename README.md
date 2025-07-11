@@ -74,7 +74,12 @@ mkdir checkpoint
 download Optimus-3 mllm (https://huggingface.co/MinecraftOptimus/Optimus-3) into folder 'checkpoint'
 download Optimus-3 action head (https://huggingface.co/MinecraftOptimus/Optimus-3-ActionHead) into folder 'checkpoint'
 download Optimus-3 task router (https://huggingface.co/MinecraftOptimus/Optimus-3-Task-Router) into folder 'checkpoint'
-change the checkpoint path in gui_server.py (line 229)
+download original sentence-bert (https://huggingface.co/efederici/sentence-bert-base) into folder 'checkpoint'
+
+# change the ckpt path
+change the optimus3 (actionhead,mllm,task router) checkpoint path in gui_server.py (line 229)
+change the optimus3 task router checkpoint path in ./src/minecraftoptimus/model/agent/optimus3.py (line 64)
+change the sentence-bert checkpoint path in ./src/minecraftoptimus/model/optimus3/modeling_task_router.py (line 11)
 
 # Communication IP settings
 input the ip of your server in gui_server.py (line 459)
