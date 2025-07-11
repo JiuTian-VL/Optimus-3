@@ -39,6 +39,10 @@ We provide an interactive interface that enables users to interact with Optimus-
 ### Server
 Server are deployed on machines with a GPU with at least 28GB of VRAM.
 ```shell
+# install java 8
+sudo apt install openjdk-8-jdk
+sudo apt install xvfb
+
 # install uv
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
