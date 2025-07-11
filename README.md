@@ -111,6 +111,7 @@ python main.py
 
 # note 
 If you encounter an error about the 'collection', change collections to collections.abc in the corresponding location.
+If you encounter an error about the 'model_type', you can change the model_type (line 22) into "qwen2_5_vl" in /checkpoint/Optimus3/config.json
 ```
 
 
