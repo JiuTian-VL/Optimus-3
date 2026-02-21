@@ -27,13 +27,15 @@
 </div>
 
 ## :new: Updates
+- [02/2026] :fire: We release the demo video on [YouTobe](https://www.youtube.com/watch?v=0VOT4PMgf7Y).
 - [06/2025] :fire: We release the Optimus-3-preview on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3).
 - [06/2025] :fire: [Project page](https://cybertronagent.github.io/Optimus-3.github.io/) and code released.
 - [06/2025] :fire: [Arxiv paper](https://arxiv.org/abs/2506.10357) released.
 
 
 ## :smile: Play with Optimus-3
-<img src="./assets/demo.png" >
+[![YouTube Demo](https://img.youtube.com/vi/0VOT4PMgf7Y/hqdefault.jpg)](https://www.youtube.com/watch?v=0VOT4PMgf7Y)
+
 We provide an interactive interface that enables users to interact with Optimus-3 in Minecraft in real time through a GUI. You can interact with Optimus-3 through instructions to perform Planning, Long-horizon Actions, Captioning, Embodied QA, and Grounding. This is a framework with a separation between the server and client. You can deploy the model on the server (we strongly recommend a GPU with at least 32GB of VRAM), and then initiate interaction with the server from your local machine at any time.
 
 ### Server
