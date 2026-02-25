@@ -1,7 +1,7 @@
 <div align="center">
 <h2 align="center">
-   <img src="./assets/optimus3.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>Optimus-3: Towards Generalist Multimodal Minecraft Agents
-     <br />  with Scalable Task Experts </b>
+   <img src="./assets/optimus3.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> <b>Optimus-3: Dual-Router Aligned Mixture-of-Experts Agent 
+     <br />  with Dual-Granularity Reasoning-Aware Policy Optimization </b>
 </h2>
 <div>
 <a target="_blank" href="https://scholar.google.com/citations?user=TDBF2UoAAAAJ&hl=en&oi=ao">Zaijing&#160;Li</a><sup>1 2</sup>,
@@ -147,8 +147,8 @@ If you find this work useful for your research, please kindly cite our paper:
 
 ```
 @article{li2025optimus,
-  title={Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts},
-  author={Li, Zaijing and Xie, Yuquan and Shao, Rui and Chen, Gongwei and Guan, Weili and Jiang, Dongmei and Nie, Liqiang},
+  title={Optimus-3: Dual-Router Aligned Mixture-of-Experts Agent with Dual-Granularity Reasoning-Aware Policy Optimization},
+  author={Li, Zaijing and Xie, Yuquan and Shao, Rui and Chen, Gongwei and Guan, Weili and Jiang, Dongmei and Wang, Yaowei and Nie, Liqiang},
   journal={arXiv preprint arXiv:2506.10357},
   year={2025}
 }
