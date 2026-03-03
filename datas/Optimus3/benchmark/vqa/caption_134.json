@@ -1,0 +1,2682 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a nighttime scene in Minecraft where a player is in the process of constructing a wooden house. The viewpoint is from above, likely standing on the partially completed roof or upper wall. The structure is made primarily of oak planks, with an oak log block placed vertically at the edge of the roof. There are glass windows embedded in the wall below, and torches are attached both to the roof and around the building, providing light. A crafting table is visible inside the house, and the player is holding more oak planks in their hand, visible in the bottom right. The hotbar at the bottom shows various building blocks and tools. The surrounding area features grassy terrain and trees."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000000_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, showing a player standing in a grassy plains biome. The landscape is mostly flat, covered with green grass blocks and tall grass, with a few distant hills and scattered trees. The player's hand is visible in the lower right corner, holding an oak log block. The player's inventory bar at the bottom of the screen shows an oak log selected, with other items (likely additional logs) and empty slots. The player's health and hunger bars are full. In the top right corner, a notification reads \"New Recipes Unlocked! Check your recipe book,\" indicating the player has recently collected a new material. The highlighted block in the center shows where the player is aiming, which is currently an empty grass block."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000001_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view from the game Minecraft, where the player is in a narrow underground tunnel made of stone blocks. At the end of the tunnel, there is a visible stream of bright orange lava flowing downward, partially blocking further progress. The player is currently holding a cobblestone block, as indicated by the hotbar at the bottom of the screen, and a torch is visible on the left wall. The hotbar also shows other items like a pickaxe, torches, and different blocks. The player's health and hunger bars are mostly full, and there is a moderate amount of experience, as indicated by the green bar above the hotbar."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000002_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft showing the player's crafting interface. The player is standing outside on grass, next to a crafting table. The crafting grid and inventory interface are open, with a variety of craftable items displayed in the left pane, including wooden tools and blocks. The cursor is hovering over the wooden hoe option, showing its stats: \"When in Main Hand: 1 Attack Damage, 1 Attack Speed.\" In the top right, a notification says, \"New Recipes Unlocked! Check your recipe book.\" Part of a cow can be seen in the upper right of the screen, indicating the player is near animals. Some wood planks and sticks are present in the player's inventory."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000003_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person perspective from the game Minecraft, inside an underground stone tunnel or small room. The player's crosshair is centered on a stone block on the far wall, indicating that it might soon be mined. The player's hotbar is visible at the bottom of the screen, showing various items such as torches, cobblestone, dirt, sticks, pickaxes, redstone, and food (likely bread). The player's experience level is 4, and all health and hunger bars are full. A torch is held in the left hand, casting light in the otherwise dark underground area. No mobs, ores, or decorations are visible beyond the plain stone blocks making up the walls, floor, and ceiling."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000004_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player is standing outdoors on a grassy terrain with dirt blocks and sparse patches of tall grass and ferns. The environment is a taiga biome, characterized by tall spruce trees in the background. Several torches are placed on the ground and on dirt blocks in the mid-background, likely for lighting or marking purposes. \n\nThe player's shield is visible on the left side of the screen, and the player is holding a piece of cooked mutton in their main hand, as indicated by the item label at the bottom of the screen. The hotbar shows various items including tools, food, a water bucket, and torches. The player's health bar is full, and the hunger bar is missing only one shank. The experience bar shows the player is at level 22. A tutorial prompt in the upper right corner instructs the player to \"Open your inventory\" by pressing 'E'."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000005_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the video game Minecraft. The player is looking directly upward while standing beneath a tree, breaking or mining a block of wood from the tree trunk. Surrounding the wood are dense green leaves, and patches of the sky are visible through the gaps in the foliage. At the bottom of the screen, the player's hotbar is shown, indicating that the player has collected at least one log in their inventory and that their health and hunger bars are both full."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000006_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person perspective from within the game Minecraft, specifically in the End dimension. The player is mining end stone blocks using a diamond pickaxe, which appears to be enchanted as indicated by its purple glow. The player holds a shield in their left hand, and is equipped with a full set of enchanted diamond armor, visible in the HUD. The player's inventory hotbar at the bottom of the screen reveals a variety of items, including food (golden apples), ender pearls, enchanted tools, blocks, and bottles o' enchanting. \n\nThe surrounding environment consists of the pale yellow end stone terrain typical of the End, with a torch placed on the ground providing illumination. In the background, floating end islands and the void characteristic of the End dimension can be seen. There is a prompt in the upper right corner of the screen encouraging the player to \"Find a tree,\" which is a tutorial advancement typically seen at the start of the game but is still displaying here. The player's experience level is 33, and numerous end stone item drops are visible. No mobs or other players are visible in this scene."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000007_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a first-person view of a player building a structure. In the center and right foreground, the player is holding a block of \"Dark Oak Planks,\" and is about to place it on the ground. The partially built structure in front of the player uses vertical logs (most likely Dark Oak Logs) for pillars with horizontal rows of Dark Oak Planks forming part of a wall. The structure is being built on grassy terrain with hills and patches of tall grass visible in the background. The player's hotbar at the bottom of the screen shows various items, including Dark Oak Planks, logs, seeds, tools, and food. The player has full health and almost full hunger bars, and is at experience level 1."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000008_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a Minecraft gameplay screenshot where the player's inventory screen is open. The player character, depicted as Steve, is visible in the inventory window. In the crafting area, three stacks of wooden planks are placed, indicating the player is likely crafting an item that uses wooden planks. In the background, outside the inventory window, the player stands on a grassy hill with some trees and a pond visible in a plains biome. The player's hotbar is empty. At the top right corner of the screen, a notification appears stating \"New Recipes Unlocked! Check your recipe book,\" suggesting the player has just obtained a material that unlocked new crafting recipes."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000009_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person perspective screenshot from Minecraft. The player is in the Nether dimension, as indicated by the presence of netherrack blocks around the scene. The player is mining a block of ancient debris using a diamond pickaxe that appears to be enchanted, as shown by the purple glow on the tool. There is a torch placed on the left side for lighting. The player's hotbar and status bar are visible at the bottom of the screen, displaying full health and hunger bars, 20 experience levels, and various items including weapons, tools, food, and blocks. The atmosphere is dimly lit, typical of underground mining scenarios in the Nether."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000010_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a dark Minecraft gameplay screenshot showing a player mining underground. The screen is dimly lit, with only a faint light source, likely from a torch visible on the left-hand side. The player is holding and using a pickaxe, aimed at a stone or similar block. The game's HUD at the bottom shows the player's hotbar, containing various items such as torches (12), cobblestone (64), and other blocks or tools. The health and hunger bars are nearly full, and the player is at experience level 2. The environment consists of stone and dirt blocks, typical of an underground mining tunnel in Minecraft."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000011_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image depicts a scene from the video game Minecraft, showing a player exploring an underground cave or mine. The cave walls and ceiling are primarily composed of stone blocks, with visible coal ore blocks embedded in the walls. The cave is dimly lit by torches, one of which can be seen placed on the wall to the right and another deeper in the tunnel. The player's inventory bar at the bottom of the screen shows various items such as cobblestone, coal, a pickaxe, and torches, with the player currently holding a torch in their right hand. The player has 10 experience levels, a full health bar, and 7.5 hunger points remaining. The scene is a typical example of caving or mining for resources in Minecraft."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000012_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person perspective from within the game Minecraft. The player is looking upward while standing on a scaffold structure, with scaffolding blocks prominently visible in the center and foreground. The player is holding a scaffolding block in their hand, as indicated by the hotbar and the visible item in the lower right. On the left side of the screen, part of a purple enchanted shield is visible, and the player's hotbar shows various items and tools, including a crossbow, food, bone meal, and more scaffolding.\n\nAbove, a warped stem (from the Nether’s warped forest biome) and some leaves can be seen, along with another block with a reddish hue, possibly part of another tree or fungus. The sky is visible in the background, indicating the build is at a significant height or within a tall open area. In the upper right, a tooltip suggests \"Craft wooden planks - The recipe book can help,\" indicating the crafting interface was recently interacted with or the player is being given a suggestion. The user interface shows the player has 35 experience levels and full health and hunger bars. Overall, the scene depicts a player climbing or preparing to ascend/extend a scaffold structure near a unique biome or custom-grown warped tree."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000013_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the video game Minecraft, showing a player mining underground. The player's crosshair is focused on a coal ore block embedded in a stone wall, indicating that they are currently mining it with a stone pickaxe, held in the player's right hand. Adjacent to the coal ore, other stone blocks and some granite blocks can be seen. In the lower-left corner, part of an iron ore block is visible. At the bottom of the screen, the player's inventory hotbar is displayed, containing items such as a torch, wood planks, sticks, saplings, seeds, and other basic resources. The player has a full health bar (10 hearts) and a full hunger bar. The overall scene is dimly lit, consistent with typical underground mining environments in Minecraft."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000014_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a typical grassy plains biome under a bright, partly cloudy sky. In the foreground, there is a crafting table, a furnace, and a carved pumpkin placed on the ground in a small cluster. The player's hand is visible on the right side, holding a stone axe. The hotbar at the bottom of the screen displays some items, including sticks, wood, dirt, and saplings. In the background, the terrain is relatively flat with tall grass scattered across the plain, and there are some trees and a small hill or forested rise in the distance. The overall scene suggests an early stage of gameplay, possibly just after setting up a basic outdoor crafting area."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000015_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person point of view from the game Minecraft, showing a player mining underground. The player is holding an iron pickaxe and is breaking a stone block in front of them, causing small stone particle effects to appear. The tunnel walls are made of stone on the right and dirt on the left and ceiling. There is a torch attached to the left wall, providing light. A floating dirt block is visible directly ahead at eye level. The game inventory bar at the bottom shows various items, including torches, pickaxes, stone, dirt, cobblestone, and redstone. The health and hunger bars are full, and the experience level is 4."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000016_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the Minecraft game, showing the player standing in a taiga biome, likely a giant tree taiga, characterized by its tall spruce trees with thick, dark trunks and sparse foliage. The ground consists mainly of coarse dirt and podzol, with some patches of grass. Shrubs, ferns, and tall grass can be seen on the left side. The player’s shield with a purple enchantment glint is visible on the left, and in the player’s right hand is an enchanted golden carrot, as indicated by the distinctive pixel art and glow. The hotbar shows enchanted diamond tools and weapons, some food (golden carrots), blocks, torches, and a shield. The player has 25 experience levels and full health and armor bars, suggesting they are well-equipped. At the top right corner, a recipe hint prompts the player to craft wooden planks. The time of day appears to be daytime, judging by the bright lighting in the forest."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000017_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft showing the player's crafting interface open. The left side of the screen displays the recipe book with various craftable items visible, including wooden tools (pickaxe, axe, hoe, sword, and shovel), a crafting table, sticks, a ladder, and a campfire, among others. The right side displays the crafting grid (3x3) and the player's inventory below it, which contains a wooden pickaxe, some wooden planks, and sticks. The background shows a forest environment with grass, birch, and spruce trees. The player's tool (a wooden pickaxe) is slightly visible in the bottom right corner. The player's health and hunger bars are also faintly visible at the bottom of the screen."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000018_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing the player's inventory and crafting interface while standing in a dirt or stone underground tunnel. The player character is in the center inventory slot, wearing default Steve skin with no armor equipped. The crafting grid is open, and the player is in the process of crafting torches: the recipe uses stick and coal, and the result (torches) is being shown on the right side of the crafting interface. \n\nIn the inventory, there is a stone pickaxe equipped in the hotbar, along with various blocks such as dirt, cobblestone, wood planks, a sapling, and some other materials. The health and hunger bars are visible and full at the bottom of the screen. In the background, the player's surroundings are dark, indicating they are underground, likely mining or exploring a cave. Part of a stone pickaxe is visible in the player's hand on the right side of the screen."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000019_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player is inside a wooden structure, as indicated by the wooden plank walls. In the center background, there is a crafting table visible against the wall. The floor is primarily made of grass blocks. The player is breaking a dirt or grass block, as shown by the flying dirt particles and the partially destroyed block in the foreground. The player is holding a shovel, which is visible on the right side of the screen. The hotbar at the bottom of the screen shows various items, including blocks of cobblestone, a sword, a shovel, and what appears to be a flower. The health and hunger bars are also visible, showing that the player has full health and nearly full hunger."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000020_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a nighttime scene in Minecraft. The player is in the process of constructing a building made out of wooden planks, as evident from the block held in hand and the partially completed wall and ceiling. The structure is lit by torchlight, with several torches visible on the grassy ground outside the building, providing illumination. Beyond the building, there is a wooded hillside with dense trees and grass. The sky is dark with a few clouds and stars visible, indicating it is nighttime in the game. The player's inventory bar at the bottom displays various items including stacks of wooden planks, torches, and what appears to be a stone axe and other construction materials."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000021_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player is standing on a dirt path with patches of coarse dirt, regular dirt, and a yellowish path block. There are some grass plants visible to the left. The player holds a Firework Rocket in their right hand and a shield (appearing with a purple enchantment glow) in the left. The player is wearing enchanted armor, as seen in the HUD at the bottom of the screen, and has 25 experience levels. The hotbar shows items including a sword, pickaxe, shovel, axe, blocks, and fireworks. A tutorial hint in the top-right corner instructs, \"Craft wooden planks. The recipe book can help!\" The player appears to be outdoors, in a grassy, possibly forested area, with dirt and grass as the primary terrain features."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000022_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a first-person view of a player character punching a tree trunk (log block), which is a common early-game action to collect wood resources. The tree is a standard overworld tree, likely an oak or similar species, as indicated by the wood texture and surrounding green leaves. Part of the log is being broken, as shown by the crack in the block. In the bottom center of the screen, the player's HUD displays full health (ten hearts), a full hunger bar, and an empty hotbar with only two wooden logs (planks or logs) in the first slot. In the top right corner, a notification says, \"New Recipes Unlocked! Check your recipe book,\" indicating that the player has just acquired a new item (likely wood), unlocking new crafting recipes. Blue sky and leaf blocks are visible to the right side, indicating the scene takes place outdoors during daytime."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000023_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a first-person view of the player standing outdoors in a bright, grassy biome. The sky is clear and blue with some clouds scattered around, and the sun is shining brightly. The player is holding \"Dark Oak Planks\" in their hand and appears to be building or placing these blocks, as indicated by the name in the hotbar. In front of the player, there is a vertical stack of dark oak plank blocks, forming a small pillar or wall. Surrounding the construction area are trees and foliage, and a small body of water can be seen to the left. The player's inventory bar at the bottom shows various items, and their health and hunger meters are full."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000024_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a Minecraft gameplay screenshot taken from a first-person perspective during nighttime. The player's crosshair is centered on a dark teal-colored block, which appears to be warped stems—blocks found in the Nether's Warped Forest biome. The player is holding a purple, enchanted netherite axe in their right hand and has an enchanted shield equipped in the left hand. At the bottom of the screen, the player's hotbar is visible, showing various items including food, arrows, and potions. The player has level 35 experience, as indicated by the green bar and number above the hotbar. In the background to the left, there is a partially illuminated forest and terrain, while on the right, there is part of a structure made from stone or cobblestone with glass windows. At the top right corner, a recipe book tip is visible, prompting the player to craft wooden planks. The overall scene is dark, with stars and clouds visible in the sky."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000025_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from within the game Minecraft. The player-character is standing on or inside a scaffolding structure, as seen by the grid-like yellow-brown blocks overhead and to the right. The player's hotbar is visible, showing various items including scaffolding, torches, and blocks. The player is holding a block of what appears to be white concrete or possibly diorite in their hand. The health bar shows the player has taken some damage, and their experience level is 26. \n\nTo the left, outside the scaffolding, there is a path made of cobblestone blocks that goes past several buildings. The nearest building has white walls and is lined with torches. There are several torch light sources set on the ground and on the side of the building, illuminating the area as the sun sets or rises in the distance, giving an orange glow to the sky. Stone brick structures and another large building are visible further down the path. The environment is urban with multiple constructed structures, and the overall scene gives the impression of a developed settlement in Minecraft during dawn or dusk."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000026_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person screenshot from Minecraft. The perspective is looking upwards toward the sky, which is bright blue with scattered rectangular clouds. Dominating the center of the image is a tall, thin pillar constructed from warped stems (blue-green blocks from the Nether) that extends up to a platform at the top. The platform is also made of warped blocks, with two Glowstone blocks embedded, providing illumination. To the right, there is a large dark oak or spruce tree with dense green leaves visible. On the left edge, there is a purple-tinted shield or a portal edge partially visible. The player's hotbar is shown at the bottom, indicating the player is equipped with enchanted diamond/netherite armor and tools, including a crossbow, a trident, fireworks, golden carrots, and bone meal, which is also visible in the player's hand. The player is at level 35. In the top right, a game tip suggests crafting wooden planks and using the recipe book. The scene suggests the player may be working on or observing a tall, artificially constructed structure, possibly for utility or vantage point."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000027_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from within the game Minecraft. The player character is holding a dirt block in their right hand, with a shield equipped on the left. The HUD (Heads-Up Display) at the bottom of the screen shows the player's inventory hotbar and armor status; the player is equipped with enchanted tools and armor, and has reached level 25 in experience. The environment features podzol or coarse dirt blocks on the ground, indicating a taiga or giant tree taiga biome, with visible greenish ferns or tall grass in the background and the base of a large spruce tree trunk on the right. A path block is visible to the left, transitioning from the podzol. The overall lighting suggests it may be dusk or that the area is under a canopy."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000028_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person perspective screenshot from the game Minecraft. The player is looking directly at the underside of a tree's leaves with a single block of wood (oak log) in the center of the screen, which is being targeted by the player's crosshair. Around the wood block are dense green leaves, and through the gaps, the sky can be seen. The player's hotbar at the bottom of the screen shows three oak wood log blocks in the first slot, with the rest of the slots empty. The health and hunger bars are full, indicating the player is at full health and has no hunger. The lighting suggests it is either daytime or bright outside."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000029_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person perspective screenshot from Minecraft. The player is inside a well-lit, stone-brick building with a row of furnaces along the left wall. The floor appears to be made of smooth stone or tile blocks, and the walls consist of stone bricks, with some windows visible on the right side letting in daylight. There are several hanging soul lanterns visible, casting a bluish glow. The player is holding a Netherite axe with an enchanting glow in their right hand, and a shield, also enchanted, is visible in their left hand. The player's hotbar shows a variety of items, including food (golden carrots), tools, weapons, and blocks. The player has full health, full hunger, and is at level 35 experience. In the upper right, a tutorial prompt reads \"Craft wooden planks. The recipe book can help.\" indicating a typical in-game tip for new or returning players."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000030_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a Minecraft gameplay scene where the player is using a crafting table to craft an item. The crafting interface is open, displaying a recipe being assembled: two sticks placed vertically in the center column, and three cobblestones placed horizontally in the top row, forming the shape of a pickaxe recipe. The player's inventory is partly visible below, showing items such as cobblestone, planks, crafting tables, and wooden pickaxes. In the background, the Minecraft world is visible with grass blocks, trees, and a dimly lit outdoor environment, suggesting it might be evening or nighttime. A message in the chat at the bottom left indicates the player \"cheeky-cornflower-setter\" has made the advancement \"Getting an Upgrade!\", which is earned when crafting a stone pickaxe."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000031_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view from the game Minecraft, depicting a player who is mining underground. The scene is primarily composed of gray stone blocks, indicating the player is likely deep within a cave or a self-made mine shaft. The player's hand holds a stone pickaxe, which is being used to mine the stone blocks in front. The crosshair is centered on a stone block about to be broken. In the lower left, a torch is attached to the wall, illuminating the area. The inventory hotbar is visible at the bottom of the screen, showing various items: torches, a wooden pickaxe, cobblestone, coal, dirt, and more. The player's health and hunger bars are both full, as indicated by the red hearts and drumsticks. Overall, the scene captures a standard mining activity inside Minecraft."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000032_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a player's view inside a Minecraft base, with the large chest inventory interface open and visible at the center of the screen. The Large Chest contains various items organized in the grid, including building blocks, ores, enchanted books, food items, mob drops, crafting materials, and miscellaneous objects such as ender pearls, redstone, blaze rods, and enchanted gear. Some notable items are enchanted books, potions, golden apples, shulker shells, and rare materials.\n\nBeneath the chest interface, the player's own inventory is also shown, with items including tools (such as pickaxes, shovels, and shears), enchanted armor, arrows, food, and blocks like coarse dirt (currently highlighted). At the bottom, the hotbar is visible, containing more tools, a shield, fireworks rockets, and other useful items. The experience level bar indicates the player is at level 25.\n\nBackground elements outside the chest interface reveal a wooden interior with torches on the wall for lighting, a furnace on the left, and what appears to be a crafting table or additional storage nearby. On the left side of the screen, chat messages notify that Player896 has recently made significant Minecraft advancements: \"Into Fire,\" \"Cover Me With Diamonds,\" and \"You Need a Mint.\" The overall environment suggests the image was taken in a well-established survival Minecraft base."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000033_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, showing a player standing on a grassy hillside composed of grass blocks, dirt blocks, and some path blocks. The player's shield, which appears enchanted with a purple glow, is visible in their left hand, partially covering the bottom left of the screen. In the bottom center, the Minecraft heads-up display (HUD) shows the player is wearing full diamond armor (most likely enchanted), with 25 experience levels and full health and hunger bars. The currently selected hotbar slot holds a block of dirt, visible in the player's right hand; the hotbar also displays a variety of items including torches, tools, and food. The terrain ahead is a sloped, stepped grassy and dirt area, part of a hillside or mountain, with some sections of exposed dirt and path blocks, and tufts of grass at the top edges. No structures, mobs, or water are visible in the scene."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000034_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image depicts a Minecraft gameplay scene where the player has opened the crafting interface, specifically using a crafting table in a birch forest biome. The left side of the screen shows the \"Recipes\" menu, with the “Tools & Weapons” tab active. The wooden pickaxe recipe is highlighted, displaying its stats: \"When in Main Hand: 2 Attack Damage, 1.2 Attack Speed.\" In the crafting grid to the right, no items have been placed yet. The player's hotbar and inventory are partially visible, containing planks, sticks, and possibly other wooden tools. The background shows birch trees, tall grass, and a crafting table on the ground, indicating it is daytime in-game."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000035_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a nighttime scene from the game Minecraft. The player is standing outside a wooden structure, likely a house, made of oak planks and oak logs. The player's hand is holding another wooden plank, suggesting they are in the process of building or expanding the structure. A wooden door is visible on the building. In the distance, there is a grassy area with some foliage and a lit torch on the ground providing light. The sky is dark with stars visible, and a few clouds can be seen. The player's health and hunger bars are full, and their hotbar is visible at the bottom showing various blocks and items."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000036_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view from the game Minecraft, where the player is mining stone blocks underground with a pickaxe. The perspective is facing a stone wall in a narrow tunnel or shaft, suggesting the player is digging down or forward. There is a torch placed on the left wall providing light. The player's hotbar at the bottom shows several items, including torches, stone blocks, wooden planks, plants, and various tools. The health and hunger bars are visible, with full health and slightly depleted hunger. The overall scene is dimly lit with the focus on mining activities deep underground."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000037_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from within the game Minecraft, showing the player flying high above a taiga biome landscape, as evidenced by the dense clusters of tall spruce trees with dark foliage below. The player's viewpoint is directed towards the horizon, with a clear blue sky and a few blocky white clouds overhead. In the player's left hand, a purple shield (likely enchanted) is visible, while in the right hand, a red firework rocket is held, commonly used in conjunction with an elytra for flight. The player's hotbar at the bottom of the screen displays various items, including enchanted tools and a bow, with the experience bar indicating level 25. The left portion of the screen also shows the player's armor bar and health, both full, and a hunger bar, also filled. The player's armor and tool icons are purple, suggesting Netherite or enchanted gear. Overall, the image captures a moment of mid-air navigation in Minecraft's taiga biome."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000038_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image depicts a first-person view inside a cave or underground tunnel in Minecraft. The player is mining coal ore blocks with a pickaxe, as evidenced by the breaking animation on a coal ore block directly ahead and coal item drops floating nearby. A torch mounted on the left wall provides illumination. A wooden shield is visible in the player's offhand. The player's HUD at the bottom of the screen displays 23 experience levels, 10 full hearts of health, and a mostly filled hunger bar. The hotbar shows various items, including a pickaxe, shovel, sword, torch, water bucket, and others. There are also some redstone ore blocks visible at the top of the wall. The environment consists of stone blocks typical of Minecraft's underground areas."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000039_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft. The player is inside a small underground tunnel or cave made entirely of stone blocks. In the center of the image, a torch is placed on the wall, illuminating the otherwise dark space. At the bottom of the image, the user interface (UI) shows the player's hotbar, containing items such as torches, pickaxes, and various blocks. The health and hunger bars are also visible. In the chat, there is a recent message stating, \"cheeky-cornflower-setter has made the advancement [Isn't It Iron Pick],\" indicating the player has crafted or acquired an iron pickaxe. On the top right, notifications appear: \"New Recipes Unlocked! Check your recipe book\" and \"Advancement Made! Isn't It Iron Pick.\" The overall setting suggests the player is mining underground."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000040_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a first-person view of a player looking upward at a tree while chopping its trunk with a stone axe. The large trunk and green leafy canopy of the tree are prominently visible, with the sky and several white, blocky clouds in the background. The player's hotbar is visible at the bottom of the screen, showing some collected wood blocks, sticks, a wooden pickaxe, and a stone axe. The player's health and hunger bars are also visible, both mostly full. The environment suggests it is daytime in the game, and the player appears to be early in their progression, gathering essential resources."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000041_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the video game Minecraft. The player is standing directly in front of an active Nether portal, as indicated by the distinct purple swirling effect and obsidian frame. The player's shield is visible in the lower left corner, and a block of red wool (or possibly nether wart block) is held in the right hand. The hotbar at the bottom of the screen shows various equipped items, including enchanted gear (sword, pickaxe, armor), food, blocks, and possibly some potions or ender pearls. The player has a high experience level (level 35), full health, and full hunger bars. To the left of the portal, there is a wall made of nether bricks, indicating the player is likely in or near a Nether Fortress. On the right side of the screen, the in-game recipe book tutorial message is visible. The overall lighting suggests the player is in the Nether dimension."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000042_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, showing the interior of a small wooden house constructed with spruce planks. The room is illuminated by a torch mounted on the right wall, casting a warm light on the wood surfaces. The main focus is a doorway with no door, leading outside to a grassy area under a dark, nighttime sky with faint stars. The player's hand is visible, holding a spruce door, as indicated by the hotbar at the bottom of the screen where \"Spruce Door\" is highlighted. The hotbar also shows other inventory items such as blocks and tools. The player's health and hunger bars are visible above the hotbar, both are mostly full."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000043_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from Minecraft showing the player's inventory and crafting interface open. The background depicts a grassy terrain with some dirt blocks and grass visible, typical of the game's overworld environment. In the crafting grid, the player is crafting a crafting table using four wooden planks arranged in a 2x2 pattern. The player's inventory is mostly empty except for some wooden logs in the hotbar and inventory slots. The character model displayed in the inventory is the default \"Steve\" skin. The surroundings indicate it is likely early gameplay with minimal resources collected."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000044_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from within the game Minecraft. The player is looking down at a floor made of polished granite blocks. In the upper center, there is a stonecutter (gray block with wooden legs), and to its right, part of a torch placed on the floor is visible, emitting light. Further to the right, a portion of a large chest can be seen. The player is holding scaffolding in their hand, as indicated by both the bottom-right item in hand and the highlighted \"Scaffolding\" text above the quickbar. The quickbar shows various tools and blocks, such as a diamond pickaxe, stone blocks, and some other building materials. The player's health bar shows 4.5 hearts (out of ten), and their experience level is 26."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000045_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, viewed from a first-person perspective. The player is looking directly upwards from inside a tree, with dense green leaf blocks surrounding the view on all sides, forming a tunnel-like structure with a small opening at the top where the blue sky is visible. The Minecraft user interface is visible at the bottom of the screen, showing the player's health bar with full red hearts, a food bar that is also full, and a hotbar with a stack of wooden planks or logs selected in the first slot. The rest of the hotbar slots are empty."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000046_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing the player's first-person view while standing within the canopy of a tree. The player is surrounded by dark green leaf blocks, and some blue sky is visible through gaps in the leaves. In the center of the screen, a wooden log block is targeted for interaction, as indicated by the white crosshair. In the player's hotbar at the bottom, there are several wooden log blocks present, and the player is currently holding one, as indicated by its appearance on the right side of the screen. The player's health and hunger bars are both full. The overall lighting suggests the player is shaded under the leaves, making the scene appear quite dark."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000047_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a scene from the game Minecraft where the player is using a crafting table to craft a wooden pickaxe. The crafting interface is open, displaying the 3x3 crafting grid. In the grid, there are three wooden planks placed horizontally across the top row and two sticks placed vertically in the middle column, forming the recipe for a wooden pickaxe. The result slot on the right shows a wooden pickaxe ready to be collected. Below the crafting grid, the player's inventory is visible and is currently empty except for a wooden pickaxe in the hotbar. The crafting table is placed on a stone surface inside what appears to be a cave or underground area, indicated by the gray stone blocks surrounding the table. The player's character can be seen holding a wooden pickaxe in their hand at the bottom right of the screen, and faint status indicators (hearts and hunger bars) are visible at the bottom center of the view."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000048_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing the player's first-person perspective while building or modifying a wooden structure. The scene includes various types of wood blocks, such as dark oak (used for stairs or structural beams) and possibly birch planks (used for walls or floors). The player is holding a dark oak stair block in their hand, as indicated by the HUD at the bottom of the screen. Inside the structure, a redstone torch and a regular torch are visible on the walls, providing some interior lighting. The room has a wooden plank floor, and the layout suggests that the player is working near the roof or upper floor of a house. The health and hunger bars, as well as the inventory hotbar, are visible at the bottom of the screen."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000049_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, showing the player looking directly up at a block of birch wood (birch log) surrounded by dense tree leaves. The sky, with patches of blue, is visible through gaps in the leaves. The player appears to be breaking or interacting with the birch log, as indicated by the cracks forming on its surface. The hotbar at the bottom of the screen shows the player has a stack of birch wood planks selected, and the rest of the inventory slots are mostly empty. The player's health and hunger bars are both full."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000050_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view from the game Minecraft, with the player mining underground in a tunnel or mineshaft. The surroundings are composed primarily of stone blocks, and several coal ore blocks are visible embedded in the walls. A small floating cobblestone item, likely dropped from recent mining, can be seen ahead. In the player's left hand, a shield is equipped, while the right hand holds an iron pickaxe. The hotbar at the bottom indicates the player has 23 experience levels and is carrying various items, including torches, food, tools, and blocks. The health and hunger bars are mostly full, indicating the player is in good condition."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000051_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, showing the player looking up at a tree and actively breaking a log block. The central focus is a log block with visible breaking cracks, indicating it is being mined. Surrounding the log block are green leaf blocks, part of the tree's foliage. The sky is clear, featuring several white, rectangular clouds. In the lower section of the image, part of the game interface (HUD) is visible, displaying the player’s health (hearts), hunger (drumsticks), and hotbar containing various items, including an axe. Nearby, more trees can be seen, emphasizing the outdoor, forested environment."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000052_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a player in a cave or underground area. The player's perspective is focused on placing a water source block onto a field of lava, which is causing some of the lava to turn into obsidian. The obsidian blocks are black and purple, while the bright orange blocks are lava. The player is holding an empty bucket, as indicated by the hotbar item and the text \"Bucket\" in the center of the screen. The hotbar also shows a torch, food, tools, cobblestone, and string. The player's health and hunger bars are mostly full, and their experience level is 10. In the background, there are stone walls and a small patch of redstone ore visible above the lava pool."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000053_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person screenshot from the game Minecraft, specifically taken in the End dimension. The player is mining End Stone blocks using an enchanted pickaxe, as indicated by the purple glow on the tool. The player's shield is visible on the left side of the screen, and the player is equipped with full enchanted diamond armor, as seen in the hotbar and armor status above it. Multiple Endermen can be seen scattered across the End landscape in the distance. At the top right corner, there is an advancement tip, \"Find a tree: Punch it to collect wood.\" The player's hotbar contains various items, including tools, blocks, food, and Ender Pearls. The experience level displayed is 33. The environment features the characteristic pale yellow-green End Stone terrain under a dark sky, and Chorus Plants are visible in the distance."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000054_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, looking directly upward while standing inside or at the base of a tree. The perspective is framed by dense green leaf blocks, creating a vertical tunnel effect with a patch of blue sky at the center. Minecraft's interface is visible at the bottom, showing the hotbar containing a crafting table, some wood, a stick, and another item (likely string or wool). The player's health and hunger bars are both full. The player's right hand, holding a wooden stick or tool, is visible on the right side of the screen."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000055_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image depicts a Minecraft gameplay scene from a first-person perspective inside an underground tunnel. The player is mining stone blocks using a stone pickaxe, as indicated by the visible tool in hand and the breaking animation on the stone block. The surroundings are dimly lit, with a torch placed on the left wall providing light. At the bottom of the screen, the hotbar shows various items: torches, stone blocks, sticks, seeds, and possibly some plants or saplings. The player's health bar (full hearts) and hunger bar (full drumsticks) are visible, indicating the player is in good condition."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000056_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player is standing inside a partially constructed structure made of dark oak planks. The floor consists of grass blocks, indicating that the structure does not yet have a finished floor. There is a gap in the wall likely intended for a door, and an open window space on the right side. The player is currently holding a stack of dark oak planks, as seen in the lower-right corner. The hotbar at the bottom displays other items including more dark oak planks, sticks, seeds, a sapling, and a yellow flower (dandelion). The player's health and hunger bars are both full."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000057_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, showing a player mining underground. The player is using an iron pickaxe to mine a block of redstone ore, which emits faint red particle effects. A wooden shield is equipped in the player's offhand (visible to the left). The player interface at the bottom shows 23 experience levels, nearly full health and hunger bars, and various items in the hotbar, including a pickaxe, torches, stone blocks, a water bucket, and some food items. The surroundings consist of stone blocks, and the lighting indicates the player is in a dimly lit cave or mining tunnel."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000058_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view from the game Minecraft, where the player is inside a narrow dirt tunnel or trench made entirely of dirt blocks. The player's hand, visible in the lower center of the screen, is holding and using a wooden shovel to dig or break the dirt block directly in front of them. The inventory bar at the bottom displays tools and blocks, including a pickaxe, axe, wooden shovel, sticks, and stacks of blocks (likely dirt and cobblestone), along with the player's health and hunger bars, both of which are full. The environment appears to be underground or at least surrounded entirely by dirt blocks, indicating some kind of excavation or tunneling activity."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000059_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, depicting a player mining underground. The player is holding a shield in their left hand and an iron pickaxe in their right hand, preparing to mine a block of Redstone Ore embedded in stone. The Redstone Ore is glowing, indicating it has recently been interacted with. The player's tool hotbar is visible at the bottom of the screen, showing various items including wooden planks, torches, food, water bucket, and tools. The player's health and hunger bars are displayed, with the health bar partially depleted and the hunger bar almost full. The player has 23 experience levels. The setting is a small stone mining tunnel, typical of underground exploration in Minecraft."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000060_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player is standing on a mix of path blocks and coarse dirt in a forested area, with large tree trunks (likely spruce or dark oak) in front of them. The player's left hand holds an enchanted shield, while the right hand is holding a block of coarse dirt or rooted dirt. The bottom of the screen shows the player's hotbar inventory, indicating tools, building blocks, food, and torches. The player is wearing full enchanted armor, has 25 experience levels, and their health and hunger bars are full. The ground is covered with brownish textures, suggesting a taiga or forest biome, and the scene takes place during the daytime."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000061_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a player's first-person perspective. The scene depicts a grassy and dirt-covered hillside with tall grass and standard grass blocks. The player's crosshair is centered on the tall grass. In the bottom right corner, the player is holding a stone pickaxe, and in the bottom left, they are also holding a torch in their offhand. The hotbar is visible at the bottom of the screen, displaying items such as torches, a stone pickaxe, an apple, seeds, dirt blocks, and cobblestone. The health and hunger bars are full. The terrain is uneven, with layers of grass and dirt blocks forming small ledges and slopes, and a small patch of sky is visible at the top. There are no structures, animals, or other players present in the image."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000062_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view from the game Minecraft, depicting a player character mining underground in a narrow shaft. The surroundings consist of stone blocks, with several visible iron ore blocks embedded in the walls to the left. The player is holding a torch in their left hand, illuminating the otherwise dark area. The hotbar at the bottom of the screen displays items such as torches, a stone pickaxe, a shovel, cobblestone blocks, a crafting table, and saplings. The player's health and hunger bars are also visible, both nearly full. The player appears to be digging deeper downwards, typical of mining for resources in Minecraft."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000063_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, specifically in the Nether dimension. The player stands in a narrow tunnel filled with numerous Nether wart plants, which are characterized by their large, red, leafy appearance. The player's left hand is holding a shield with an enchanted purple hue, while the right hand is holding Bone Meal. The player is wearing full Netherite armor, indicated by the armor icons and the appearance of the equipment on the HUD. The Experience bar shows level 35. The quick access toolbar (hotbar) displays several items, including a golden carrot, enchanted weapon/tools, Bone Meal, and a stack of torches. At the top right of the screen, there is a tutorial prompt: \"Craft wooden planks - The recipe book can help.\" The setting is confined, dark, and surrounded by Netherrack blocks with Nether wart growing on Soul Sand, indicative of a Nether wart farm."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000064_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a Minecraft gameplay screenshot showing the player's first-person perspective in a giant taiga biome, characterized by tall spruce trees with large trunks and podzol ground cover. The player is holding a firework rocket in their right hand, and a shield in their left hand that appears to be enchanted (displayed with a purple enchantment glint). The player's hotbar contains various items, including food, weapons, and tools, many of which are also enchanted. The experience bar indicates the player is at level 25. In the top right corner, there is an advancement notification suggesting to \"Craft wooden planks - The recipe book can help.\" The sky is clear with a few clouds, and the winding dirt path in the biome leads further into the dense forested area."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000065_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a scene from the game Minecraft, viewed from a first-person perspective. The player is mining underground in a dimly lit area, as indicated by the dark environment and the visible stone blocks with black speckles, which are coal ore blocks. A torch is placed on the left side of the screen, providing some light. The player is holding a pickaxe in their right hand, aimed at a coal ore block near the center of the screen, suggesting they are mining for coal. \n\nAt the bottom of the screen, the user interface displays the player's hotbar, which contains a torch, pickaxe, and various blocks and items such as sticks, coal, cobblestone, and dirt. The health and hunger bars are visible above the hotbar, indicating the player is in Survival mode and currently at full health and full hunger."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000066_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a first-person perspective inside an underground tunnel or cave, primarily composed of stone blocks. The player is mining a coal ore block with a stone pickaxe, as indicated by the black specks in the block being broken apart and the pickaxe in the player's hand. Mining particle effects can be seen. To the left, a torch is placed on the wall, providing light. At the bottom of the screen, the player's inventory hotbar is visible, showing items such as torches, wooden planks, sticks, saplings, cobblestone, and a stone pickaxe. The player's health and hunger bars are full, and the experience bar is partially filled."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000067_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, specifically in the End dimension. The player is mining End Stone blocks with an enchanted pickaxe, which is visually purplish, indicating a high-level enchantment. The player's left hand holds a shield. The hotbar at the bottom shows the player is equipped with full diamond armor and various items, including ender pearls, tools, food, and potions. There is a torch on the ground in the background for lighting. The surrounding terrain is typical of the End dimension, characterized by pale yellow End Stone and a dark void in the distance. Additionally, an advancement notification (\"Find a tree. Punch it to collect wood\") is visible in the top right corner. The experience bar at the bottom indicates the player is at level 33. Some small purple particles, likely from an Enderman or teleportation effect, appear near the center-right of the image."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000068_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing the player's inventory interface open inside a storage room. The player character is wearing full enchanted Netherite armor (helmet, chestplate, leggings, and boots). The inventory is filled with various items such as shulker boxes, enchanted tools, ender pearls, food, building materials, potions, and torches. The hotbar at the bottom also displays several enchanted items and blocks. In the background, chests, shulker boxes of different colors (purple and orange), and part of a furnace are visible. The room is constructed with wooden planks, and two torches are mounted on the wall, providing lighting."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000069_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft. It shows a player mining underground, focusing on a coal ore block embedded in a stone wall. The player is holding a stone pickaxe, which is actively being used to mine the coal ore. Several drops of coal are visible on the ground beneath the mined block, indicating successful mining. The Minecraft Heads-Up Display (HUD) is visible at the bottom, showing the player's health and hunger bars as full, and a hotbar with various items including torches, wood, a sapling, and seeds. The environment is dimly lit, suggesting the mining is occurring in a cave or underground area. The visible blocks consist of stone, coal ore, dirt (at the top), and possibly granite (to the right)."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000070_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, specifically within the End dimension. The player is mining End Stone using an enchanted pickaxe, as evidenced by the purple glow of the tool. On the left side of the screen, part of a shield is visible, indicating it is equipped in the off-hand slot. The hotbar at the bottom shows the player has diamond armor, a variety of items including Ender Pearls, potions, and enchanted tools, and has reached level 33 experience. In the distance, the characteristic floating islands, dark sky, and scattered chorus plants of the End dimension are visible. The \"Advancement\" notification in the top-right corner suggests this is not the first world progression, as it is prompting to \"Find a tree\" and \"Punch it to collect wood,\" which is a typical early-game task. There are also several Endermen visible in the background, further confirming the setting."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000071_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a nighttime scene in Minecraft from a first-person perspective. The player is standing on grassy terrain near a small body of water, with hills or mountains visible in the background under a dark, starry sky. The player's hotbar is visible at the bottom of the screen, showing equipped items including a torch, pickaxe, food, a bucket, a sword, string, cobblestone, and leather. The player is currently holding a torch in the left hand and an iron sword in the right hand. The health and hunger bars are almost full, and the experience level is at 10. The environment is dimly lit, characteristic of nighttime in the game, resulting in low visibility and a sense of caution for potential hostile mobs."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000072_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a Minecraft gameplay screen with the player's inventory open and a large chest interface displayed. The chest contains a variety of items, including building blocks (such as cobblestone and planks), ores and minerals (iron, gold, emeralds, and diamond items), enchanted books, food items, crafting materials, and mob drops. The cursor is currently highlighting a \"Shroomlight\" block in the chest. The player's own inventory is visible at the bottom, containing items such as shields, enchanted tools (pickaxes, an axe, a shovel), ender chests, torches, and food. The room appears to be made out of wooden planks and is dimly lit. A notification in the top right corner suggests that the player can \"Craft wooden planks\" and use the recipe book for help. The player character is standing with their arm visible and is wearing armor."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000073_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the video game Minecraft, specifically showing the End dimension. The terrain is composed of pale yellow-green End Stone, with several tall purplish Chorus Plants visible in the middle and background. The player is holding a purple enchanted tool, likely a pickaxe or shovel, in their right hand. Their left hand holds a shield. The player's inventory bar at the bottom of the screen shows various items including enchanted weapons, food (such as cooked chicken), Ender Pearls, and other tools. The player is wearing full diamond armor, as indicated by the armor bar above the inventory. The experience bar shows level 33. In the top right corner, a game advancement overlay is visible, suggesting the player to \"Find a tree - Punch it to collect wood.\" The background is dark with a starless sky, typical of the End. A couple of Endermen can be seen in the distance."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000074_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a first-person perspective of a player mining underground. The scene is dimly lit, indicating that the player is in a cave or tunnel. There is a torch placed on the left side, providing some illumination. The player is holding a pickaxe and is in the process of breaking stone blocks in front of them. At the bottom of the screen, the hotbar is visible, displaying various items including torches, pickaxes, cobblestone, and other resources. The player’s health and hunger bars are also visible, both of which are full. The environment consists solely of stone blocks, with no ores or notable features visible aside from the mined tunnel."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000075_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image depicts a first-person view from within the game Minecraft. The player is in the process of breaking a block of wood (likely an oak log), as shown by the cracking pattern on the block's face and the floating blocky debris effects. The player is holding a tool, specifically a wooden or stone axe, as indicated by the item’s appearance. The surrounding environment includes grassy terrain with some tall grass, scattered flowers, and a few cows in the distance. The hotbar at the bottom shows the player's inventory, which includes a wooden or stone pickaxe, a shovel, wood planks, and other resources. The player’s health and hunger bars are also visible, both of which appear to be full. The setting appears to be a plains biome with gently rolling hills and open grassland."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000076_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showcasing the interface of a furnace in use. The furnace GUI is open in the center of the screen, visibly smelting iron ore using coal as fuel, with one iron ingot already produced and ready to be collected. The player's inventory is visible at the bottom of the furnace interface, with the cursor currently hovering over a stack of 16 Diorite, displaying its name. The inventory contains various items including multiple blocks of diorite, andesite, cobblestone, oak planks, sticks, a sapling, dirt, and what appears to be iron ore. \n\nIn the top right corner, there are notifications informing the player that new recipes have been unlocked, prompting them to check their recipe book, and that the advancement \"Acquire Hardware\" has been made. The corresponding \"cheeky-cornflower-setter has made the advancement [Acquire Hardware]\" message appears in the lower left of the screen. The lower part of the screen also displays the player's hotbar with tools and blocks, hearts and hunger bars, indicating health and food. The overall setting suggests the player is early in their Minecraft progression, having just obtained their first iron ingot."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000077_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a nighttime scene in Minecraft, with the player's view focused on the exterior corner of a small wooden house. The house is constructed primarily of light-colored planks with dark wood accents and supports, and has a window with wooden bars visible on the side. The player is standing on a grassy patch next to the house, holding dark oak wood stairs in their hand (as shown in the hotbar). Two torches are placed nearby, illuminating the area. The background features more grass, some sparse vegetation, and distant trees under a dark, starry sky. The Minecraft HUD displays the hotbar at the bottom, showing several blocks and tools in the player's inventory."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000078_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a first-person perspective of a player standing atop warped planks blocks, holding an enchanted pickaxe in their right hand and a shield in their left. The player's inventory and hotbar are visible, and the player has 35 experience levels. On the ground below, there is a sandy and grassy area with water nearby. Several torches and a lantern are placed around, illuminating the area. There is a dark-colored chest (likely an Ender Chest) situated on the sand, and blue lines (possibly chunk border visualizations from a mod or F3+G debug screen) are visible, intersecting various points in the scene. To the right in the upper corner, a crafting tip notification appears: \"Craft wooden planks. The recipe book can help.\" Surrounding areas include large trees and a body of water."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000079_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person perspective from the game Minecraft. The player is breaking (punching) an oak log block with their hand, as indicated by the brown particle effects and the visible log texture. The player's arm, wearing a light blue sleeve, extends towards the log block in the center foreground. In the background, there is grass, leafy bushes, and trees, including a birch tree with its characteristic white bark and black spots on the right side. The player's inventory bar is visible at the bottom of the screen, showing empty slots, indicating no items are currently held. The scene takes place outdoors during daylight, typical of an early stage of gameplay where resource gathering begins."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000080_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player is inside the canopy of a tree, looking upward towards the top of the trunk. The screen is filled with the dark green leaves of the tree, with patches of blue sky visible through the gaps. At the center of the image, there's a column of dark oak wood logs, indicating the player is in the process of chopping or mining the tree trunk. At the bottom of the screen, part of the player's arm is visible, actively breaking a wood block. The hotbar shows that the player has 5 wood blocks collected, with the rest of the hotbar empty. The health and hunger bars are full, suggesting the player is at the start of the game or in a safe state."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000081_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player is punching or breaking a block of wood from a tree, as indicated by the blocky texture and brown coloration of the block in the center of the screen. The player's hand, holding nothing, is visible at the bottom right, interacting with the wood block. At the top right corner, there is a notification saying \"New Recipes Unlocked! Check your recipe book,\" suggesting the player has just collected a new item, likely the wood block. The hotbar at the bottom displays one wooden log in the first slot, and the remaining slots are empty. The player's health and hunger bars are full. Part of the sky with clouds is visible at the left edge of the screen, indicating that this action is taking place outdoors, likely at the beginning of a game session."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000082_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, displaying the first-person view of a player chopping a tree. The player's crosshair is aimed at a block of wood (log), and a stone axe is visible, indicating that the player is using it to break the block. The background shows dark green leaves, suggesting the player is within or under a tree canopy. The inventory hotbar at the bottom of the image shows various items the player holds, including blocks of wood, saplings, sticks, and basic tools such as a pickaxe, axe, and shovel. The health and hunger bars are full, and it is relatively dark, implying either it is nighttime, or the player is in a shaded/dense forest area."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000083_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person perspective screenshot from the game Minecraft. The player is in the process of punching or breaking a large oak log block from a tree, as indicated by the hand animation and the visible cracks forming on the block. Above the log are dense oak tree leaves, and parts of the blue sky with clouds are visible on the left side of the image. The player's inventory bar at the bottom shows only one item, a single oak log, in the first slot, while the other slots are empty. Heart icons representing health and hunger bars are fully filled. In the upper right corner, a notification reads \"New Recipes Unlocked! Check your recipe book,\" suggesting that this is early in the game, likely right after obtaining the first wood block."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000084_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player is looking downward at a log block (likely an oak log) that is surrounded by grass blocks and some leafy branches, indicating that the log is part of a tree or at the base of a tree within a forested area. The Minecraft hotbar is visible at the bottom of the screen, showing several stacks of planks, saplings, sticks, and wooden/stone tools, including an axe and a pickaxe. The player's health and hunger bars are full. The environment appears to be outdoors, on grassy terrain, and it's relatively dark, perhaps shaded by the tree's leaves above."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000085_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft showing a first-person view inside a cave or underground area. The player is holding a stone pickaxe and is mining a coal ore block, which is directly in the center of the image. There is a torch attached to the wall on the left, providing light. The player's inventory hotbar is visible at the bottom of the screen, showing various items including torches, tools, cobblestone, and dirt blocks. The player has full health and hunger bars. The environment is dark, with the scene primarily illuminated by the torch."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000086_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a scene from Minecraft, specifically inside a cave or underground environment. The player's perspective is directed towards stone and dirt blocks along the cave wall, with a stream of water flowing along the ground to the right. The lighting is dim, suggesting that it is either nighttime, or the cave is not well-lit. The player is holding a torch in their right hand and has a shield equipped in their left hand. In the hotbar at the bottom of the screen, various items are visible, including a wooden pickaxe, cobblestone, iron ingot, dirt, wooden planks, and food items. The player's health is critically low, with only half a heart remaining, and the experience level is 4. The hunger bar is nearly full. The environment suggests exploration or mining within a cave system, with water possibly making movement challenging."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000087_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a Minecraft gameplay scene where the player is mining underground in a dark area. The player's perspective is looking down into a shaft or tunnel with stone blocks visible on all sides, and there is little ambient light except for a torch placed on the left side of the screen. The player's hotbar is displayed at the bottom, showing a wooden pickaxe selected in the first slot, as well as other items such as torches, cobblestone, seeds, and saplings. The health and hunger bars are visible and mostly full. The crosshair is centered on a stone block, indicating that the player is likely mining it. The overall environment is dark, suggesting the player is deep underground or in an area without natural light."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000088_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a Minecraft gameplay screenshot showing a well-lit indoor structure, likely a base or a map room. On the left side of the screen is a large wall-mounted map made up of multiple item frames filled with map items, displaying a detailed overview of the surrounding landscape with green areas (land), blue (water), and some red or other colored markers. Blue lines overlay the map, possibly due to chunk border visualization (e.g., from a mod or external tool). \n\nThe player's point of view shows a shield in their left hand and a diamond or netherite axe (enchanted) in their right hand. The player character is equipped with armor, suggested by the armor bar above their hotbar. The hotbar also shows food, more tools, maps, and torches. The bottom of the screen shows experience level 33 and almost full health and hunger bars. The room features stone brick walls and pillars, polished floor tiles, torches for lighting, and a staircase leading upward to another floor or mezzanine. A recipe hint is visible in the top right corner, suggesting the player can craft wooden planks. The overall scene suggests a safe, well-developed base with organized infrastructure."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000089_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person perspective screenshot from the game Minecraft. The player is holding a shield in their left hand and a Netherite Shovel in their right hand, as indicated by the item hotbar at the bottom of the screen. The player is looking down at the ground, where there are several different types of blocks visible: coarse dirt, rooted dirt, a grass path, and a podzol block. There is a large tree trunk at the center-top of the image, likely a spruce or dark oak tree, based on its size and environment. Some floating dirt blocks and highlighted blocks with a white outline (possibly due to a selection or hitbox highlight) are visible to the left, along with faint blue bounding lines, indicating the use of a mod or tool that shows block boundaries or redstone lines. The environment has a forest-like appearance with dense trees and undergrowth. The player has armor equipped and 25 experience levels. The inventory hotbar shows various items including tools, blocks, and torches."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000090_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view from the game Minecraft. The player is inside an underground cave or tunnel, mining a block of iron ore with a stone pickaxe. The wall in front of the player contains blocks of iron ore embedded in stone. There is a lit torch placed on the wall to the left, providing light in the otherwise dark area. At the bottom of the screen, the player's hotbar is visible, showing 12 torches, a pickaxe in use, cobblestone, iron ore, sticks, and some saplings. The health and hunger bars are also visible, indicating the player is in survival mode with full health and slightly depleted hunger. The scene captures the typical activity of resource gathering during mining in Minecraft."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000091_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a dark underground scene in Minecraft, where the player is mining stone blocks with an iron pickaxe. The breaking animation is visible on the block at the center of the screen. The hotbar at the bottom shows the player has a stone pickaxe equipped, with various items in their inventory including wood planks, cobblestone, sticks, and what looks like coal and possibly a wooden pickaxe. The health bar indicates the player has full health, and the experience bar indicates level 3. The dim lighting suggests the area is minimally lit, likely deep underground in a cave or mining tunnel."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000092_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a Minecraft player’s first-person view in a developed town area. In the foreground, the player is holding an enchanted diamond pickaxe. The player's hotbar displays hearts and armor indicating good health and armor, and there are blocks and tools in the inventory slots. The ground consists of cobblestone paths with patches of mossy cobblestone or grass, and some glowstone blocks providing lighting embedded in the ground. Centered in the background is a large white structure resembling a classical building with pillars and a triangular pediment featuring a yellow accent, possibly inspired by Greek or Roman architecture. To the left, there is a tall wooden building with many glass windows. To the right, there is a gray stone hill with red flowers and what appears to be item frames or signage on the wall. Torches on fence posts and lampposts illuminate the area, and a set of stone stairs leads down to a slightly lower section of the square. The sky is clear with clouds, and the overall area looks organized and well-developed."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000093_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player appears to be standing outside, near a building constructed with wooden planks and logs. In the foreground, the player is holding an enchanted item (likely a pickaxe) and has an enchanted shield equipped. There are torches placed on the ground for lighting, and some green sugar cane plants are growing near the right side of the image, next to water. To the back, a stone brick staircase leads upward, possibly toward another structure or area. The heads-up display shows the player's inventory and armor bar, with various items including food and blocks. The experience level is 35. In the upper right corner, a Minecraft crafting hint reads: \"Craft wooden planks. The recipe book can help.\" It appears to be nighttime, based on the darkness beyond the torches' light."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000094_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view screenshot from Minecraft, depicting a player exploring a forest biome. The scene features dense trees, primarily spruce, with thick leaf blocks and tall trunks. The ground is uneven, composed mainly of grass blocks, with some dirt patches visible where the terrain is stepped and sloped. On the bottom left of the screen, the player is holding a shield in their off-hand and a sapling in their main hand, as seen from the respective first-person item models. The player’s inventory bar at the bottom shows equipped items such as iron armor (indicated by full armor icons), a pickaxe, a bucket, seeds, and other common resources. The player’s health (10 hearts), full hunger bar, and experience level (22) are visible. In the upper right corner, a tutorial hint suggests pressing 'E' to open the inventory. The sky is partly visible through the trees, indicating daytime. No mobs or structures are present in the immediate view."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000095_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from Minecraft gameplay in a taiga or dark forest biome, characterized by tall spruce or dark oak trees and podzol or coarse dirt ground cover with patches of grass and ferns. The player is holding a purple-enchanted shield in their left hand and a block (likely soul soil or soul sand) in their right hand. The player's hotbar shows various items, including a sword, food (probably steak or cooked porkchop), a stack of blocks, and torches. The player wears enchanted Netherite armor and has 25 experience levels, as shown by the experience bar above the hotbar. There is a dirt path winding through the forest, and the ground is scattered with different terrain blocks such as grass, path blocks, and podzol or coarse dirt. The overall lighting suggests it is either dawn, dusk, or in a shaded forest area."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000096_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows the user interface of a furnace in Minecraft. The furnace GUI is open, displaying the process of smelting. In the top input slot, there are oak logs being used as the smelting material. In the bottom fuel slot, sticks are being used as the fuel source. The progress arrow indicates that smelting is in progress, but no finished product has appeared yet in the output slot. The background reveals a crafting table adjacent to the furnace, and flames are visible to the right of the GUI, indicating the furnace is currently burning. The player's inventory is partially visible at the bottom, showing items such as a wooden pickaxe, a stone pickaxe, an axe, coal, oak logs, and sticks. The player’s health and hunger bars are also visible above the hotbar."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000097_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from within the game Minecraft, showing the player standing on a hillside composed of dirt, grass, and path blocks. The player's purple-enchanted shield is visible in the lower left corner, and a similarly enchanted tool (likely a shovel) is held in the right hand. The player is wearing full armor with enchantments, as indicated by the purple glow on the armor parts in the hotbar. There is a body of water to the left, bordered by grassy terrain, and the area further down the hill consists of more grass and dirt blocks, with scattered vegetation and trees. The player has 61 torches, 64 dirt blocks, 32 cobblestone, 33 sticks, and other items in their hotbar. The experience bar at the bottom indicates level 25."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000098_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from within the game Minecraft. The player is standing in or above a dense taiga biome, identifiable by the tall spruce trees and the dark green grass. In the foreground, the player is holding a firework rocket in their right hand and has a shield equipped in their left hand, with both items partially visible. The player is wearing enchanted Netherite armor, as evidenced by the purple shimmer on the armor. The player’s hotbar at the bottom of the screen shows various items, including a sword, pickaxe, food, and fireworks. The experience bar shows the player is at level 25. In the upper right corner, a recipe book hint is visible, prompting the player to craft wooden planks. The sky is clear and blue with large, blocky clouds overhead. The overall scene suggests preparation for flight using the Elytra and fireworks, given the items held and equipped."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000099_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a player's first-person perspective in a forested area. The terrain consists of grassy blocks with some elevation changes and exposed dirt on the sides of certain blocks. The forest prominently features birch trees, identifiable by their distinctive white trunks with black horizontal markings and leafy green canopies. There are also other leafy bushes and vegetation visible around the birch trees. In the background, there are hints of hills and more trees, with some exposed stone and patches of tall grass. The player's inventory bar is visible at the bottom of the screen, showing a crafting table, 8 wooden planks, a stick being held in hand, and a stack of 64 other sticks. The health and hunger bars indicate the player is at full health and full hunger. The sky is partially visible through the trees, suggesting it is daytime in the game."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000100_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person perspective from the game Minecraft, looking upwards inside the canopy of a tree. The view is surrounded by dense, dark green leaf blocks forming the outer edges, with some patches allowing the bright blue sky and clouds to be visible through the gaps. In the center, there is a single wood (log) block that appears to be the top-most part of the tree trunk, surrounded by the leaf blocks. At the bottom of the screen, the Minecraft player’s heads-up display (HUD) is visible, showing the hotbar with various items, including wooden planks, sticks, saplings, dirt blocks, and a stone axe selected. The player's health and hunger bars are also visible, both nearly full. The overall scene suggests the player is either harvesting or exploring the upper part of a tree."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000101_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player is situated beneath a scaffolding structure, looking up through its grid-like pattern. At the bottom left of the screen, a partially raised shield with an enchanted, purple-tinted surface is visible, indicating the player is holding it. The player's hotbar includes various items such as an enchanted netherite pickaxe, enchanted netherite sword, enchanted bow, golden carrots, wool blocks, string, and torches. The player is wearing full enchanted armor, as indicated by the armor bar above the hotbar. The experience bar shows level 35. In the upper right corner, a recipe hint is visible: \"Craft wooden planks. The recipe book can help.\" In the background, there are teal leaves and wood from a warped tree (suggesting a warped forest biome, likely from the Nether). The sky is visible through the scaffolding."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000102_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a nighttime scene from Minecraft in first-person view. The player is standing on a rooftop made of polished granite stairs and white blocks, possibly quartz or concrete, and appears to be in the process of building or placing granite stairs. Gold blocks are visible embedded in the structure to the left. In the background, there is a large, multi-story building made primarily of orange terracotta or acacia planks with stone brick corner pillars, illuminated by torches. Windows line the exterior of the building. Trees and a forested area can be seen in the distance, and the sky is dark, indicating it is night in the game. The player's inventory bar is visible, showing equipped diamond tools, and the player has 25 experience levels with nearly full health and hunger bars."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000103_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from within the game Minecraft, showing the player breaking a birch log block. The player is looking straight down at the top face of a birch log that is in the process of being mined, as evidenced by the breaking animation (cracks) on the block. There is another birch log standing upright nearby, and the player's hand, holding another piece of birch wood, is visible at the bottom of the screen. The ground around is covered in grass blocks, with a body of water with sand and some foliage visible to the left. The health and hunger bars are visible at the bottom of the screen, along with the hotbar, which currently contains birch wood blocks."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000104_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image depicts a scene from the game Minecraft, showing a player exploring an underground cave or mine. The environment is composed mostly of stone and gravel blocks, giving a gray-toned appearance. There is a lit torch placed on the ground ahead, illuminating the immediate area and providing visibility. The player is currently holding iron ore, as indicated by the hotbar at the bottom of the screen, which also shows other items such as torches, stone, cobblestone, sticks, and additional blocks. The player's health (10 hearts), hunger (7 shanks), and experience level (2) are visible in the HUD. The surroundings suggest ongoing mining activity and cave exploration."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000105_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a scene from the game Minecraft, depicting the player's view inside an underground cave system. The area is primarily composed of gray stone blocks with a fairly open layout and uneven surfaces characteristic of natural caves. In the center-right of the image, a lit torch placed on the ground illuminates the surroundings, casting light onto the nearby stone and creating stark shadows. The cave extends further into the darkness ahead, indicating unexplored territory. At the bottom of the image is the Minecraft user interface: the hotbar shows various items including torches, stone pickaxes, apples, and other basic resources. The player's current item equipped is a stone pickaxe, visible on the right side of the screen. The health and hunger bars are full, suggesting the player is in good condition. The environment looks safe at the moment, with no visible hostile mobs nearby."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000106_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from within the game Minecraft. The player is standing on a patch of coarse dirt, surrounded by grass blocks covered with leaves and berries, indicating a sweet berry bush (commonly found in taiga or snowy taiga biomes). To the right of the screen, there are two wooden stairs, likely serving as outdoor seating. The player holds a purple-enchanted shield in their left hand, and is equipped with full netherite armor (some pieces enchanted, as indicated by the purple glow). The hotbar at the bottom displays various items including enchanted weapons, a stack of sweet berries, torches, and food. The player has 25 experience levels and almost full health and hunger bars."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000107_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person perspective screenshot from the game Minecraft. The player is standing on a grass block and is in the process of placing \"Oak Log\" blocks on the ground. There is a row of several horizontally oriented oak logs with the circular end facing the player. The hotbar at the bottom shows various items, including oak logs, sticks, wooden planks, and tools. The player's health and hunger bars are visible, with both being full, and the crosshair is centered on the oak log that is about to be placed. The scene is set in a grassy area, and the player currently holds an oak log in hand."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000108_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view inside the Nether dimension in Minecraft. The environment is dominated by red blocks, specifically Nether Wart Blocks, indicating the player is within or near a Crimson Forest biome. The player’s hotbar displays various items, including enchanted tools and weapons (a pickaxe, sword, and axe), some cooked food (likely cooked chicken), soul torches, gold ingots, and more Nether Wart Blocks. The player's shield, with an enchantment glow, is partially visible in the lower-left corner. The player is at level 35 experience, with full health and full hunger bars, and is wearing enchanted armor. Blue lines and white outlines indicating chunk borders and hitboxes are visible, suggesting chunk/grid visualization is enabled (likely through pressing F3+G or similar debug options). A recipe book tip about crafting wooden planks is present in the top right corner. The atmosphere is dark and enclosed, typical of the Nether, with a mix of solid ground and open spaces in the background."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000109_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, shown from the first-person perspective of the player. The scene takes place in an underground or cave-like environment, with stone blocks making up the walls and floor. A brightly lit torch is placed on the left wall, casting light in the immediate area. On the right side of the image is a crafting table, identifiable by its distinctive checkered and tool-patterned top. The centered crosshair indicates where the player is currently aiming. The bottom of the screen displays the player's heads-up display (HUD), showing the hotbar with various items including torches, blocks, pickaxes, and food. The player's health and hunger bars are each full, and the player is at experience level 2. The environment is dimly lit except for the area illuminated by the torch."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000110_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, taken in a dimly-lit underground or interior environment. In the center of the screen, the player is facing and breaking a crafting table block with a wooden axe, as indicated by the on-screen crosshair and the block particle effects. The player's hotbar at the bottom shows several items, including a shield (equipped in the off-hand), tools, and other inventory items such as coal and planks. The player's health is very low, with only one heart and a half remaining, and the hunger bar is nearly full. The experience bar shows the player is at level 4. The overall environment consists of dark stone blocks, suggesting the player is in a cave or a similarly enclosed area."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000111_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing the player character's inventory and crafting interface open in the foreground. In the background, there is a lit furnace with flames visible, indicating it is currently smelting or cooking an item. The inventory window displays the player's avatar (Steve skin by default) on the left. In the inventory slots, various tools and items are visible, including wooden pickaxes, a wooden sword, wooden axes, and blocks such as Andesite (which the cursor hovers over and is highlighted), Cobblestone, and Dirt. There are also Iron Ingots and Sticks in the hotbar at the bottom. At the very bottom of the screen, the hotbar is partially visible, showing that the player is holding (or has just picked up) an Iron Ingot. The player's health is low (indicated by the red hearts), and the experience level is 3. The setting appears to be underground, likely in a cave or mine, based on the stone walls and the presence of a furnace for smelting ores."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000112_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the video game Minecraft. The player is holding a wooden axe in their right hand. In the foreground, there are three sheep: one white, one gray, and one black, standing on a grassy plains biome near a hillside. To the left in the background, a cow is standing on the slope. There is a small pond to the right, partially surrounded by trees. The sky is partly cloudy with blue patches. The player’s inventory bar at the bottom shows various items, including raw meat, wool, a wooden axe, a wooden pickaxe, and a sapling. In the top right, a notification displays: \"New Recipes Unlocked! Check your recipe book.\""
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000113_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player is standing under a small wooden and cobblestone structure by the water, looking down a wooden bridge with fence railings that stretches across a body of water. There are torches placed on fence posts along the bridge and around the area, providing light. To the left, there is a small sandy shore with more torches, and the edge of a grass-covered landmass. Further in the distance on the right, there is a large glass structure, possibly a greenhouse or enclosed farm, with various plants visible inside. On the left edge, a partially visible large structure made of stone and possibly iron blocks can be seen floating or supported above ground. Trees and other vegetation are visible in the background. The player's inventory hotbar is visible at the bottom of the screen, showing various items including enchanted tools, steak, torches, and arrows. The player's shield is equipped in the left hand, and their right hand is empty. There is also a notification in the top right corner about crafting wooden planks."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000114_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a Minecraft gameplay screenshot showing the player's first-person perspective in a giant taiga (mega taiga) biome, recognizable by its large spruce trees with thick (2x2) trunks and podzol-covered ground. The player's shield is visible in the bottom left corner, and they are holding a firework rocket in their right hand, which is commonly used for flight with Elytra. The player is equipped with enchanted diamond armor and tools, as indicated by the purple glow. In the inventory bar, notable items include rockets, torches, steak, arrows, and a bow. The experience bar shows the player is at level 25. In the top right corner, an advancement prompt suggests crafting wooden planks, noting that the recipe book can help. The environment includes dense trees, patches of podzol, ferns, and a small pond or lake to the left. Some torches are placed on the ground, providing light. The sky is partly cloudy, and the overall scene suggests exploration in a forested biome."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000115_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft, showing a first-person perspective of a player digging a grass block with a shovel. The grass block being broken is at the center of the screen, with breaking animation visible. Around it, there are dirt blocks, some with grass on top and some exposed. A floating dirt block (recently broken) is visible to the right. In the background, there are tall grass plants and a wooden structure, likely part of a player-built house or shelter, as suggested by the vertical wooden planks and a crafting table partially visible in the upper left corner. At the bottom of the screen, the player's hotbar is visible, displaying various items such as blocks of dirt, cobblestone, a wooden shovel (selected), and other tools or materials. The player's health and hunger bars are also displayed, both full."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000116_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image depicts a dimly lit cave or underground area in Minecraft. The player is mining coal ore blocks, as indicated by the black specks on the stone and the dropped coal item on the ground. Additionally, two yellow-green experience orbs are visible, which are typically dropped when coal is mined. The player's inventory bar at the bottom shows torches, coal, stone, tools, and saplings, and the health and hunger bars are mostly full. The player holds a torch in their left hand, which is providing some light, but the area remains mostly dark."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000117_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a nighttime scene from the game Minecraft. It shows the player's first-person perspective as they stand close to a structure made of wooden planks and logs, with a focus on a dark oak stair block and some dark oak planks placed on the grass. To the right, there are tall grass blocks and two torches providing light in the background. The player is holding a Stone Axe, as indicated by the text above the hotbar. The hotbar also displays various inventory items, including planks, sticks, saplings, and tools. The sky is dark, indicating it is night, with some clouds visible. The player's health and hunger bars are both full."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000118_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view from the game Minecraft, where the player is mining in an underground tunnel made of stone blocks. The player is using a stone pickaxe to break a stone block directly in front of them. The tunnel is dimly lit with a torch placed on the left wall, partially visible in the frame. At the bottom of the screen, the player's inventory bar is visible, showing various items including torches, stone blocks, cobblestone, dirt, sticks, redstone, and a stone pickaxe. The player's health and hunger bars are full, and the experience level is 4. The scene suggests the player is engaged in mining or strip mining deep underground."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000119_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows the inventory screen of a player in Minecraft. The player character, visible on the right side of the inventory window, is fully equipped with enchanted diamond armor and holding a diamond pickaxe, also enchanted. The inventory contains various items, including several potions, Ender Pearls, an enchanted bow, enchanted tools, Elytra, food items, and some blocks. The hotbar at the bottom of the screen displays a shield, swords, and other utilities. On the left side of the inventory, the recipe book is open with the crafting section selected, showing recipes for basic tools and blocks. The background environment appears to be the End dimension, with the characteristic dark sky and End Stone terrain, indicating the player is likely preparing for or has just completed an End-related activity. In the top right corner, there is an advancement notification labeled \"Find a tree\" with instructions to punch it to collect wood."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000120_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft. The player's view is looking directly upward at the underside of a tree, with the main focus on a single log block surrounded by leaf blocks. The log block is being broken or mined with a stone axe, as indicated by the breaking animation on the block and the tool visible in the player's hand. Sunlight can be seen filtering through the gaps in the leaves, creating contrasting patches of light and shadow. The player's inventory bar is visible at the bottom of the screen, showing items such as wooden planks, sticks, and various tools. The standard health and hunger bars are also visible above the inventory."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000121_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view from the game Minecraft, specifically in the End dimension, characterized by the light-yellow End Stone terrain and the dark purple sky. The player is confronting an Enderman, identifiable by its black, tall legs visible near the center top of the screen. The player holds a shield in the left hand and a diamond sword labeled \"Brawny Sword\" in the right. The player character is wearing a full set of enchanted diamond armor, as indicated by the hotbar and icons above it. The inventory hotbar shows various items, including ender pearls, food, a water bucket, potions, and building blocks. The player has 33 experience levels. In the top right corner, an advancement tooltip appears, suggesting the player to \"Find a tree\" and \"Punch it to collect wood,\" though this is usually associated with starting a new world and is contextually out of place in the End dimension. The terrain consists of gently sloping End Stone with some small End Stone blocks scattered around."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000122_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, showing the player standing in a cave environment with water flowing across the stone floor. The player's shield is visible on the left side of the screen, and a torch is being held in the right hand. The water appears to be coming from higher ground and flowing down through the cave passage. On the top left, iron ore blocks can be seen embedded in the stone wall. The player's health is very low, with only half a heart remaining, and the hunger bar indicates that three drumsticks are missing. The experience bar shows level 4. The lighting is dim, indicating the area is either underground or not exposed to daylight."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000123_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person perspective screenshot from the game Minecraft. The player is outdoors, walking along a dirt and grass path that leads up to a small house constructed from cobblestone and wood planks, with an A-frame roof. The entrance to the house is illuminated by a torch, and there are red flowers planted nearby. To the right of the path is a lectern, surrounded by four torches on the ground for lighting. There are trees in the background, indicating this area is bordered by forest. The player's inventory bar is visible at the bottom; the selected items include a shield (which is also visible on the left side of the screen), a sword, food items, and tools. The player is equipped with iron armor, as indicated by the armor bar above the inventory. The scene is peaceful, with no visible mobs or threats present."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000124_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a Minecraft gameplay screen where the player has opened a large chest. The chest inventory interface is visible and is almost completely filled with various items. Highlighted in the chest is an item labeled \"Shroomlight.\" Other visible items in the chest include various types of blocks, ores, enchanted books, food items like golden apples, mob drops, and tools. The player's own inventory is visible at the bottom, showing several tools, weapons (including enchanted pickaxes and swords), food items (such as bread), and miscellaneous objects like ender pearls and a fishing rod. The player's held item appears to be a shield, as part of it is visible in the lower left corner. At the top right of the screen, a hint message reads: \"Craft wooden planks. The recipe book can help.\" The player currently has 35 experience levels, and part of their armor and health/hunger bars are visible at the screen bottom."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000125_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view in Minecraft inside an underground tunnel or cave, illuminated by a torch placed on the left wall. The player is mining stone blocks in front of them with an iron pickaxe, as indicated by the position of the pickaxe and the breaking animation on the stone block. The crosshair is centered on the block being mined. The inventory bar at the bottom shows various items including torches, wood, plants, cobblestone, and tools. The player's health and hunger bars are full, suggesting the player is in good condition. The overall lighting is dim, typical of underground mining in Minecraft."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000126_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from within the game Minecraft, specifically in the Nether dimension. The player's hand is holding a block of Blackstone, as indicated by the hotbar. To the left, a shield is equipped. The player stands on a block of Blackstone, facing downward into a narrow corridor lined with Netherrack and Red Nether Bricks. Several pieces of Netherrack are scattered on the ground below, highlighted by white selection outlines. At the far end, an active Nether Portal built from obsidian with a purple swirling center is partially visible on the left. The player’s interface displays full armor and health bars, with experience level at 35. The hotbar contains various items, including enchanted equipment, food, blocks, ender pearls, and soul torches. A recipe tip in the top right corner suggests crafting wooden planks and consulting the recipe book. The environment is dimly lit, with the overall setting indicating mining or construction activity near a Nether Portal."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000127_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, showing the player standing in the Nether dimension. The floor consists of \"crimson nylium\" blocks with some \"warped roots\" or \"crimson roots\" visible, and there's also a patch of dark \"basalt\" blocks forming a path. To the right is a vertical wall of \"obsidian\" blocks, which forms part of a Nether portal that is partially visible and glowing with the characteristic purple portal effect. In the bottom left, the player's shield is partially visible, indicating the player is actively holding it. The player's hotbar displays enchanted diamond or netherite armor and tools, some food (cooked chicken or similar), construction blocks (possibly smooth stone and basalt), and torches. The player currently has 35 levels of experience. In the top right corner, there is an in-game recipe book notification suggesting to craft wooden planks. The overall lighting suggests the portal is active, and the player is likely preparing to travel or has just arrived in the Nether."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000128_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft. The player is holding an enchanted pickaxe and is standing next to a large structure made of polished diorite blocks with stone brick at the base. The player is in the process of mining a stone brick block at the lower edge of the building, as indicated by the breaking animation on the block. The ground around the player consists of grass and some exposed dirt. In the background, there are acacia trees typical of a savanna biome and a hill with a mix of grass and dirt blocks. The player's HUD shows 5.5 hearts of health, 26 experience levels, and items in the hotbar including a diamond pickaxe, an enchanted shovel, and various other blocks and tools."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000129_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a first-person view of a player mining underground in Minecraft. The player is in a narrow tunnel made of stone blocks, illuminated by a torch placed on the left wall. The player is holding an iron pickaxe and is actively mining the stone block directly in front of them, as indicated by the breaking animation on the block. The hotbar at the bottom of the screen displays various items including torches, cobblestone, dirt, sticks, iron pickaxes, and redstone dust. The player's health and hunger bars are full, and they have 4 experience levels. Some stone blocks and item drops are visible on the tunnel floor."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000130_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a screenshot from the game Minecraft showing the player's inventory interface. The player appears to be in the Nether dimension, as inferred from the reddish background and the items in the inventory, such as Netherrack and other Nether blocks. The inventory window is open, revealing the player's equipped armor (including enchanted boots and a helmet), and a skin that features a character with light skin and a purple/blue-green outfit. The hotbar and inventory contain a variety of items including enchanted tools and weapons (pickaxe, sword, shovel, and bow), blocks like Netherrack, Nether Quartz, and Crimson Nylium, as well as potions, food, torches, and other resources. The player has 35 experience levels, as shown by the green bar and number at the bottom of the screen. There is a recipe book open on the left with Nether-related blocks shown, and a hint in the top right corner suggesting, \"Craft wooden planks. The recipe book can help.\" The overall interface suggests the player is exploring or gathering resources within the Nether."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000131_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image shows a Minecraft gameplay interface where the player has opened a crafting table menu. In the center of the screen, the 3x3 crafting grid is visible, as well as the player’s inventory below it. The recipe book icon is present on the left side of the crafting grid. The inventory showcases various items, including oak planks (highlighted), sticks, a wooden pickaxe, a stone pickaxe, iron ingots, and saplings. In the background, to the left, a lit furnace is partially visible with an active fire animation, indicating it is smelting or cooking something. The scene appears to be set in a dimly-lit area, likely a cave or underground, with torches providing illumination. The player's health and hunger bars are visible at the bottom, each showing 7 hearts and 6.5 drumsticks, respectively. The experience bar indicates level 2."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000132_00.jpg"
+    ],
+    "task": "perception"
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an expert in Minecraft, capable of performing task planning, visual question answering, reflection, and executing low-level actions."
+      },
+      {
+        "role": "user",
+        "content": "<image> Describe this image."
+      },
+      {
+        "role": "assistant",
+        "content": "The image is a first-person view from the game Minecraft, showing a player character underwater in an ocean or river biome. Aquatic plants and sea grass are visible growing from the sandy and gravelly sea floor, along with patches of dirt and stone. The blue water stretches into the distance with light filtering from above. The player is wearing armor with an enchanted shield visible on the left and is holding a grass block in their right hand. The player's hotbar is shown at the bottom, containing various items such as potions, tools (including a sword, pickaxe, and shovel), cooked food, blocks, torches, and arrows. The player has 25 experience levels, full health, full hunger, and there are oxygen bubbles indicating their breath level underwater. In the top right, a small icon shows the player has an active effect, possibly related to water breathing or night vision."
+      }
+    ],
+    "images": [
+      "datas/Optimus3/caption/images/caption_000133_00.jpg"
+    ],
+    "task": "perception"
+  }
+]
