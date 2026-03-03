@@ -186,7 +186,7 @@ class Worker(object):
         self.crafting_slotpos = SLOT_POS_INVENTORY_WO_RECIPE
 
     # before opening crafting_table
-    def pre_open_tabel(self, attack_num=20):
+    def pre_open_tabel(self, attack_num=40):
         action = self.env.env.noop_action()
         self.obs, _, _, _, self.info = self._step(action)
         height_1 = self.info['location_stats']['ypos']
