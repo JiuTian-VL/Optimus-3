@@ -27,6 +27,7 @@
 </div>
 
 ## :new: Updates
+- [03/2026] :fire: We release the Optimus-3-v2 on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3-v2).
 - [02/2026] :fire: We release the demo video on [YouTobe](https://www.youtube.com/watch?v=0VOT4PMgf7Y).
 - [06/2025] :fire: We release the Optimus-3-preview on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3).
 - [06/2025] :fire: [Project page](https://cybertronagent.github.io/Optimus-3.github.io/) and code released.
@@ -36,7 +37,7 @@
 ## :smile: Play with Optimus-3
 [![YouTube Demo](https://img.youtube.com/vi/0VOT4PMgf7Y/hqdefault.jpg)](https://www.youtube.com/watch?v=0VOT4PMgf7Y)
 
-We provide an interactive interface that enables users to interact with Optimus-3 in Minecraft in real time through a GUI. You can interact with Optimus-3 through instructions to perform Planning, Long-horizon Actions, Captioning, Embodied QA, and Grounding. This is a framework with a separation between the server and client. You can deploy the model on the server (we strongly recommend a GPU with at least 32GB of VRAM), and then initiate interaction with the server from your local machine at any time.
+We provide an interactive interface that enables users to interact with Optimus-3 in Minecraft in real time through a GUI. You can interact with Optimus-3 through instructions to perform Planning, Long-horizon Actions, Captioning, Embodied QA, and Grounding. This is a framework with a separation between the server and client. You can deploy the model on the server (we strongly recommend a GPU with at least 32GB of VRAM), and then initiate interaction with the server from your local machine at any time. Download the Optimus-3-preview version on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3).
 
 ### Server
 Server are deployed on machines with a GPU with at least 28GB of VRAM.
@@ -114,6 +115,19 @@ python main.py
 # note 
 If you encounter an error about the 'collection', change collections to collections.abc in the corresponding location.
 If you encounter an error about the 'model_type', you can change the model_type (line 22) into "qwen2_5_vl" in /checkpoint/Optimus3/config.json
+```
+
+## :smile_cat: Evaluation on MineSys2 Benchmark
+```shell
+
+# geenrate response in parallel
+## change the MDEEL path to Optimus-3-v2, you can dowmload it on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3-v2)
+bash scripts/optimus3/eval/benchmark_generate.sh
+
+# Evaluation Results
+## For the caption and vqa, we employ MLLM as evaluator.
+## change the ChatGPT api key in JUDGE_API_KEY, and JUDGE_LLM you like.
+bash scripts/optimus3/eval/benchmark_eval.sh
 ```
 
 
