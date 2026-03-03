@@ -27,7 +27,7 @@
 </div>
 
 ## :new: Updates
-- [03/2026] :fire: We release the Optimus-3-v2 on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3-v2).
+- [03/2026] :fire: We release the Optimus-3-v2 ([Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3-v2)) and MineSys2 Benchmark.
 - [02/2026] :fire: We release the demo video on [YouTobe](https://www.youtube.com/watch?v=0VOT4PMgf7Y).
 - [06/2025] :fire: We release the Optimus-3-preview on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3).
 - [06/2025] :fire: [Project page](https://cybertronagent.github.io/Optimus-3.github.io/) and code released.
