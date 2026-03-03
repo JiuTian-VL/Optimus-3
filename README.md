@@ -118,16 +118,18 @@ If you encounter an error about the 'model_type', you can change the model_type 
 ```
 
 ## :smile_cat: Evaluation on MineSys2 Benchmark
+Download the Optimus-3-v2 version on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3-v2).
 ```shell
 
 # geenrate response in parallel
-## change the MDEEL path to Optimus-3-v2, you can dowmload it on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3-v2)
+## change the MODEL path to Optimus-3-v2, you can dowmload it on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3-v2)
 bash scripts/optimus3/eval/benchmark_generate.sh
 
 # Evaluation Results
 ## For the caption and vqa, we employ MLLM as evaluator.
 ## change the ChatGPT api key in JUDGE_API_KEY, and JUDGE_LLM you like.
 bash scripts/optimus3/eval/benchmark_eval.sh
+
 ```
 
 
