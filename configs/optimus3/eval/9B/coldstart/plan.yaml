@@ -1,0 +1,12 @@
+### model
+model_name_or_path: optimus3 model dir
+image_max_pixels: 234416
+video_max_pixels: 16384
+trust_remote_code: true
+flash_attn: fa2
+
+### eval
+task: datas/Optimus3/benchmark/plan/plan_103.json
+batch_size: 32
+save_dir: output/eval/optimus3/plan.json
+task_type: plan

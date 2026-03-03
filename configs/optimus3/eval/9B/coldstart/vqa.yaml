@@ -1,0 +1,13 @@
+### model
+model_name_or_path: /data7/Users/xyq/developer/MinecraftOptimus/checkpoints/Optimus3/train/optimus3-9B/coldstart/20251215_9B_coldstart_plan_vqa_caption_thinkinggrounding_reflection_bs8_ga16_lr3e-5_epoch2/checkpoint-266
+
+image_max_pixels: 234416
+video_max_pixels: 16384
+trust_remote_code: true
+flash_attn: fa2
+
+### eval
+task: datas/Optimus3/benchmark/vqa/vqa_400.json
+batch_size: 16
+save_dir: output/eval/optimus3/vqa.json
+task_type: vqa
