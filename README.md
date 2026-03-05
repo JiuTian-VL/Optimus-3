@@ -54,13 +54,13 @@ We provide an interactive interface that enables users to interact with Optimus-
 > [!TIP]
 > **Action rule:** Planning must precede action. Then simply click **Action** — no further instructions required.
 
-| Mode | Icon | Example | Description |
-|---|---:|---|---|
-| Planning | 🧠 | `get a xxx` | Plan the steps before taking actions. |
-| Captioning | 🖼️ | `describe this view` | Describe what you see in the current view. |
-| EQA | ❓ | `how many xxx` | Answer questions about the environment. |
-| Grounding | 🎯 | `locate the xxx` | Locate objects / regions in the view. |
-| Action | 🖱️ | *(click / interact)* | Execute the planned actions. |
+| Mode |  Example | Description |
+|---|---|---|
+|🧠 Planning  | `get a xxx` | Plan the steps before taking actions. |
+|🖼️ Captioning  | `describe this view` | Describe what you see in the current view. |
+|❓ EQA  | `how many xxx` | Answer questions about the environment. |
+|🎯 Grounding  | `locate the xxx` | Locate objects / regions in the view. |
+|🖱️ Action  | *(click / interact)* | Execute the planned actions. |
 
 #### Controls
 - ⏸️ **Pause**: pause to switch tasks.
