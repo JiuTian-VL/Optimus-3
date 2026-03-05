@@ -49,14 +49,22 @@ Given the task "Craft a diamond sword based on the current inventory", Optimus-3
 
 We provide an interactive interface that enables users to interact with Optimus-3 in Minecraft in real time through a GUI. You can interact with Optimus-3 through instructions to perform Planning, Long-horizon Actions, Captioning, Embodied QA, and Grounding. This is a framework with a separation between the server and client. You can deploy the model on the server (we strongly recommend a GPU with at least 32GB of VRAM), and then initiate interaction with the server from your local machine at any time. Download the Optimus-3-preview version on [Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3).
 
-### Instruction
--Planning: "get a xxx"
--Captioning: "describe this view"
--EQA: "how many xxx"
--Grounding: "locate the xxx"
--Action: Planning must precede action. Then simply click action—no further instructions are required.
--Pause: Pause to switch tasks.
--Reset: Reset the environment, the agent's position will be randomly initialized.
+### Instructions
+
+> [!TIP]
+> **Action rule:** Planning must precede action. Then simply click **Action** — no further instructions required.
+
+| Mode | Icon | Example | Description |
+|---|---:|---|---|
+| Planning | 🧠 | `get a xxx` | Plan the steps before taking actions. |
+| Captioning | 🖼️ | `describe this view` | Describe what you see in the current view. |
+| EQA | ❓ | `how many xxx` | Answer questions about the environment. |
+| Grounding | 🎯 | `locate the xxx` | Locate objects / regions in the view. |
+| Action | 🖱️ | *(click / interact)* | Execute the planned actions. |
+
+#### Controls
+- ⏸️ **Pause**: pause to switch tasks.
+- 🔄 **Reset**: reset the environment (agent position will be randomly initialized).
 
 
 ### Server
