@@ -166,10 +166,15 @@ bash scripts/optimus3/eval/benchmark_eval.sh
 Given a task pool, we utilize a knowledge graph to generate task plans, forming the planning dataset. These plans are then used as instructions for STEVE-1, which interacts with the environment to produce the action dataset. During this process, we randomly sample images and employ expert models with environmental feedback to generate the captioning, embodied QA, and grounding datasets.
 
 
-## :balloon: Framework
+## 🧩 Framework
 
 <img src="./assets/fig3.png" >
-A: Overview of Optimus-3. Given observations and instructions, Optimus-3 couples System-1 fast reaction (Action) and System-2 deliberate reasoning (Embodied QA, Planning, Grounding, Reflection) within the Dual-Router Aligned MoE architecture. B: The details of Dual-Router Aligned MoE architecture. Horizontally, Task Router assigns each input to its corresponding task expert together with a shared knowledge expert. Vertically, Layer Router accelerates latency-sensitive action inference by selectively skipping intermediate layers. Both routing decisions are made once before the forward pass. C: Performance comparison of Optimus-3 against current task-specific SOTA agents, GPT-4o, and Qwen2.5-VL
+A: Overview of Optimus-3. Given observations and instructions, Optimus-3 couples System-1 fast reaction (Action) and System-2 deliberate reasoning (Embodied QA, Planning, Grounding, Reflection) within the Dual-Router Aligned MoE architecture. B: The details of Dual-Router Aligned MoE architecture. Horizontally, Task Router assigns each input to its corresponding task expert together with a shared knowledge expert. Vertically, Layer Router accelerates latency-sensitive action inference by selectively skipping intermediate layers. Both routing decisions are made once before the forward pass. C: Performance comparison of Optimus-3 against current task-specific SOTA agents, GPT-4o, and Qwen2.5-VL.
+
+## 🌳 Dual-Granularity Reasoning-Aware Policy Optimization
+
+<img src="./assets/fig4.png" >
+Visualization examples of the task-specific fine-grained reward functions in DGRPO. For the Planning task, we design a Dependency-Aware Synthesis Reward, which treats the item's crafting dependency path as thinking reward and assigns fine-grained step-wise supervision as answer reward. For vision-related tasks, we introduce a Hallucination-Aware Consistency Reward that penalizes hallucinated items in the reasoning process and the final answer.
 
 
 ## :smile_cat: Evaluation results
