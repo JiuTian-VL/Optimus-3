@@ -28,7 +28,7 @@
     <a href="https://huggingface.co/datasets/MinecraftOptimus/OptimusM4" target="_blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-Dataset-blue" alt="Hugging Face Dataset"></a>
 </div>
-
+</div>
 ## :new: Updates
 - [03/2026] :fire: We release the OptimusM4 Dataset on [Huggingface](https://huggingface.co/datasets/MinecraftOptimus/OptimusM4).
 - [03/2026] :fire: We release the Optimus-3-v2 ([Huggingface](https://huggingface.co/MinecraftOptimus/Optimus-3-v2)) and MineSys2 Benchmark.
