@@ -24,12 +24,12 @@
     <a href="https://cybertronagent.github.io/Optimus-3.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Project-Optimus--3-9cf" alt="Project Page"></a>
     
-     <a href="https://huggingface.co/MinecraftOptimus/Optimus-3-v2" target="_blank">
+    <a href="https://huggingface.co/MinecraftOptimus/Optimus-3-v2" target="_blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-Model-yellow" alt="Hugging Face Model">
      </a>
 
   
-     <a href="https://huggingface.co/datasets/MinecraftOptimus/OptimusM4" target="_blank">
+    <a href="https://huggingface.co/datasets/MinecraftOptimus/OptimusM4" target="_blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-Dataset-blue" alt="Hugging Face Dataset">
      </a>
 </div>
